@@ -524,35 +524,38 @@ function drawMap(){
 }
 drawMap();
 
-// ── INDICES FINANCIERS (Yahoo Finance via proxy) ──
+// ── INDICES FINANCIERS — lus depuis indices.json généré par GitHub Actions ──
 async function loadIndices(){
-  const symbols=[
-    {sym:'EURUSD=X',elVal:'idx-eurusd',elD:'idx-eurusd-d',fmt:v=>v.toFixed(4)},
-    {sym:'%5ESOX',elVal:'idx-sox',elD:'idx-sox-d',fmt:v=>Math.round(v).toLocaleString('fr-FR')},
-    {sym:'%5ENDX',elVal:'idx-ndx',elD:'idx-ndx-d',fmt:v=>Math.round(v).toLocaleString('fr-FR')},
-  ];
-  for(const s of symbols){
-    try{
-      const url=`https://query1.finance.yahoo.com/v8/finance/chart/${s.sym}?interval=1d&range=2d`;
-      const proxy=`https://corsproxy.io/?${encodeURIComponent(url)}`;
-      const res=await fetch(proxy);
-      const data=await res.json();
-      const meta=data.chart.result[0].meta;
-      const price=meta.regularMarketPrice;
-      const prev=meta.chartPreviousClose||meta.previousClose||price;
-      const pct=((price-prev)/prev*100);
-      document.getElementById(s.elVal).textContent=s.fmt(price);
-      const dEl=document.getElementById(s.elD);
-      dEl.textContent=(pct>=0?'+':'')+pct.toFixed(2)+'%';
-      dEl.className='idx-delta '+(pct>=0?'up':'dn');
-    }catch(e){
-      document.getElementById(s.elVal).textContent='N/D';
+  try{
+    const res=await fetch('indices.json?t='+Date.now());
+    if(!res.ok) throw new Error('indices.json absent');
+    const d=await res.json();
+
+    function setIdx(elVal,elD,val,pct){
+      document.getElementById(elVal).textContent=val;
+      const dEl=document.getElementById(elD);
+      if(pct!==null){
+        dEl.textContent=(pct>=0?'+':'')+pct.toFixed(2)+'%';
+        dEl.className='idx-delta '+(pct>=0?'up':'dn');
+      }
     }
+    if(d.eurusd) setIdx('idx-eurusd','idx-eurusd-d',d.eurusd.price.toFixed(4),d.eurusd.pct);
+    if(d.sox)    setIdx('idx-sox','idx-sox-d',Math.round(d.sox.price).toLocaleString('fr-FR'),d.sox.pct);
+    if(d.ndx)    setIdx('idx-ndx','idx-ndx-d',Math.round(d.ndx.price).toLocaleString('fr-FR'),d.ndx.pct);
+
+    const upd=d.updated?new Date(d.updated):null;
+    document.getElementById('idx-signal').textContent=
+      'Yahoo Finance · '+(upd?upd.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'})+' UTC':'—')+' · Robot GitHub Actions';
+  }catch(e){
+    // indices.json pas encore généré
+    ['idx-eurusd','idx-sox','idx-ndx'].forEach(id=>{
+      document.getElementById(id).textContent='—';
+    });
+    document.getElementById('idx-signal').textContent='Indices : en attente de la première exécution du robot.';
   }
-  document.getElementById('idx-signal').textContent='Données Yahoo Finance · Actualisées à l\'ouverture';
 }
 loadIndices();
-setInterval(loadIndices, 5*60*1000); // refresh toutes les 5 min
+setInterval(loadIndices,15*60*1000);
 
 // ── FLUX RSS ──
 // ── CATÉGORISATION ──
@@ -590,12 +593,16 @@ function renderItems(items,containerId,maxItems,isNews){
   const slice=items.slice(0,maxItems);
   container.innerHTML=slice.map((item,i)=>{
     const cat=catFromTitle(item.title);
+    const fiab=item.fiabilite||'moyenne';
+    const nb=item.sources_count||1;
+    const fiabColor=fiab==='élevée'?'var(--green)':'var(--ink3)';
+    const meta=`${item.source} · ${timeAgo(item.date)} · ${nb} source${nb>1?'s':''} · Fiabilité <span style="color:${fiabColor};font-weight:500;">${fiab}</span>`;
     return`<a class="news-item" href="${item.link}" target="_blank" rel="noopener">
       <div class="news-num">${String(i+1).padStart(2,'0')}</div>
       <div class="news-cat ${cat.cls}">${cat.label}</div>
       <div style="flex:1">
         <div class="news-title">${i<2?'<span class="hot-marker"></span>':''}${item.title}</div>
-        <div class="news-meta">${item.source} · ${timeAgo(item.date)}</div>
+        <div class="news-meta">${meta}</div>
       </div>
       <span style="font-size:11px;color:var(--ink3);margin-top:2px;flex-shrink:0;">&#8599;</span>
     </a>`;
