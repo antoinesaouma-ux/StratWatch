@@ -555,86 +555,84 @@ loadIndices();
 setInterval(loadIndices, 5*60*1000); // refresh toutes les 5 min
 
 // ── FLUX RSS ──
-const RSS_SOURCES=[
-  {url:'https://feeds.reuters.com/reuters/technologyNews',label:'Reuters Tech',catFn:t=>catFromTitle(t)},
-  {url:'https://www.silicon.fr/feed',label:'Silicon.fr',catFn:t=>catFromTitle(t)},
-  {url:'https://www.zdnet.fr/feeds/rss/',label:'ZDNet FR',catFn:t=>catFromTitle(t)},
-  {url:'https://www.lemondeinformatique.fr/flux-rss/thematique-toute-l-actualite.xml',label:'LMI',catFn:t=>catFromTitle(t)},
-];
-
-const RSS_REGUL=[
-  {url:'https://www.legifrance.gouv.fr/atom/jorf.xml',label:'Legifrance'},
-  {url:'https://www.ssi.gouv.fr/feed/',label:'ANSSI'},
-];
-
+// ── CATÉGORISATION ──
 function catFromTitle(t){
   const tl=t.toLowerCase();
-  if(/guerre|conflit|militaire|frappe|attaque|nato|otan|armée|ukraine|taiwan|détroit/.test(tl))return{label:'CONFLIT',cls:'cat-conflit'};
-  if(/rgpd|nis2|dora|ai act|sapin|csrd|régleme|directive|loi |décret|comman|vigilance/.test(tl))return{label:'RÉGLEMENTATION',cls:'cat-regul'};
-  if(/géopol|sanction|embargo|taïwan|russie|chine|iran|corée/.test(tl))return{label:'GÉOPOLITIQUE',cls:'cat-geo'};
+  if(/guerre|conflit|militaire|frappe|attaque|nato|otan|arm[ée]e|ukraine|taiwan|détroit|offensive|cessez/.test(tl))return{label:'CONFLIT',cls:'cat-conflit'};
+  if(/rgpd|nis2|dora|ai act|sapin|csrd|cs3d|régleme|directive|loi |décret|comman|vigilance|conformit/.test(tl))return{label:'RÉGLEMENTATION',cls:'cat-regul'};
+  if(/géopol|sanction|embargo|taïwan|russie|chine|iran|cor[ée]e|tensions|diplomati/.test(tl))return{label:'GÉOPOLITIQUE',cls:'cat-geo'};
   if(/cloud|aws|azure|gcp|google cloud|hébergement|datacenter/.test(tl))return{label:'CLOUD',cls:''};
-  if(/cyber|sécurité|ransomware|patch|vulnérabil|cve|pirate|hack/.test(tl))return{label:'CYBER',cls:''};
-  if(/ia |intelligence artificielle|llm|gpt|machine learning|openai|anthropic|mistral/.test(tl))return{label:'IA',cls:''};
-  if(/semi.conducteur|nvidia|tsmc|intel|amd|chip|wafer/.test(tl))return{label:'SEMI',cls:''};
+  if(/cyber|sécurité|ransomware|patch|vulnérabil|cve|pirate|hack|phishing/.test(tl))return{label:'CYBER',cls:''};
+  if(/\bia\b|intelligence artificielle|llm|gpt|machine learning|openai|anthropic|mistral|copilot/.test(tl))return{label:'IA',cls:''};
+  if(/semi.conducteur|nvidia|tsmc|intel|amd|chip|wafer|composant/.test(tl))return{label:'SEMI',cls:''};
   if(/saas|logiciel|licence|microsoft|oracle|salesforce|sap|servicenow/.test(tl))return{label:'SAAS',cls:''};
   if(/achat|sourcing|contrat|négociation|appel d.offre|fournisseur|procurement/.test(tl))return{label:'ACHATS',cls:''};
   return{label:'IT',cls:''};
 }
 
 function timeAgo(dateStr){
+  if(!dateStr)return'—';
   const d=new Date(dateStr),now=new Date();
   const diff=Math.floor((now-d)/1000);
+  if(isNaN(diff)||diff<0)return'Récent';
   if(diff<3600)return`Il y a ${Math.floor(diff/60)} min`;
   if(diff<86400)return`Il y a ${Math.floor(diff/3600)}h`;
   if(diff<172800)return'Hier';
   return d.toLocaleDateString('fr-FR',{day:'numeric',month:'short'});
 }
 
-async function loadRSS(sources,containerId,maxItems=8){
+function renderItems(items,containerId,maxItems,isNews){
   const container=document.getElementById(containerId);
-  let allItems=[];
-  for(const src of sources){
-    try{
-      const apiUrl=`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(src.url)}&count=6`;
-      const res=await fetch(apiUrl);
-      const data=await res.json();
-      if(data.items){
-        data.items.forEach(item=>{
-          allItems.push({title:item.title,link:item.link,date:item.pubDate,source:src.label,cat:src.catFn(item.title)});
-        });
-      }
-    }catch(e){}
-  }
-  // tri par date décroissante
-  allItems.sort((a,b)=>new Date(b.date)-new Date(a.date));
-  allItems=allItems.slice(0,maxItems);
-
-  if(allItems.length===0){
-    container.innerHTML='<div class="news-loading">Flux RSS indisponibles — vérifier la connexion.</div>';
+  if(!items||items.length===0){
+    container.innerHTML='<div class="news-loading">Aucun article disponible — le robot tourne toutes les heures.</div>';
     return;
   }
-
-  container.innerHTML=allItems.map((item,i)=>`
-    <a class="news-item" href="${item.link}" target="_blank" rel="noopener">
+  const slice=items.slice(0,maxItems);
+  container.innerHTML=slice.map((item,i)=>{
+    const cat=catFromTitle(item.title);
+    return`<a class="news-item" href="${item.link}" target="_blank" rel="noopener">
       <div class="news-num">${String(i+1).padStart(2,'0')}</div>
-      <div class="news-cat ${item.cat.cls}">${item.cat.label}</div>
+      <div class="news-cat ${cat.cls}">${cat.label}</div>
       <div style="flex:1">
         <div class="news-title">${i<2?'<span class="hot-marker"></span>':''}${item.title}</div>
         <div class="news-meta">${item.source} · ${timeAgo(item.date)}</div>
       </div>
       <span style="font-size:11px;color:var(--ink3);margin-top:2px;flex-shrink:0;">&#8599;</span>
-    </a>`).join('');
-
-  if(containerId==='news-list'){
-    document.getElementById('kpi-articles').textContent=allItems.length;
-    document.getElementById('kpi-articles-sub').textContent='sources actives';
+    </a>`;
+  }).join('');
+  if(isNews){
+    document.getElementById('kpi-articles').textContent=slice.length;
+    document.getElementById('kpi-articles-sub').textContent='articles chargés';
   }
 }
 
-loadRSS(RSS_SOURCES,'news-list',8);
-loadRSS(RSS_REGUL,'regul-news-list',6);
-setInterval(()=>loadRSS(RSS_SOURCES,'news-list',8), 10*60*1000);
-setInterval(()=>loadRSS(RSS_REGUL,'regul-news-list',6), 15*60*1000);
+// ── CHARGEMENT DEPUIS news.json (généré par GitHub Actions) ──
+async function loadNews(){
+  try{
+    const res=await fetch('news.json?t='+Date.now());
+    if(!res.ok)throw new Error('news.json introuvable');
+    const data=await res.json();
+
+    renderItems(data.news||[],'news-list',8,true);
+    renderItems(data.regul||[],'regul-news-list',6,false);
+
+    // Afficher la date de dernière mise à jour
+    if(data.updated){
+      const upd=new Date(data.updated);
+      document.getElementById('idx-signal').textContent=
+        'Actualités : '+upd.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'})+' UTC · Robot GitHub Actions';
+    }
+  }catch(e){
+    // news.json pas encore généré (premier déploiement)
+    document.getElementById('news-list').innerHTML=
+      '<div class="news-loading">news.json en cours de génération — revenez dans 1 heure ou lancez le robot manuellement dans GitHub Actions.</div>';
+    document.getElementById('regul-news-list').innerHTML=
+      '<div class="news-loading">En attente de la première exécution du robot.</div>';
+  }
+}
+
+loadNews();
+setInterval(loadNews, 15*60*1000); // refresh toutes les 15 min
 
 // ── WATCHLIST ──
 const STORAGE_KEY='stratwatch_vendors';
