@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-18T13:32:21.223045+00:00",
+  "updated": "2026-05-18T16:17:34.967434+00:00",
   "news": [
+    {
+      "title": "Edge et les mots de passe : Microsoft exclut tout bug mais corrige quand même",
+      "link": "https://www.silicon.fr/cybersecurite-1371/microsoft-edge-mots-passe-227193",
+      "date": "Mon, 18 May 2026 16:01:23 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Claude Mythos : Anthropic va briefer les banques centrales du G20",
+      "link": "https://www.silicon.fr/cybersecurite-1371/claude-mythos-anthropic-va-briefer-les-banques-centrales-du-g20-227194",
+      "date": "Mon, 18 May 2026 15:02:53 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Gestion des processus métier : un socle se dessine pour les IA",
       "link": "https://www.silicon.fr/data-ia-1372/gestion-processus-metier-magic-quadrant-2026-227183",
@@ -29,22 +45,6 @@
       "title": "IA marketing : Publicis rachète LiveRamp pour 2,2 milliards $",
       "link": "https://www.silicon.fr/business-1367/ia-marketing-publicis-rachete-liveramp-pour-22-milliards-227173",
       "date": "Mon, 18 May 2026 09:40:58 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Les bug bountys, saturés par les agents IA",
-      "link": "https://www.silicon.fr/cybersecurite-1371/bug-bountys-agents-ia-227168",
-      "date": "Mon, 18 May 2026 08:58:47 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Debian passe finalement aux builds reproductibles",
-      "link": "https://www.silicon.fr/open-source-1375/debian-builds-reproductibles-227161",
-      "date": "Fri, 15 May 2026 16:25:46 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
