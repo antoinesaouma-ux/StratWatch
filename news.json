@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-19T14:33:14.024425+00:00",
+  "updated": "2026-05-19T17:32:58.176408+00:00",
   "news": [
+    {
+      "title": "Dell prend l’IA locale sous l’angle de la maîtrise des coûts",
+      "link": "https://www.silicon.fr/data-ia-1372/dell-ia-locale-227219",
+      "date": "Tue, 19 May 2026 16:14:31 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "KPMG déploie Claude chez ses 276 000 collaborateurs",
+      "link": "https://www.silicon.fr/business-1367/kpmg-deploie-claude-chez-ses-276-000-collaborateurs-227233",
+      "date": "Tue, 19 May 2026 15:48:53 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Procès OpenAI : Elon Musk perd mais Sam Altman ne sort pas indemne",
+      "link": "https://www.silicon.fr/business-1367/proces-openai-elon-musk-perd-mais-sam-altman-ne-sort-pas-indemne-227223",
+      "date": "Tue, 19 May 2026 14:37:24 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Mistral AI se renforce dans l’IA industrielle avec l’acquisition d’Emmi AI",
       "link": "https://www.silicon.fr/business-1367/mistral-ai-se-renforce-dans-lia-industrielle-avec-lacquisition-demmi-ai-227218",
@@ -21,30 +45,6 @@
       "title": "Akamai rachète LayerX pour sécuriser l’IA dans le navigateur",
       "link": "https://www.silicon.fr/business-1367/akamai-rachete-layerx-pour-securiser-lia-dans-le-navigateur-227210",
       "date": "Tue, 19 May 2026 12:18:18 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Edge et les mots de passe : Microsoft exclut tout bug mais corrige quand même",
-      "link": "https://www.silicon.fr/cybersecurite-1371/microsoft-edge-mots-passe-227193",
-      "date": "Mon, 18 May 2026 16:01:23 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Claude Mythos : Anthropic va briefer les banques centrales du G20",
-      "link": "https://www.silicon.fr/cybersecurite-1371/claude-mythos-anthropic-va-briefer-les-banques-centrales-du-g20-227194",
-      "date": "Mon, 18 May 2026 15:02:53 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Gestion des processus métier : un socle se dessine pour les IA",
-      "link": "https://www.silicon.fr/data-ia-1372/gestion-processus-metier-magic-quadrant-2026-227183",
-      "date": "Mon, 18 May 2026 13:30:51 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
