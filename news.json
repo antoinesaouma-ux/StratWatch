@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-20T13:29:58.319202+00:00",
+  "updated": "2026-05-20T16:43:54.840512+00:00",
   "news": [
+    {
+      "title": "Kyutai et ELLIS Tübingen lancent KE:SAI, un labo européen dédié à l’IA physique",
+      "link": "https://www.silicon.fr/data-ia-1372/kyutai-et-ellis-institute-lancent-kesai-un-labo-dedie-ia-physique-et-robotique-227275",
+      "date": "Wed, 20 May 2026 14:05:31 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’IA, une lente mue pour Google Search… sauf en France",
+      "link": "https://www.silicon.fr/data-ia-1372/lia-une-lente-mue-pour-google-search-sauf-en-france-227243",
+      "date": "Wed, 20 May 2026 13:43:23 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Les IA de sécurité, nouvelles cibles de l’injection de prompt",
       "link": "https://www.silicon.fr/cybersecurite-1371/les-ia-de-securite-nouvelles-cibles-de-linjection-de-prompt-227263",
@@ -29,22 +45,6 @@
       "title": "Alstom : dix ans de migration vers le Zero Trust",
       "link": "https://www.silicon.fr/cybersecurite-1371/alstom-dix-ans-de-migration-vers-le-zero-trust-227207",
       "date": "Wed, 20 May 2026 10:53:36 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Bull installe les supercalculateurs d’Airbus",
-      "link": "https://www.silicon.fr/cloud-1370/bull-installe-les-supercalculateurs-dairbus-227250",
-      "date": "Wed, 20 May 2026 10:48:15 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Dell prend l’IA locale sous l’angle de la maîtrise des coûts",
-      "link": "https://www.silicon.fr/data-ia-1372/dell-ia-locale-227219",
-      "date": "Tue, 19 May 2026 16:14:31 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
