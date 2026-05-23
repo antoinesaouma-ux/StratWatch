@@ -1,6 +1,54 @@
 {
-  "updated": "2026-05-23T11:53:45.906689+00:00",
+  "updated": "2026-05-23T12:57:34.505227+00:00",
   "news": [
+    {
+      "title": "Productivité : voici cinq changements stratégiques pour tirer pleinement parti de l'IA",
+      "link": "https://www.zdnet.fr/pratique/productivite-voici-cinq-changements-strategiques-pour-tirer-pleinement-parti-de-lia-495433.htm#xtor=123456",
+      "date": "ven, 22 Mai 2026 17:40:46 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test BOOX Go 10.3 (Gen II) Lumi : une tablette à encre électronique au top pour prendre des notes… mais après un apprentissage exigeant",
+      "link": "https://www.zdnet.fr/guide-achat/test-boox-go-10-3-gen-ii-lumi-une-tablette-a-encre-electronique-au-top-pour-prendre-des-notes-mais-apres-un-apprentissage-exigeant-495430.htm#xtor=123456",
+      "date": "ven, 22 Mai 2026 11:37:05 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "TCL ou Hisense : quelle marque TV offre le meilleur rapport qualité-image ?",
+      "link": "https://www.zdnet.fr/guide-achat/tcl-ou-hisense-quelle-marque-tv-offre-le-meilleur-rapport-qualite-image-495416.htm#xtor=123456",
+      "date": "sam, 23 Mai 2026 14:02:10 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Vous utilisez Android Auto ? Ces 4 réglages sont indispensables",
+      "link": "https://www.zdnet.fr/pratique/vous-utilisez-android-auto-ces-4-reglages-sont-indispensables-495411.htm#xtor=123456",
+      "date": "sam, 23 Mai 2026 09:03:52 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test Sony 1000X The Collexion : un nouveau casque haut de gamme qui incarne le luxe pratique",
+      "link": "https://www.zdnet.fr/guide-achat/test-sony-1000x-the-collexion-un-nouveau-casque-haut-de-gamme-qui-incarne-le-luxe-pratique-495356.htm#xtor=123456",
+      "date": "jeu, 21 Mai 2026 15:41:11 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Web pratique : six raisons pour lesquelles Firefox est le meilleur navigateur pour la plupart des gens",
+      "link": "https://www.zdnet.fr/guide-achat/web-pratique-six-raisons-pour-lesquelles-firefox-est-le-meilleur-navigateur-pour-la-plupart-des-gens-495353.htm#xtor=123456",
+      "date": "jeu, 21 Mai 2026 13:41:06 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Les modèles de fondation tabulaires émergent en alternative au ML",
       "link": "https://www.silicon.fr/data-ia-1372/modeles-fondation-tabulaires-227322",
