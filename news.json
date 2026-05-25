@@ -1,18 +1,10 @@
 {
-  "updated": "2026-05-25T07:01:28.648291+00:00",
+  "updated": "2026-05-25T11:42:01.252794+00:00",
   "news": [
     {
       "title": "Productivité : voici cinq changements stratégiques pour tirer pleinement parti de l'IA",
       "link": "https://www.zdnet.fr/pratique/productivite-voici-cinq-changements-strategiques-pour-tirer-pleinement-parti-de-lia-495433.htm#xtor=123456",
       "date": "ven, 22 Mai 2026 17:40:46 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test BOOX Go 10.3 (Gen II) Lumi : une tablette à encre électronique au top pour prendre des notes… mais après un apprentissage exigeant",
-      "link": "https://www.zdnet.fr/guide-achat/test-boox-go-10-3-gen-ii-lumi-une-tablette-a-encre-electronique-au-top-pour-prendre-des-notes-mais-apres-un-apprentissage-exigeant-495430.htm#xtor=123456",
-      "date": "ven, 22 Mai 2026 11:37:05 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -34,6 +26,14 @@
       "sources_count": 3
     },
     {
+      "title": "Test Microsoft Surface Pro pour les entreprises 13'' (12e édition) : une  tablette 2-en-1 qui se distingue avec une fonctionnalité très utile pour les professionnels",
+      "link": "https://www.zdnet.fr/guide-achat/test-microsoft-surface-pro-pour-les-entreprises-13-12e-edition-une-tablette-2-en-1-qui-se-distingue-avec-une-fonctionnalite-tres-utile-pour-les-professionnels-495476.htm#xtor=123456",
+      "date": "lun, 25 Mai 2026 11:31:09 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Comment j'ai rendu les widgets Windows 11 vraiment utiles : 8 réglages simples à essayer",
       "link": "https://www.zdnet.fr/pratique/comment-jai-rendu-les-widgets-windows-11-vraiment-utiles-8-reglages-simples-a-essayer-495449.htm#xtor=123456",
       "date": "dim, 24 Mai 2026 14:02:39 +0200",
@@ -50,9 +50,33 @@
       "sources_count": 3
     },
     {
-      "title": "Les modèles de fondation tabulaires émergent en alternative au ML",
-      "link": "https://www.silicon.fr/data-ia-1372/modeles-fondation-tabulaires-227322",
-      "date": "Thu, 21 May 2026 16:52:36 +0000",
+      "title": "Nvidia investit dans Alice & Bob",
+      "link": "https://www.silicon.fr/business-1367/nvidia-investit-dans-alice-bob-227374",
+      "date": "Mon, 25 May 2026 11:17:44 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’IA transforme les processus métier : venez écouter ceux qui le vivent",
+      "link": "https://www.silicon.fr/data-ia-1372/lia-transforme-les-processus-metier-venez-ecouter-ceux-qui-le-vivent-227367",
+      "date": "Mon, 25 May 2026 11:01:26 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "IA et énergie : ce que les chiffres confirment et ce qu’ils nuancent",
+      "link": "https://www.silicon.fr/data-ia-1372/ia-et-energie-ce-que-les-chiffres-confirment-et-ce-quils-nuancent-227363",
+      "date": "Mon, 25 May 2026 09:56:39 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "IA : comment éviter le piège de la productivité ?",
+      "link": "https://www.silicon.fr/data-ia-1372/ia-comment-eviter-le-piege-de-la-productivite-227360",
+      "date": "Mon, 25 May 2026 09:06:32 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -69,30 +93,6 @@
       "title": "Infrastructures LAN : une gestion plus assistée qu’automatisée",
       "link": "https://www.silicon.fr/data-ia-1372/infrastructures-lan-magic-quadrant-2026-227343",
       "date": "Fri, 22 May 2026 13:45:35 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Zscaler rachète Symmetry Systems pour sécuriser les agents IA",
-      "link": "https://www.silicon.fr/cybersecurite-1371/zscaler-rachete-symmetry-systems-pour-securiser-les-agents-ia-227341",
-      "date": "Fri, 22 May 2026 10:59:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Mister IA lève 10 millions € pour accélérer en France et en Europe",
-      "link": "https://www.silicon.fr/emploi-formation-1373/mister-ia-leve-10-millions-e-pour-accelerer-en-france-et-en-europe-227339",
-      "date": "Fri, 22 May 2026 09:44:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Accessibilité numérique : ce qui coince encore selon le Cigref",
-      "link": "https://www.silicon.fr/business-1367/accessibilite-numerique-cigref-227333",
-      "date": "Fri, 22 May 2026 09:13:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
