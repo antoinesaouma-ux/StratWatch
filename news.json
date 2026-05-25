@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T11:42:01.252794+00:00",
+  "updated": "2026-05-25T14:31:34.289896+00:00",
   "news": [
     {
       "title": "Productivité : voici cinq changements stratégiques pour tirer pleinement parti de l'IA",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "IA : Léon XIV appelle à la « désarmer »",
+      "link": "https://www.silicon.fr/business-1367/ia-quand-leon-xiv-appelle-a-la-desarmer-227378",
+      "date": "Mon, 25 May 2026 13:14:48 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Nvidia investit dans Alice & Bob",
       "link": "https://www.silicon.fr/business-1367/nvidia-investit-dans-alice-bob-227374",
       "date": "Mon, 25 May 2026 11:17:44 +0000",
@@ -85,14 +93,6 @@
       "title": "SpaceX : derrière les fusées, l’IA est le vrai moteur",
       "link": "https://www.silicon.fr/business-1367/spacex-derriere-les-fusees-lia-est-le-vrai-moteur-227352",
       "date": "Fri, 22 May 2026 15:53:37 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Infrastructures LAN : une gestion plus assistée qu’automatisée",
-      "link": "https://www.silicon.fr/data-ia-1372/infrastructures-lan-magic-quadrant-2026-227343",
-      "date": "Fri, 22 May 2026 13:45:35 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
