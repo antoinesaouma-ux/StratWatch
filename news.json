@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T13:45:53.260165+00:00",
+  "updated": "2026-05-26T17:19:47.146798+00:00",
   "news": [
     {
       "title": "TCL ou Hisense : quelle marque TV offre le meilleur rapport qualité-image ?",
@@ -10,9 +10,9 @@
       "sources_count": 3
     },
     {
-      "title": "Vous utilisez Android Auto ? Ces 4 réglages sont indispensables",
-      "link": "https://www.zdnet.fr/pratique/vous-utilisez-android-auto-ces-4-reglages-sont-indispensables-495411.htm#xtor=123456",
-      "date": "sam, 23 Mai 2026 09:03:52 +0200",
+      "title": "Energie pratique : voici les principales questions que se posent ceux qui veulent installer une batterie de secours",
+      "link": "https://www.zdnet.fr/pratique/energie-pratique-voici-les-principales-questions-que-se-posent-ceux-qui-veulent-installer-une-batterie-de-secours-495499.htm#xtor=123456",
+      "date": "mar, 26 Mai 2026 18:15:21 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -46,6 +46,14 @@
       "link": "https://www.zdnet.fr/pratique/ios-26-5-comment-verifier-que-le-chiffrement-de-bout-en-bout-est-active-pour-vos-conversations-rcs-entre-iphone-et-android-495427.htm#xtor=123456",
       "date": "dim, 24 Mai 2026 09:01:00 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "BNP Paribas muscle son alliance avec Mistral AI",
+      "link": "https://www.silicon.fr/business-1367/bnp-paribas-muscle-son-alliance-avec-mistral-ai-227386",
+      "date": "Tue, 26 May 2026 13:58:43 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "IA et énergie : ce que les chiffres confirment et ce qu’ils nuancent",
       "link": "https://www.silicon.fr/data-ia-1372/ia-et-energie-ce-que-les-chiffres-confirment-et-ce-quils-nuancent-227363",
       "date": "Mon, 25 May 2026 09:56:39 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA : comment éviter le piège de la productivité ?",
-      "link": "https://www.silicon.fr/data-ia-1372/ia-comment-eviter-le-piege-de-la-productivite-227360",
-      "date": "Mon, 25 May 2026 09:06:32 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
