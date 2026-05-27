@@ -1,6 +1,22 @@
 {
-  "updated": "2026-05-27T16:32:04.325185+00:00",
+  "updated": "2026-05-27T19:13:03.167396+00:00",
   "news": [
+    {
+      "title": "Test Sennheiser Momentum 5 : un retour en force parmi ses principaux concurrents ANC",
+      "link": "https://www.zdnet.fr/guide-achat/test-sennheiser-momentum-5-un-retour-en-force-parmi-ses-principaux-concurrents-anc-495582.htm#xtor=123456",
+      "date": "mer, 27 Mai 2026 17:50:25 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Linux pratique : Snap ou Flatpak, comment choisir entre ces deux gestionnaires de paquets ?",
+      "link": "https://www.zdnet.fr/pratique/linux-pratique-snap-ou-flatpak-comment-choisir-entre-ces-deux-gestionnaires-de-paquets-495585.htm#xtor=123456",
+      "date": "mer, 27 Mai 2026 17:35:23 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale appelée Ollama – voici pourquoi",
       "link": "https://www.zdnet.fr/guide-achat/jai-abandonne-chatgpt-au-profit-dune-ia-gratuite-privee-et-locale-appelee-ollama-voici-pourquoi-495612.htm#xtor=123456",
@@ -29,22 +45,6 @@
       "title": "Informatique pratique : baladez vous au Virtual OS Museum",
       "link": "https://www.zdnet.fr/pratique/informatique-pratique-baladez-vous-au-virtual-os-museum-495479.htm#xtor=123456",
       "date": "lun, 25 Mai 2026 17:38:16 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test Microsoft Surface Pro pour les entreprises 13'' (12e édition) : une  tablette 2-en-1 qui se distingue avec une fonctionnalité très utile pour les professionnels",
-      "link": "https://www.zdnet.fr/guide-achat/test-microsoft-surface-pro-pour-les-entreprises-13-12e-edition-une-tablette-2-en-1-qui-se-distingue-avec-une-fonctionnalite-tres-utile-pour-les-professionnels-495476.htm#xtor=123456",
-      "date": "lun, 25 Mai 2026 11:31:09 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment j'ai rendu les widgets Windows 11 vraiment utiles : 8 réglages simples à essayer",
-      "link": "https://www.zdnet.fr/pratique/comment-jai-rendu-les-widgets-windows-11-vraiment-utiles-8-reglages-simples-a-essayer-495449.htm#xtor=123456",
-      "date": "dim, 24 Mai 2026 14:02:39 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
