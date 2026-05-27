@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-27T08:59:01.042002+00:00",
+  "updated": "2026-05-27T12:21:06.033162+00:00",
   "news": [
+    {
+      "title": "J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale appelée Ollama – voici pourquoi",
+      "link": "https://www.zdnet.fr/guide-achat/jai-abandonne-chatgpt-au-profit-dune-ia-gratuite-privee-et-locale-appelee-ollama-voici-pourquoi-495612.htm#xtor=123456",
+      "date": "mer, 27 Mai 2026 11:17:53 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test comparatif du zoom 100x du Samsung Galaxy S26 Ultra, Google Pixel 10 Pro et Motorola Razr Fold : deux surprises de taille !",
       "link": "https://www.zdnet.fr/guide-achat/test-comparatif-du-zoom-100x-du-samsung-galaxy-s26-ultra-google-pixel-10-pro-et-motorola-razr-fold-deux-surprises-de-taille-495484.htm#xtor=123456",
@@ -42,10 +50,26 @@
       "sources_count": 3
     },
     {
-      "title": "iOS 26.5 : comment vérifier que le chiffrement de bout en bout est activé pour vos conversations RCS entre iPhone et Android",
-      "link": "https://www.zdnet.fr/pratique/ios-26-5-comment-verifier-que-le-chiffrement-de-bout-en-bout-est-active-pour-vos-conversations-rcs-entre-iphone-et-android-495427.htm#xtor=123456",
-      "date": "dim, 24 Mai 2026 09:01:00 +0200",
-      "source": "ZDNet FR",
+      "title": "G7 numérique : « SBOM for AI », un référentiel pour sécuriser la chaîne d’approvisionnement de l’IA",
+      "link": "https://www.silicon.fr/cybersecurite-1371/le-g7-numerique-lance-le-standard-sbom-for-ai-227397",
+      "date": "Wed, 27 May 2026 11:21:28 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "IA contre IA : sécuriser le code dans un cycle de menaces auto-accéléré",
+      "link": "https://www.silicon.fr/cybersecurite-1371/ia-contre-ia-securiser-le-code-dans-un-cycle-de-menaces-auto-accelere-227390",
+      "date": "Wed, 27 May 2026 09:46:35 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Le grand retour des CPU et de la mémoire à l’ère de l’IA agentique",
+      "link": "https://www.silicon.fr/business-1367/le-grand-retour-des-cpu-et-de-la-memoire-a-lere-de-lia-agentique-227388",
+      "date": "Wed, 27 May 2026 09:16:29 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -69,30 +93,6 @@
       "title": "IA : Léon XIV appelle à la « désarmer »",
       "link": "https://www.silicon.fr/business-1367/ia-quand-leon-xiv-appelle-a-la-desarmer-227378",
       "date": "Mon, 25 May 2026 13:14:48 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Nvidia investit dans Alice & Bob",
-      "link": "https://www.silicon.fr/business-1367/nvidia-investit-dans-alice-bob-227374",
-      "date": "Mon, 25 May 2026 11:17:44 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’IA transforme les processus métier : venez écouter ceux qui le vivent",
-      "link": "https://www.silicon.fr/data-ia-1372/lia-transforme-les-processus-metier-venez-ecouter-ceux-qui-le-vivent-227367",
-      "date": "Mon, 25 May 2026 11:01:26 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA et énergie : ce que les chiffres confirment et ce qu’ils nuancent",
-      "link": "https://www.silicon.fr/data-ia-1372/ia-et-energie-ce-que-les-chiffres-confirment-et-ce-quils-nuancent-227363",
-      "date": "Mon, 25 May 2026 09:56:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
