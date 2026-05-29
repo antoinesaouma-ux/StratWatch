@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T05:04:20.054813+00:00",
+  "updated": "2026-05-29T09:33:01.944398+00:00",
   "news": [
     {
       "title": "Test Sennheiser Momentum 5 : un retour en force parmi ses principaux concurrents ANC",
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "G7 numérique : « SBOM for AI », un référentiel pour sécuriser la chaîne d’approvisionnement de l’IA",
-      "link": "https://www.silicon.fr/cybersecurite-1371/le-g7-numerique-lance-le-standard-sbom-for-ai-227397",
-      "date": "Wed, 27 May 2026 11:21:28 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Project Lightwell  : IBM et Red Hat investissent 5 milliards $ pour sécuriser la supply chain logicielle",
       "link": "https://www.silicon.fr/open-source-1375/project-lightwell-ibm-et-red-hat-investissent-5-milliards-pour-securiser-la-supply-chain-logicielle-227417",
       "date": "Thu, 28 May 2026 14:34:02 +0000",
@@ -93,6 +85,14 @@
       "title": "LightOn décroche un contrat de Helpdesk avec Infocom’94",
       "link": "https://www.silicon.fr/business-1367/lighton-decroche-un-contrat-de-helpdesk-avec-infocom94-227401",
       "date": "Thu, 28 May 2026 10:18:05 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Pourquoi Mistral AI construit son propre datacenter d’inférence ?",
+      "link": "https://www.silicon.fr/data-ia-1372/pourquoi-mistral-ai-construit-son-propre-datacenter-inference-227423",
+      "date": "Fri, 29 May 2026 09:27:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
