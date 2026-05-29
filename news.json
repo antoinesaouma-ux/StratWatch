@@ -1,34 +1,42 @@
 {
-  "updated": "2026-05-29T12:39:40.396684+00:00",
+  "updated": "2026-05-29T16:34:26.968281+00:00",
   "news": [
     {
-      "title": "Test Sennheiser Momentum 5 : un retour en force parmi ses principaux concurrents ANC",
-      "link": "https://www.zdnet.fr/guide-achat/test-sennheiser-momentum-5-un-retour-en-force-parmi-ses-principaux-concurrents-anc-495582.htm#xtor=123456",
-      "date": "mer, 27 Mai 2026 17:50:25 +0200",
+      "title": "Web pratique : voici un moyen simple d'exclure automatiquement l'IA des résultats de vos requêtes",
+      "link": "https://www.zdnet.fr/pratique/web-pratique-voici-un-moyen-simple-dexclure-automatiquement-lia-des-resultats-de-vos-requetes-495731.htm#xtor=123456",
+      "date": "ven, 29 Mai 2026 17:30:06 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Linux pratique : Snap ou Flatpak, comment choisir entre ces deux gestionnaires de paquets ?",
-      "link": "https://www.zdnet.fr/pratique/linux-pratique-snap-ou-flatpak-comment-choisir-entre-ces-deux-gestionnaires-de-paquets-495585.htm#xtor=123456",
-      "date": "mer, 27 Mai 2026 17:35:23 +0200",
+      "title": "Oura Ring 5 vs Oura Ring 4 : résultat très serré entre ces deux bagues connectées de suivi de santé",
+      "link": "https://www.zdnet.fr/guide-achat/oura-ring-5-vs-oura-ring-4-resultat-tres-serre-entre-ces-deux-bagues-connectees-de-suivi-de-sante-495775.htm#xtor=123456",
+      "date": "ven, 29 Mai 2026 16:55:01 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "J'ai abandonné ChatGPT au profit d'une IA gratuite, privée et locale appelée Ollama – voici pourquoi",
-      "link": "https://www.zdnet.fr/guide-achat/jai-abandonne-chatgpt-au-profit-dune-ia-gratuite-privee-et-locale-appelee-ollama-voici-pourquoi-495612.htm#xtor=123456",
-      "date": "mer, 27 Mai 2026 11:17:53 +0200",
+      "title": "Suivi des versions des modèles d'IA : les taux de désalignement d'Opus 4.8 sont similaires à ceux de Claude Mythos Preview",
+      "link": "https://www.zdnet.fr/guide-achat/suivi-des-versions-des-modeles-dia-les-taux-de-desalignement-dopus-4-8-sont-similaires-a-ceux-de-claude-mythos-preview-495829.htm#xtor=123456",
+      "date": "ven, 29 Mai 2026 15:20:33 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Test comparatif du zoom 100x du Samsung Galaxy S26 Ultra, Google Pixel 10 Pro et Motorola Razr Fold : deux surprises de taille !",
-      "link": "https://www.zdnet.fr/guide-achat/test-comparatif-du-zoom-100x-du-samsung-galaxy-s26-ultra-google-pixel-10-pro-et-motorola-razr-fold-deux-surprises-de-taille-495484.htm#xtor=123456",
-      "date": "mar, 26 Mai 2026 18:40:22 +0200",
+      "title": "Pourquoi j'ai troqué Copilot pour Claude dans Word, Excel et PowerPoint – et comment vous pouvez en faire autant",
+      "link": "https://www.zdnet.fr/guide-achat/pourquoi-jai-troque-copilot-pour-claude-dans-word-excel-et-powerpoint-et-comment-vous-pouvez-en-faire-autant-495816.htm#xtor=123456",
+      "date": "ven, 29 Mai 2026 14:31:42 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "NordVPN n'est plus seulement un VPN, mais une suite de sécurité complète. Voici ce dont vous bénéficiez désormais",
+      "link": "https://www.zdnet.fr/guide-achat/nordvpn-nest-plus-seulement-un-vpn-mais-une-suite-de-securite-complete-voici-ce-dont-vous-beneficiez-desormais-495813.htm#xtor=123456",
+      "date": "ven, 29 Mai 2026 14:19:07 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -37,14 +45,6 @@
       "title": "Mes réglages préférés sous Zorin OS et pourquoi vous les adorerez aussi",
       "link": "https://www.zdnet.fr/pratique/mes-reglages-preferes-sous-zorin-os-et-pourquoi-vous-les-adorerez-aussi-495708.htm#xtor=123456",
       "date": "jeu, 28 Mai 2026 15:40:15 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Ce dirigeant propose quatre façons d'innover à l'ère de l'IA autonome",
-      "link": "https://www.zdnet.fr/pratique/ce-dirigeant-propose-quatre-facons-dinnover-a-lere-de-lia-autonome-495701.htm#xtor=123456",
-      "date": "jeu, 28 Mai 2026 14:54:51 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -74,9 +74,9 @@
       "sources_count": 3
     },
     {
-      "title": "BMW et Mistral AI entraînent un modèle d’IA sur les simulations de collision",
-      "link": "https://www.silicon.fr/data-ia-1372/bmw-et-mistral-ai-entrainent-un-modele-dia-sur-les-simulations-de-collision-227403",
-      "date": "Thu, 28 May 2026 10:54:42 +0000",
+      "title": "Anthropic lève 65 milliards et dépasse OpenAI en valorisation",
+      "link": "https://www.silicon.fr/business-1367/anthropic-leve-65-milliards-et-depasse-openai-en-valorisation-227437",
+      "date": "Fri, 29 May 2026 13:31:58 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
