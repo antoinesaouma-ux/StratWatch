@@ -1,14 +1,6 @@
 {
-  "updated": "2026-05-31T11:25:42.044388+00:00",
+  "updated": "2026-05-31T13:11:11.403660+00:00",
   "news": [
-    {
-      "title": "Web pratique : voici un moyen simple d'exclure automatiquement l'IA des résultats de vos requêtes",
-      "link": "https://www.zdnet.fr/pratique/web-pratique-voici-un-moyen-simple-dexclure-automatiquement-lia-des-resultats-de-vos-requetes-495731.htm#xtor=123456",
-      "date": "ven, 29 Mai 2026 17:30:06 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
     {
       "title": "Test : J'ai porté le Fitbit Air de Google pendant une semaine, et il donne du fil à retordre au Whoop",
       "link": "https://www.zdnet.fr/guide-achat/test-jai-porte-le-fitbit-air-de-google-pendant-une-semaine-et-il-donne-du-fil-a-retordre-au-whoop-495854.htm#xtor=123456",
@@ -37,6 +29,14 @@
       "title": "Acer ou Asus : le comparatif pour trouver le portable qui vous correspond",
       "link": "https://www.zdnet.fr/guide-achat/acer-ou-asus-le-comparatif-pour-trouver-le-portable-qui-vous-correspond-495755.htm#xtor=123456",
       "date": "sam, 30 Mai 2026 09:01:38 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Graphène, finesse et MagSafe : la Momax Q.Mag X est-il vraiment la meilleure batterie portable ?",
+      "link": "https://www.zdnet.fr/guide-achat/graphene-finesse-et-magsafe-la-momax-q-mag-x-est-il-vraiment-la-meilleure-batterie-portable-495804.htm#xtor=123456",
+      "date": "dim, 31 Mai 2026 14:04:10 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
