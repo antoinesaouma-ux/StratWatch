@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T08:23:40.955719+00:00",
+  "updated": "2026-06-01T14:48:55.771209+00:00",
   "news": [
     {
       "title": "Test : J'ai porté le Fitbit Air de Google pendant une semaine, et il donne du fil à retordre au Whoop",
@@ -18,17 +18,17 @@
       "sources_count": 3
     },
     {
-      "title": "Pourquoi j'utilise des caméras de sécurité sans fil chez moi plutôt qu'un système filaire – et ce après des années d'essais",
-      "link": "https://www.zdnet.fr/guide-achat/pourquoi-jutilise-des-cameras-de-securite-sans-fil-chez-moi-plutot-quun-systeme-filaire-et-ce-apres-des-annees-dessais-495714.htm#xtor=123456",
-      "date": "sam, 30 Mai 2026 10:47:50 +0200",
+      "title": "Hébergeur web pas cher : comment choisir une offre fiable ?",
+      "link": "https://www.zdnet.fr/guide-achat/hebergeur-web-pas-cher-comment-choisir-une-offre-fiable-495830.htm#xtor=123456",
+      "date": "lun, 01 Juin 2026 15:00:29 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Acer ou Asus : le comparatif pour trouver le portable qui vous correspond",
-      "link": "https://www.zdnet.fr/guide-achat/acer-ou-asus-le-comparatif-pour-trouver-le-portable-qui-vous-correspond-495755.htm#xtor=123456",
-      "date": "sam, 30 Mai 2026 09:01:38 +0200",
+      "title": "J'ai testé le service Windows 365 Cloud PC de Microsoft sur macOS, Android et iOS : voici ce que j'en ai pensé",
+      "link": "https://www.zdnet.fr/guide-achat/jai-teste-le-service-windows-365-cloud-pc-de-microsoft-sur-macos-android-et-ios-voici-ce-que-jen-ai-pense-495934.htm#xtor=123456",
+      "date": "lun, 01 Juin 2026 12:26:24 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,25 +50,33 @@
       "sources_count": 3
     },
     {
-      "title": "Project Lightwell  : IBM et Red Hat investissent 5 milliards $ pour sécuriser la supply chain logicielle",
-      "link": "https://www.silicon.fr/open-source-1375/project-lightwell-ibm-et-red-hat-investissent-5-milliards-pour-securiser-la-supply-chain-logicielle-227417",
-      "date": "Thu, 28 May 2026 14:34:02 +0000",
+      "title": "Protection des terminaux : des écarts se créent sur le cœur des offres",
+      "link": "https://www.silicon.fr/cybersecurite-1371/protection-terminaux-magic-quadrant-2026-227450",
+      "date": "Mon, 01 Jun 2026 14:32:51 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Données volées : nouveau carburant d’une économie souterraine",
-      "link": "https://www.silicon.fr/cybersecurite-1371/donnees-volees-nouveau-carburant-dune-economie-souterraine-227413",
-      "date": "Thu, 28 May 2026 12:31:15 +0000",
+      "title": "IA : Ardian et Verne misent 5 milliards € sur une giga infra",
+      "link": "https://www.silicon.fr/data-ia-1372/ia-ardian-et-verne-misent-5-milliards-e-sur-une-giga-infra-227454",
+      "date": "Mon, 01 Jun 2026 14:07:21 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Webedia-Elephant déploie Gemini Enterprise",
-      "link": "https://www.silicon.fr/data-ia-1372/webedia-elephant-deploie-gemini-enterprise-227410",
-      "date": "Thu, 28 May 2026 12:01:56 +0000",
+      "title": "85 % des cyberattaques utilisent le protocole RDP pour infiltrer les réseaux en toute discrétion",
+      "link": "https://www.silicon.fr/cybersecurite-1371/85-des-cyberattaques-utilisent-le-protocole-rdp-pour-infiltrer-les-reseaux-en-toute-discretion-227451",
+      "date": "Mon, 01 Jun 2026 13:04:07 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Windows sur Arm : NVIDIA entre officiellement dans la danse",
+      "link": "https://www.silicon.fr/workspace-1376/nvidia-spark-rtx-windows-227439",
+      "date": "Mon, 01 Jun 2026 10:24:20 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "Mondial 2026 : alerte sur la gigantesque « surface d’attaque »",
       "link": "https://www.silicon.fr/cybersecurite-1371/mondial-2026-alerte-sur-la-gigantesque-surface-attaque-227427",
       "date": "Fri, 29 May 2026 10:19:55 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Pourquoi Mistral AI construit son propre datacenter d’inférence ?",
-      "link": "https://www.silicon.fr/data-ia-1372/pourquoi-mistral-ai-construit-son-propre-datacenter-inference-227423",
-      "date": "Fri, 29 May 2026 09:27:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
