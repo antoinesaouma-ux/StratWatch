@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T05:21:31.418816+00:00",
+  "updated": "2026-06-02T10:01:18.564599+00:00",
   "news": [
     {
       "title": "iPhone pratique : utilisez cette fonctionnalité peu connue et pourtant utile de FaceTime",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Cloud et logiciels : ce que les hausses de prix coûtent à l’économie européenne",
+      "link": "https://www.silicon.fr/cloud-1370/cloud-logiciel-europe-hausses-tarifaires-227461",
+      "date": "Tue, 02 Jun 2026 09:19:19 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Protection des terminaux : des écarts se créent sur le cœur des offres",
       "link": "https://www.silicon.fr/cybersecurite-1371/protection-terminaux-magic-quadrant-2026-227450",
       "date": "Mon, 01 Jun 2026 14:32:51 +0000",
@@ -85,14 +93,6 @@
       "title": "Anthropic lève 65 milliards et dépasse OpenAI en valorisation",
       "link": "https://www.silicon.fr/business-1367/anthropic-leve-65-milliards-et-depasse-openai-en-valorisation-227437",
       "date": "Fri, 29 May 2026 13:31:58 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Mondial 2026 : alerte sur la gigantesque « surface d’attaque »",
-      "link": "https://www.silicon.fr/cybersecurite-1371/mondial-2026-alerte-sur-la-gigantesque-surface-attaque-227427",
-      "date": "Fri, 29 May 2026 10:19:55 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
