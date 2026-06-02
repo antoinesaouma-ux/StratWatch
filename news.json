@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-02T10:01:18.564599+00:00",
+  "updated": "2026-06-02T14:41:40.401419+00:00",
   "news": [
+    {
+      "title": "PC pratique : UniGetUI rend votre ordinateur plus sûr quand vous installer de nouveaux programmes",
+      "link": "https://www.zdnet.fr/pratique/pc-pratique-unigetui-rend-votre-ordinateur-plus-sur-quand-vous-installer-de-nouveaux-programmes-495976.htm#xtor=123456",
+      "date": "mar, 02 Juin 2026 15:00:48 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "iPhone pratique : utilisez cette fonctionnalité peu connue et pourtant utile de FaceTime",
       "link": "https://www.zdnet.fr/pratique/iphone-pratique-utilisez-cette-fonctionnalite-peu-connue-et-pourtant-utile-de-facetime-495908.htm#xtor=123456",
@@ -42,10 +50,26 @@
       "sources_count": 3
     },
     {
-      "title": "Android Auto : 8 astuces pour éviter que votre téléphone ne surchauffe en voiture",
-      "link": "https://www.zdnet.fr/pratique/android-auto-8-astuces-pour-eviter-que-votre-telephone-ne-surchauffe-en-voiture-495771.htm#xtor=123456",
-      "date": "dim, 31 Mai 2026 09:07:10 +0200",
-      "source": "ZDNet FR",
+      "title": "Assistants de codage : au régime agentique, un autre paysage concurrentiel",
+      "link": "https://www.silicon.fr/data-ia-1372/agents-codage-magic-quadrant-2026-227466",
+      "date": "Tue, 02 Jun 2026 14:18:50 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Anthropic file vers une IPO à plus de 1 000 milliards $",
+      "link": "https://www.silicon.fr/business-1367/anthropic-file-vers-une-ipo-a-plus-de-1-000-milliards-227471",
+      "date": "Tue, 02 Jun 2026 13:23:30 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Campus AI : la France se branche sur 3 gigawatts",
+      "link": "https://www.silicon.fr/data-ia-1372/campus-ai-la-france-se-branche-sur-3-gigawatts-227468",
+      "date": "Tue, 02 Jun 2026 12:23:07 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -69,30 +93,6 @@
       "title": "IA : Ardian et Verne misent 5 milliards € sur une giga infra",
       "link": "https://www.silicon.fr/data-ia-1372/ia-ardian-et-verne-misent-5-milliards-e-sur-une-giga-infra-227454",
       "date": "Mon, 01 Jun 2026 14:07:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "85 % des cyberattaques utilisent le protocole RDP pour infiltrer les réseaux en toute discrétion",
-      "link": "https://www.silicon.fr/cybersecurite-1371/85-des-cyberattaques-utilisent-le-protocole-rdp-pour-infiltrer-les-reseaux-en-toute-discretion-227451",
-      "date": "Mon, 01 Jun 2026 13:04:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Windows sur Arm : NVIDIA entre officiellement dans la danse",
-      "link": "https://www.silicon.fr/workspace-1376/nvidia-spark-rtx-windows-227439",
-      "date": "Mon, 01 Jun 2026 10:24:20 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic lève 65 milliards et dépasse OpenAI en valorisation",
-      "link": "https://www.silicon.fr/business-1367/anthropic-leve-65-milliards-et-depasse-openai-en-valorisation-227437",
-      "date": "Fri, 29 May 2026 13:31:58 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
