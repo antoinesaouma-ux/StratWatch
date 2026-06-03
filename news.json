@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-03T07:30:53.637808+00:00",
+  "updated": "2026-06-03T12:29:19.143602+00:00",
   "news": [
+    {
+      "title": "Antivirus pour ordinateur portable : comment bien protéger son PC en mobilité ?",
+      "link": "https://www.zdnet.fr/guide-achat/antivirus-pour-ordinateur-portable-comment-bien-proteger-son-pc-en-mobilite-495845.htm#xtor=123456",
+      "date": "mer, 03 Juin 2026 10:00:29 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Dell XPS 13 (2026) vs Apple MacBook Neo : lequel de ces deux ordinateurs portables d'entrée de gamme devriez-vous acheter ?",
       "link": "https://www.zdnet.fr/guide-achat/dell-xps-13-2026-vs-apple-macbook-neo-lequel-de-ces-deux-ordinateurs-portables-dentree-de-gamme-devriez-vous-acheter-495973.htm#xtor=123456",
@@ -42,10 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "J'ai testé le service Windows 365 Cloud PC de Microsoft sur macOS, Android et iOS : voici ce que j'en ai pensé",
-      "link": "https://www.zdnet.fr/guide-achat/jai-teste-le-service-windows-365-cloud-pc-de-microsoft-sur-macos-android-et-ios-voici-ce-que-jen-ai-pense-495934.htm#xtor=123456",
-      "date": "lun, 01 Juin 2026 12:26:24 +0200",
-      "source": "ZDNet FR",
+      "title": "Claude Mythos s’ouvre au Monde…et à la France",
+      "link": "https://www.silicon.fr/cybersecurite-1371/claude-mythos-souvre-au-monde-et-a-la-france-227486",
+      "date": "Wed, 03 Jun 2026 11:27:41 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Build 2026 : ce que Microsoft met dans sa « plate-forme agentique »",
+      "link": "https://www.silicon.fr/data-ia-1372/microsoft-plate-forme-agentique-227484",
+      "date": "Wed, 03 Jun 2026 10:58:15 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Cloud et logiciels : ce que les hausses de prix coûtent à l’économie européenne",
       "link": "https://www.silicon.fr/cloud-1370/cloud-logiciel-europe-hausses-tarifaires-227461",
       "date": "Tue, 02 Jun 2026 09:19:19 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Protection des terminaux : des écarts se créent sur le cœur des offres",
-      "link": "https://www.silicon.fr/cybersecurite-1371/protection-terminaux-magic-quadrant-2026-227450",
-      "date": "Mon, 01 Jun 2026 14:32:51 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA : Ardian et Verne misent 5 milliards € sur une giga infra",
-      "link": "https://www.silicon.fr/data-ia-1372/ia-ardian-et-verne-misent-5-milliards-e-sur-une-giga-infra-227454",
-      "date": "Mon, 01 Jun 2026 14:07:21 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
