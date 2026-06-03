@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-03T12:29:19.143602+00:00",
+  "updated": "2026-06-03T17:56:05.131555+00:00",
   "news": [
+    {
+      "title": "ReMarkable Paper Pure vs Boox Go 10.3 Lumi (2e génération) : quelle tablette choisir pour le travail ?",
+      "link": "https://www.zdnet.fr/guide-achat/remarkable-paper-pure-vs-boox-go-10-3-lumi-2e-generation-quelle-tablette-choisir-pour-le-travail-496047.htm#xtor=123456",
+      "date": "mer, 03 Juin 2026 18:21:26 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Linux pratique : Zorin OS vous permet de changer l’apparence de votre bureau avec une grande liberté",
+      "link": "https://www.zdnet.fr/pratique/linux-pratique-zorin-os-vous-permet-de-changer-lapparence-de-votre-bureau-avec-une-grande-liberte-496051.htm#xtor=123456",
+      "date": "mer, 03 Juin 2026 15:50:55 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Serveur dédié : est-ce encore utile pour héberger un site web ?",
+      "link": "https://www.zdnet.fr/guide-achat/serveur-dedie-est-ce-encore-utile-pour-heberger-un-site-web-495839.htm#xtor=123456",
+      "date": "mer, 03 Juin 2026 14:00:23 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Antivirus pour ordinateur portable : comment bien protéger son PC en mobilité ?",
       "link": "https://www.zdnet.fr/guide-achat/antivirus-pour-ordinateur-portable-comment-bien-proteger-son-pc-en-mobilite-495845.htm#xtor=123456",
@@ -26,26 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "iPhone pratique : utilisez cette fonctionnalité peu connue et pourtant utile de FaceTime",
-      "link": "https://www.zdnet.fr/pratique/iphone-pratique-utilisez-cette-fonctionnalite-peu-connue-et-pourtant-utile-de-facetime-495908.htm#xtor=123456",
-      "date": "lun, 01 Juin 2026 16:56:06 +0200",
-      "source": "ZDNet FR",
+      "title": "À la sécurité sociale, des SI vieillissants et sous tension",
+      "link": "https://www.silicon.fr/business-1367/securite-sociale-systemes-information-227495",
+      "date": "Wed, 03 Jun 2026 16:44:45 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Test MSI Raider 16 Max HX : l'ordinateur portable gaming qui rend les ordinateurs fixes gaming obsolètes",
-      "link": "https://www.zdnet.fr/guide-achat/test-msi-raider-16-max-hx-lordinateur-portable-gaming-qui-rend-les-ordinateurs-fixes-gaming-obsoletes-495905.htm#xtor=123456",
-      "date": "lun, 01 Juin 2026 16:51:37 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Hébergeur web pas cher : comment choisir une offre fiable ?",
-      "link": "https://www.zdnet.fr/guide-achat/hebergeur-web-pas-cher-comment-choisir-une-offre-fiable-495830.htm#xtor=123456",
-      "date": "lun, 01 Juin 2026 15:00:29 +0200",
-      "source": "ZDNet FR",
+      "title": "DNS-AID à la Fondation Linux : qu’est-ce que ce projet d’« annuaire agentique » ?",
+      "link": "https://www.silicon.fr/data-ia-1372/dns-aid-227492",
+      "date": "Wed, 03 Jun 2026 13:07:55 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Anthropic file vers une IPO à plus de 1 000 milliards $",
       "link": "https://www.silicon.fr/business-1367/anthropic-file-vers-une-ipo-a-plus-de-1-000-milliards-227471",
       "date": "Tue, 02 Jun 2026 13:23:30 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Campus AI : la France se branche sur 3 gigawatts",
-      "link": "https://www.silicon.fr/data-ia-1372/campus-ai-la-france-se-branche-sur-3-gigawatts-227468",
-      "date": "Tue, 02 Jun 2026 12:23:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cloud et logiciels : ce que les hausses de prix coûtent à l’économie européenne",
-      "link": "https://www.silicon.fr/cloud-1370/cloud-logiciel-europe-hausses-tarifaires-227461",
-      "date": "Tue, 02 Jun 2026 09:19:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
