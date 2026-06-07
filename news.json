@@ -1,14 +1,6 @@
 {
-  "updated": "2026-06-07T11:45:37.690117+00:00",
+  "updated": "2026-06-07T13:18:03.125985+00:00",
   "news": [
-    {
-      "title": "Test Amazfit Active 3 Premium : un coach à bon prix pour vous aider à éviter les blessures",
-      "link": "https://www.zdnet.fr/guide-achat/test-amazfit-active-3-premium-un-coach-a-bon-prix-pour-vous-aider-a-eviter-les-blessures-496200.htm#xtor=123456",
-      "date": "ven, 05 Juin 2026 16:50:15 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
     {
       "title": "Quel hébergement choisir pour lancer et faire grandir son site web ?",
       "link": "https://www.zdnet.fr/guide-achat/quel-hebergement-choisir-pour-lancer-et-faire-grandir-son-site-web-496266.htm#xtor=123456",
@@ -29,6 +21,14 @@
       "title": "Nouvel iPhone ? Voici ce qu'il faut changer avant tout le reste",
       "link": "https://www.zdnet.fr/pratique/nouvel-iphone-voici-ce-quil-faut-changer-avant-tout-le-reste-496188.htm#xtor=123456",
       "date": "sam, 06 Juin 2026 09:02:49 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "ExpressVPN écrase la concurrence en matière d'audits de sécurité : que valent vraiment ces certifications ?",
+      "link": "https://www.zdnet.fr/guide-achat/expressvpn-ecrase-la-concurrence-en-matiere-daudits-de-securite-que-valent-vraiment-ces-certifications-496242.htm#xtor=123456",
+      "date": "dim, 07 Juin 2026 14:06:34 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
