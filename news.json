@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T08:43:38.372682+00:00",
+  "updated": "2026-06-08T12:56:16.097185+00:00",
   "news": [
     {
       "title": "Quel hébergement choisir pour lancer et faire grandir son site web ?",
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "À la sécurité sociale, des SI vieillissants et sous tension",
-      "link": "https://www.silicon.fr/business-1367/securite-sociale-systemes-information-227495",
-      "date": "Wed, 03 Jun 2026 16:44:45 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Avec Majorana 2, Microsoft crédibilise son pari quantique",
       "link": "https://www.silicon.fr/business-1367/avec-majorana-2-microsoft-credibilise-son-pari-quantique-227510",
       "date": "Thu, 04 Jun 2026 11:48:05 +0000",
@@ -66,17 +58,25 @@
       "sources_count": 3
     },
     {
-      "title": "IA en entreprise : pourquoi les RSSI ne peuvent plus porter seuls le risque",
-      "link": "https://www.silicon.fr/cybersecurite-1371/ia-en-entreprise-pourquoi-les-rssi-ne-peuvent-plus-porter-seuls-le-risque-227507",
-      "date": "Thu, 04 Jun 2026 10:46:10 +0000",
+      "title": "Chips Act 2.0 : ce qui change, ce qui reste",
+      "link": "https://www.silicon.fr/business-1367/chips-act-2-227538",
+      "date": "Mon, 08 Jun 2026 12:25:18 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Souveraineté  technologique : l’Europe joue son va-tout",
-      "link": "https://www.silicon.fr/uncategorized/souverainete-technologique-leurope-joue-son-va-tout-227502",
-      "date": "Thu, 04 Jun 2026 09:39:38 +0000",
+      "title": "Rachat de SFR : c’est signé…mais c’est pas fait",
+      "link": "https://www.silicon.fr/business-1367/rachat-de-sfr-cest-signe-mais-cest-pas-fait-227544",
+      "date": "Mon, 08 Jun 2026 10:37:13 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "MokN lève 15 millions $ pour industrialiser son « phish-back «",
+      "link": "https://www.silicon.fr/business-1367/mokn-leve-15-millions-pour-industrialiser-son-phish-back-227539",
+      "date": "Mon, 08 Jun 2026 09:48:48 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
