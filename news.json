@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T12:56:16.097185+00:00",
+  "updated": "2026-06-08T16:44:14.335379+00:00",
   "news": [
     {
       "title": "Quel hébergement choisir pour lancer et faire grandir son site web ?",
@@ -18,9 +18,9 @@
       "sources_count": 3
     },
     {
-      "title": "Nouvel iPhone ? Voici ce qu'il faut changer avant tout le reste",
-      "link": "https://www.zdnet.fr/pratique/nouvel-iphone-voici-ce-quil-faut-changer-avant-tout-le-reste-496188.htm#xtor=123456",
-      "date": "sam, 06 Juin 2026 09:02:49 +0200",
+      "title": "Point technique : voici pourquoi les connexions Bluetooth multipoint ne fonctionnent pas toujours correctement",
+      "link": "https://www.zdnet.fr/pratique/point-technique-voici-pourquoi-les-connexions-bluetooth-multipoint-ne-fonctionnent-pas-toujours-correctement-496320.htm#xtor=123456",
+      "date": "lun, 08 Juin 2026 17:30:12 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,9 +50,17 @@
       "sources_count": 3
     },
     {
-      "title": "Avec Majorana 2, Microsoft crédibilise son pari quantique",
-      "link": "https://www.silicon.fr/business-1367/avec-majorana-2-microsoft-credibilise-son-pari-quantique-227510",
-      "date": "Thu, 04 Jun 2026 11:48:05 +0000",
+      "title": "De la « fédération EuroCloud » aux « zones d’accélération », ce qui se dessine avec le CADA",
+      "link": "https://www.silicon.fr/cloud-1370/cada-cloud-ai-development-act-227552",
+      "date": "Mon, 08 Jun 2026 16:33:33 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "WhatsApp attaque NSO pour violation d’injonction",
+      "link": "https://www.silicon.fr/cybersecurite-1371/whatsapp-attaque-nso-pour-violation-injonction-227550",
+      "date": "Mon, 08 Jun 2026 12:57:40 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "Moratoire sur l’IA : Anthropic veut geler un marché qu’elle domine",
       "link": "https://www.silicon.fr/data-ia-1372/moratoire-sur-lia-anthropic-veut-geler-un-marche-quelle-domine-227530",
       "date": "Fri, 05 Jun 2026 12:00:05 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Entre hyperscalers, les stacks agentiques se suivent… et se ressemblent ?",
-      "link": "https://www.silicon.fr/cloud-1370/google-cloud-summit-paris-2026-227517",
-      "date": "Fri, 05 Jun 2026 10:51:06 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
