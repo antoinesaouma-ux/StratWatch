@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T06:08:01.186179+00:00",
+  "updated": "2026-06-09T10:26:51.785546+00:00",
   "news": [
     {
       "title": "Quel hébergement choisir pour lancer et faire grandir son site web ?",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Souveraineté numérique : et si on recentrait le concept ?",
+      "link": "https://www.silicon.fr/business-1367/cigref-souverainete-numerique-227555",
+      "date": "Tue, 09 Jun 2026 08:10:05 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "De la « fédération EuroCloud » aux « zones d’accélération », ce qui se dessine avec le CADA",
       "link": "https://www.silicon.fr/cloud-1370/cada-cloud-ai-development-act-227552",
       "date": "Mon, 08 Jun 2026 16:33:33 +0000",
@@ -85,14 +93,6 @@
       "title": "MokN lève 15 millions $ pour industrialiser son « phish-back «",
       "link": "https://www.silicon.fr/business-1367/mokn-leve-15-millions-pour-industrialiser-son-phish-back-227539",
       "date": "Mon, 08 Jun 2026 09:48:48 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Moratoire sur l’IA : Anthropic veut geler un marché qu’elle domine",
-      "link": "https://www.silicon.fr/data-ia-1372/moratoire-sur-lia-anthropic-veut-geler-un-marche-quelle-domine-227530",
-      "date": "Fri, 05 Jun 2026 12:00:05 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
