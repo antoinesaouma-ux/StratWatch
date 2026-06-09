@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T16:24:46.038351+00:00",
+  "updated": "2026-06-09T19:06:15.822334+00:00",
   "news": [
     {
       "title": "Quel hébergement choisir pour lancer et faire grandir son site web ?",
@@ -46,6 +46,54 @@
       "link": "https://www.zdnet.fr/pratique/ces-mauvaises-habitudes-qui-sabotent-android-auto-et-comment-sen-debarrasser-496239.htm#xtor=123456",
       "date": "dim, 07 Juin 2026 09:01:03 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Open source : ce que l’UE vise désormais",
+      "link": "https://www.silicon.fr/open-source-1375/open-source-strategie-ue-227560",
+      "date": "Tue, 09 Jun 2026 15:45:06 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "OpenAI lance sa course à l’IPO",
+      "link": "https://www.silicon.fr/business-1367/openai-lance-sa-course-a-lipo-227569",
+      "date": "Tue, 09 Jun 2026 13:47:40 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Tokenmaxxing  : gaspillage ou moteur de la transformation IA ?",
+      "link": "https://www.silicon.fr/data-ia-1372/tokenmaxxing-gaspillage-ou-moteur-de-la-transformation-ia-227566",
+      "date": "Tue, 09 Jun 2026 13:14:30 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Atol nomme Stéphane Deschamps au poste de DSI Groupe",
+      "link": "https://www.silicon.fr/emploi-formation-1373/atol-nomme-stephane-deschamps-au-poste-de-dsi-groupe-227559",
+      "date": "Tue, 09 Jun 2026 11:12:22 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Souveraineté numérique : et si on recentrait le concept ?",
+      "link": "https://www.silicon.fr/business-1367/cigref-souverainete-numerique-227555",
+      "date": "Tue, 09 Jun 2026 08:10:05 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "De la « fédération EuroCloud » aux « zones d’accélération », ce qui se dessine avec le CADA",
+      "link": "https://www.silicon.fr/cloud-1370/cada-cloud-ai-development-act-227552",
+      "date": "Mon, 08 Jun 2026 16:33:33 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     }
