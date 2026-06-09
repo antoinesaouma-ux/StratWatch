@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T13:36:37.646983+00:00",
+  "updated": "2026-06-09T16:24:46.038351+00:00",
   "news": [
     {
       "title": "Quel hébergement choisir pour lancer et faire grandir son site web ?",
@@ -46,54 +46,6 @@
       "link": "https://www.zdnet.fr/pratique/ces-mauvaises-habitudes-qui-sabotent-android-auto-et-comment-sen-debarrasser-496239.htm#xtor=123456",
       "date": "dim, 07 Juin 2026 09:01:03 +0200",
       "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Tokenmaxxing  : gaspillage ou moteur de la transformation IA ?",
-      "link": "https://www.silicon.fr/data-ia-1372/tokenmaxxing-gaspillage-ou-moteur-de-la-transformation-ia-227566",
-      "date": "Tue, 09 Jun 2026 13:14:30 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Atol nomme Stéphane Deschamps au poste de DSI Groupe",
-      "link": "https://www.silicon.fr/emploi-formation-1373/atol-nomme-stephane-deschamps-au-poste-de-dsi-groupe-227559",
-      "date": "Tue, 09 Jun 2026 11:12:22 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Souveraineté numérique : et si on recentrait le concept ?",
-      "link": "https://www.silicon.fr/business-1367/cigref-souverainete-numerique-227555",
-      "date": "Tue, 09 Jun 2026 08:10:05 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "De la « fédération EuroCloud » aux « zones d’accélération », ce qui se dessine avec le CADA",
-      "link": "https://www.silicon.fr/cloud-1370/cada-cloud-ai-development-act-227552",
-      "date": "Mon, 08 Jun 2026 16:33:33 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "WhatsApp attaque NSO pour violation d’injonction",
-      "link": "https://www.silicon.fr/cybersecurite-1371/whatsapp-attaque-nso-pour-violation-injonction-227550",
-      "date": "Mon, 08 Jun 2026 12:57:40 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Chips Act 2.0 : ce qui change, ce qui reste",
-      "link": "https://www.silicon.fr/business-1367/chips-act-2-227538",
-      "date": "Mon, 08 Jun 2026 12:25:18 +0000",
-      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     }
