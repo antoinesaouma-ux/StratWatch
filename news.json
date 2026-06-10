@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-10T10:52:41.287641+00:00",
+  "updated": "2026-06-10T14:16:29.989498+00:00",
   "news": [
+    {
+      "title": "Donnez à vos « agents IA de niveau humain » une longueur d'avance grâce à ces 3 bonnes pratiques",
+      "link": "https://www.zdnet.fr/pratique/donnez-a-vos-agents-ia-de-niveau-humain-une-longueur-davance-grace-a-ces-3-bonnes-pratiques-496590.htm#xtor=123456",
+      "date": "mer, 10 Juin 2026 15:39:57 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Retour d’expérience : je teste et je dissèque un chargeur de « 1000 W »",
       "link": "https://www.zdnet.fr/guide-achat/retour-dexperience-je-teste-et-je-disseque-un-chargeur-de-1000-w-496403.htm#xtor=123456",
@@ -42,10 +50,26 @@
       "sources_count": 3
     },
     {
-      "title": "Surfshark ou ExpressVPN : quel VPN choisir pour sécuriser ses achats en ligne ?",
-      "link": "https://www.zdnet.fr/guide-achat/surfshark-ou-expressvpn-quel-vpn-choisir-pour-securiser-ses-achats-en-ligne-496269.htm#xtor=123456",
-      "date": "dim, 07 Juin 2026 09:30:34 +0200",
-      "source": "ZDNet FR",
+      "title": "L’économie du token, nouveau point focal de la FinOps Foundation",
+      "link": "https://www.silicon.fr/data-ia-1372/tokenomics-foundation-227583",
+      "date": "Wed, 10 Jun 2026 13:19:09 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Atos déploie Microsoft 365 Copilot pour tous ses salariés",
+      "link": "https://www.silicon.fr/data-ia-1372/atos-deploie-microsoft-365-copilot-pour-tous-ses-salaries-227590",
+      "date": "Wed, 10 Jun 2026 12:24:17 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Agents IA : Bruxelles dégaine une mesure d’urgence contre Meta",
+      "link": "https://www.silicon.fr/business-1367/agents-ia-bruxelles-degaine-une-mesure-durgence-contre-meta-227584",
+      "date": "Wed, 10 Jun 2026 10:54:27 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -69,30 +93,6 @@
       "title": "OpenAI lance sa course à l’IPO",
       "link": "https://www.silicon.fr/business-1367/openai-lance-sa-course-a-lipo-227569",
       "date": "Tue, 09 Jun 2026 13:47:40 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Tokenmaxxing  : gaspillage ou moteur de la transformation IA ?",
-      "link": "https://www.silicon.fr/data-ia-1372/tokenmaxxing-gaspillage-ou-moteur-de-la-transformation-ia-227566",
-      "date": "Tue, 09 Jun 2026 13:14:30 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Atol nomme Stéphane Deschamps au poste de DSI Groupe",
-      "link": "https://www.silicon.fr/emploi-formation-1373/atol-nomme-stephane-deschamps-au-poste-de-dsi-groupe-227559",
-      "date": "Tue, 09 Jun 2026 11:12:22 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Souveraineté numérique : et si on recentrait le concept ?",
-      "link": "https://www.silicon.fr/business-1367/cigref-souverainete-numerique-227555",
-      "date": "Tue, 09 Jun 2026 08:10:05 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
