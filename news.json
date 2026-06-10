@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-10T14:16:29.989498+00:00",
+  "updated": "2026-06-10T17:50:45.010962+00:00",
   "news": [
+    {
+      "title": "Votre voiture vous suit : comment préserver la confidentialité de vos données sur la route",
+      "link": "https://www.zdnet.fr/pratique/votre-voiture-vous-suit-comment-preserver-la-confidentialite-de-vos-donnees-sur-la-route-496596.htm#xtor=123456",
+      "date": "mer, 10 Juin 2026 17:38:37 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Donnez à vos « agents IA de niveau humain » une longueur d'avance grâce à ces 3 bonnes pratiques",
       "link": "https://www.zdnet.fr/pratique/donnez-a-vos-agents-ia-de-niveau-humain-une-longueur-davance-grace-a-ces-3-bonnes-pratiques-496590.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "ExpressVPN écrase la concurrence en matière d'audits de sécurité : que valent vraiment ces certifications ?",
-      "link": "https://www.zdnet.fr/guide-achat/expressvpn-ecrase-la-concurrence-en-matiere-daudits-de-securite-que-valent-vraiment-ces-certifications-496242.htm#xtor=123456",
-      "date": "dim, 07 Juin 2026 14:06:34 +0200",
-      "source": "ZDNet FR",
+      "title": "Comment Anthropic est passé de Claude Mythos à Claude Fable",
+      "link": "https://www.silicon.fr/data-ia-1372/anthropic-claude-mythos-fable-227601",
+      "date": "Wed, 10 Jun 2026 17:08:42 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Open source : ce que l’UE vise désormais",
       "link": "https://www.silicon.fr/open-source-1375/open-source-strategie-ue-227560",
       "date": "Tue, 09 Jun 2026 15:45:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "OpenAI lance sa course à l’IPO",
-      "link": "https://www.silicon.fr/business-1367/openai-lance-sa-course-a-lipo-227569",
-      "date": "Tue, 09 Jun 2026 13:47:40 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
