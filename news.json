@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T06:57:11.144722+00:00",
+  "updated": "2026-06-10T10:52:41.287641+00:00",
   "news": [
     {
       "title": "Retour d’expérience : je teste et je dissèque un chargeur de « 1000 W »",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Siri AI : une inflexion qui dépasse la bascule de ChatGPT à Gemini",
+      "link": "https://www.silicon.fr/workspace-1376/siri-ai-227580",
+      "date": "Wed, 10 Jun 2026 09:05:26 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Open source : ce que l’UE vise désormais",
       "link": "https://www.silicon.fr/open-source-1375/open-source-strategie-ue-227560",
       "date": "Tue, 09 Jun 2026 15:45:06 +0000",
@@ -85,14 +93,6 @@
       "title": "Souveraineté numérique : et si on recentrait le concept ?",
       "link": "https://www.silicon.fr/business-1367/cigref-souverainete-numerique-227555",
       "date": "Tue, 09 Jun 2026 08:10:05 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "De la « fédération EuroCloud » aux « zones d’accélération », ce qui se dessine avec le CADA",
-      "link": "https://www.silicon.fr/cloud-1370/cada-cloud-ai-development-act-227552",
-      "date": "Mon, 08 Jun 2026 16:33:33 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
