@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T07:11:09.689152+00:00",
+  "updated": "2026-06-12T11:33:48.663069+00:00",
   "news": [
     {
       "title": "Acer Swift Air 14 vs. Apple MacBook Neo : il y a bien un vainqueur entre ces deux ordinateurs portables d'entrée de gamme",
@@ -50,22 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Comment Anthropic est passé de Claude Mythos à Claude Fable",
-      "link": "https://www.silicon.fr/data-ia-1372/anthropic-claude-mythos-fable-227601",
-      "date": "Wed, 10 Jun 2026 17:08:42 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’économie du token, nouveau point focal de la FinOps Foundation",
-      "link": "https://www.silicon.fr/data-ia-1372/tokenomics-foundation-227583",
-      "date": "Wed, 10 Jun 2026 13:19:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Gestion de l’expérience employé numérique : un marketing à recadrer ?",
       "link": "https://www.silicon.fr/business-1367/gestion-experience-employe-numerique-dex-magic-quadrant-2026-227629",
       "date": "Thu, 11 Jun 2026 17:14:34 +0000",
@@ -90,9 +74,25 @@
       "sources_count": 3
     },
     {
-      "title": "Commerce agentique : OpenAI signe avec Visa",
-      "link": "https://www.silicon.fr/business-1367/commerce-agentique-openai-signe-avec-visa-227619",
-      "date": "Thu, 11 Jun 2026 10:46:42 +0000",
+      "title": "L’IA agentique change les méthodes de travail : Doctolib l’expérimente auprès de ses développeurs",
+      "link": "https://www.silicon.fr/data-ia-1372/doctolib-codage-agentique-227637",
+      "date": "Fri, 12 Jun 2026 11:17:00 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Quand les géants du conseil succombent aux hallucinations de l’IA",
+      "link": "https://www.silicon.fr/business-1367/quand-les-geants-du-conseil-succombent-aux-hallucinations-de-lia-227641",
+      "date": "Fri, 12 Jun 2026 11:11:36 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’informatique quantique n’attendra pas. Votre cryptographie non plus.",
+      "link": "https://www.silicon.fr/cybersecurite-1371/linformatique-quantique-nattendra-pas-votre-cryptographie-non-plus-227638",
+      "date": "Fri, 12 Jun 2026 09:24:45 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
