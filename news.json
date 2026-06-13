@@ -1,26 +1,26 @@
 {
-  "updated": "2026-06-13T06:45:51.073542+00:00",
+  "updated": "2026-06-13T09:49:43.905858+00:00",
   "news": [
+    {
+      "title": "J'ai testé une tonne d'outils d'IA locale pour mon ordinateur, mais Hermes + Ollama est désormais mon préféré – voici pourquoi",
+      "link": "https://www.zdnet.fr/pratique/jai-teste-une-tonne-doutils-dia-locale-pour-mon-ordinateur-mais-hermes-ollama-est-desormais-mon-prefere-voici-pourquoi-496755.htm#xtor=123456",
+      "date": "sam, 13 Juin 2026 09:40:32 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "iOS 27 : j'ai testé les trois nouveaux outils de retouche IA d'Apple Photos",
+      "link": "https://www.zdnet.fr/pratique/ios-27-jai-teste-les-trois-nouveaux-outils-de-retouche-ia-dapple-photos-496687.htm#xtor=123456",
+      "date": "sam, 13 Juin 2026 09:05:16 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Acer Swift Air 14 vs. Apple MacBook Neo : il y a bien un vainqueur entre ces deux ordinateurs portables d'entrée de gamme",
       "link": "https://www.zdnet.fr/guide-achat/acer-swift-air-14-vs-apple-macbook-neo-il-y-a-bien-un-vainqueur-entre-ces-deux-ordinateurs-portables-dentree-de-gamme-496551.htm#xtor=123456",
       "date": "mer, 10 Juin 2026 22:00:51 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Android pratique : transformez votre smartphone en une trousse scientifique de 35 outils",
-      "link": "https://www.zdnet.fr/pratique/android-pratique-transformez-votre-smartphone-en-une-trousse-scientifique-de-35-outils-496523.htm#xtor=123456",
-      "date": "mer, 10 Juin 2026 21:45:05 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Votre voiture vous suit : comment préserver la confidentialité de vos données sur la route",
-      "link": "https://www.zdnet.fr/pratique/votre-voiture-vous-suit-comment-preserver-la-confidentialite-de-vos-donnees-sur-la-route-496596.htm#xtor=123456",
-      "date": "mer, 10 Juin 2026 17:38:37 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
