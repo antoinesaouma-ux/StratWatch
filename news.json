@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-13T09:49:43.905858+00:00",
+  "updated": "2026-06-13T11:45:54.193727+00:00",
   "news": [
+    {
+      "title": "Android pratique : pourquoi vous ne devriez jamais laisser la corbeille de votre smartphone se remplir pendant 30 jours",
+      "link": "https://www.zdnet.fr/pratique/android-pratique-pourquoi-vous-ne-devriez-jamais-laisser-la-corbeille-de-votre-smartphone-se-remplir-pendant-30-jours-496727.htm#xtor=123456",
+      "date": "sam, 13 Juin 2026 13:00:34 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "J'ai testé une tonne d'outils d'IA locale pour mon ordinateur, mais Hermes + Ollama est désormais mon préféré – voici pourquoi",
       "link": "https://www.zdnet.fr/pratique/jai-teste-une-tonne-doutils-dia-locale-pour-mon-ordinateur-mais-hermes-ollama-est-desormais-mon-prefere-voici-pourquoi-496755.htm#xtor=123456",
@@ -13,14 +21,6 @@
       "title": "iOS 27 : j'ai testé les trois nouveaux outils de retouche IA d'Apple Photos",
       "link": "https://www.zdnet.fr/pratique/ios-27-jai-teste-les-trois-nouveaux-outils-de-retouche-ia-dapple-photos-496687.htm#xtor=123456",
       "date": "sam, 13 Juin 2026 09:05:16 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Acer Swift Air 14 vs. Apple MacBook Neo : il y a bien un vainqueur entre ces deux ordinateurs portables d'entrée de gamme",
-      "link": "https://www.zdnet.fr/guide-achat/acer-swift-air-14-vs-apple-macbook-neo-il-y-a-bien-un-vainqueur-entre-ces-deux-ordinateurs-portables-dentree-de-gamme-496551.htm#xtor=123456",
-      "date": "mer, 10 Juin 2026 22:00:51 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
