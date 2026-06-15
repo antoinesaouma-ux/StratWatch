@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-15T12:56:20.179664+00:00",
+  "updated": "2026-06-15T17:58:47.438761+00:00",
   "news": [
+    {
+      "title": "Test Seeed Studio SenseCAP Card Tracker T1000-E : un traqueur d’objet alternatif qui n’utilise pas les réseaux de Google ou d’Apple",
+      "link": "https://www.zdnet.fr/guide-achat/test-seeed-studio-sensecap-card-tracker-t1000-e-un-traqueur-dobjet-alternatif-qui-nutilise-pas-les-reseaux-de-google-ou-dapple-496712.htm#xtor=123456",
+      "date": "lun, 15 Juin 2026 18:37:23 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Énergie pratique : 10 idées reçues sur la production électrique solaire domestique auxquelles il faut tordre le cou en 2026",
+      "link": "https://www.zdnet.fr/pratique/energie-pratique-10-idees-recues-sur-la-production-electrique-solaire-domestique-auxquelles-il-faut-tordre-le-cou-en-2026-496783.htm#xtor=123456",
+      "date": "lun, 15 Juin 2026 18:31:35 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Alpine Linux est une distribution ultra-rapide pour votre ordinateur de bureau – à une seule condition",
       "link": "https://www.zdnet.fr/pratique/alpine-linux-est-une-distribution-ultra-rapide-pour-votre-ordinateur-de-bureau-a-une-seule-condition-496761.htm#xtor=123456",
@@ -34,18 +50,26 @@
       "sources_count": 3
     },
     {
-      "title": "Wifi pratique : 3 signes qui montrent que quelqu'un pique votre connexion",
-      "link": "https://www.zdnet.fr/pratique/wifi-pratique-3-signes-qui-montrent-que-quelquun-pique-votre-connexion-496643.htm#xtor=123456",
-      "date": "dim, 14 Juin 2026 09:34:49 +0200",
-      "source": "ZDNet FR",
+      "title": "DMA : les Big Tech multiplient les recours",
+      "link": "https://www.silicon.fr/business-1367/dma-recours-pourvois-commission-europeenne-227667",
+      "date": "Mon, 15 Jun 2026 14:36:10 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Android : comment désactiver SafetyCore, le service qui scanne vos photos sans vous le dire",
-      "link": "https://www.zdnet.fr/pratique/android-comment-desactiver-safetycore-le-service-qui-scanne-vos-photos-sans-vous-le-dire-496702.htm#xtor=123456",
-      "date": "dim, 14 Juin 2026 09:01:59 +0200",
-      "source": "ZDNet FR",
+      "title": "Suspension de Claude Mythos : des experts demandent la levée des restrictions",
+      "link": "https://www.silicon.fr/cybersecurite-1371/suspension-de-claude-mythos-des-experts-demandent-la-levee-des-restrictions-227672",
+      "date": "Mon, 15 Jun 2026 13:57:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Salesforce met 3,6 milliards $ sur Fin pour booster Agentforce",
+      "link": "https://www.silicon.fr/business-1367/salesforce-met-36-milliards-sur-fin-pour-booster-agentforce-227669",
+      "date": "Mon, 15 Jun 2026 13:21:48 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -69,30 +93,6 @@
       "title": "La sécurité de npm, un jeu d’équilibriste pour GitHub",
       "link": "https://www.silicon.fr/cybersecurite-1371/github-securite-npm-227651",
       "date": "Fri, 12 Jun 2026 15:18:24 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment France Travail veut passer à l’échelle supérieure sur l’IA",
-      "link": "https://www.silicon.fr/data-ia-1372/comment-france-travail-veut-passer-a-lechelle-superieure-sur-lia-227649",
-      "date": "Fri, 12 Jun 2026 13:27:44 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’IA agentique change les méthodes de travail : Doctolib l’expérimente auprès de ses développeurs",
-      "link": "https://www.silicon.fr/data-ia-1372/doctolib-codage-agentique-227637",
-      "date": "Fri, 12 Jun 2026 11:17:00 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Quand les géants du conseil succombent aux hallucinations de l’IA",
-      "link": "https://www.silicon.fr/business-1367/quand-les-geants-du-conseil-succombent-aux-hallucinations-de-lia-227641",
-      "date": "Fri, 12 Jun 2026 11:11:36 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
