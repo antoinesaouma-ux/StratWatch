@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-16T12:01:53.138162+00:00",
+  "updated": "2026-06-16T17:53:21.040854+00:00",
   "news": [
+    {
+      "title": "Test EverExceed 5W Solar Panel : voici une solution très abordable conçue pour alimenter une caméra de sécurité outdoor",
+      "link": "https://www.zdnet.fr/guide-achat/test-everexceed-5w-solar-panel-voici-une-solution-tres-abordable-concue-pour-alimenter-une-camera-de-securite-outdoor-496941.htm#xtor=123456",
+      "date": "mar, 16 Juin 2026 19:00:56 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Android pratique : ce lanceur donne à votre smartphone ou à votre tablette l'apparence de Windows 11",
+      "link": "https://www.zdnet.fr/guide-achat/android-pratique-ce-lanceur-donne-a-votre-smartphone-ou-a-votre-tablette-lapparence-de-windows-11-496884.htm#xtor=123456",
+      "date": "mar, 16 Juin 2026 18:47:40 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "40 % des entreprises vont abandonner leurs agents IA : 3 conseils pour éviter que les vôtres ne tombent en panne",
+      "link": "https://www.zdnet.fr/pratique/40-des-entreprises-vont-abandonner-leurs-agents-ia-3-conseils-pour-eviter-que-les-votres-ne-tombent-en-panne-497018.htm#xtor=123456",
+      "date": "mar, 16 Juin 2026 14:17:42 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Pourquoi le lissage de mouvement de votre TV est votre meilleur allié pour les matchs (et comment le régler)",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-pourquoi-le-lissage-de-mouvement-de-votre-tv-est-votre-meilleur-allie-pour-les-matchs-et-comment-le-regler-496804.htm#xtor=123456",
@@ -26,32 +50,32 @@
       "sources_count": 3
     },
     {
-      "title": "Test Seeed Studio SenseCAP Card Tracker T1000-E : un traqueur d’objet alternatif qui n’utilise pas les réseaux de Google ou d’Apple",
-      "link": "https://www.zdnet.fr/guide-achat/test-seeed-studio-sensecap-card-tracker-t1000-e-un-traqueur-dobjet-alternatif-qui-nutilise-pas-les-reseaux-de-google-ou-dapple-496712.htm#xtor=123456",
-      "date": "lun, 15 Juin 2026 18:37:23 +0200",
-      "source": "ZDNet FR",
+      "title": "L’open source n’est plus « gratuit par défaut » : il devient un choix stratégique et responsable",
+      "link": "https://www.silicon.fr/open-source-1375/lopen-source-nest-plus-gratuit-par-defaut-il-devient-un-choix-strategique-et-responsable-227702",
+      "date": "Tue, 16 Jun 2026 14:02:45 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Énergie pratique : 10 idées reçues sur la production électrique solaire domestique auxquelles il faut tordre le cou en 2026",
-      "link": "https://www.zdnet.fr/pratique/energie-pratique-10-idees-recues-sur-la-production-electrique-solaire-domestique-auxquelles-il-faut-tordre-le-cou-en-2026-496783.htm#xtor=123456",
-      "date": "lun, 15 Juin 2026 18:31:35 +0200",
-      "source": "ZDNet FR",
+      "title": "SpaceX avale Cursor pour 60 milliards $",
+      "link": "https://www.silicon.fr/business-1367/spacex-avale-cursor-pour-60-milliards-227696",
+      "date": "Tue, 16 Jun 2026 12:30:39 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Alpine Linux est une distribution ultra-rapide pour votre ordinateur de bureau – à une seule condition",
-      "link": "https://www.zdnet.fr/pratique/alpine-linux-est-une-distribution-ultra-rapide-pour-votre-ordinateur-de-bureau-a-une-seule-condition-496761.htm#xtor=123456",
-      "date": "dim, 14 Juin 2026 17:21:06 +0200",
-      "source": "ZDNet FR",
+      "title": "VMware, un vrai sujet de dépendance dans la sphère publique",
+      "link": "https://www.silicon.fr/business-1367/dependances-numeriques-vmware-sphere-publique-227690",
+      "date": "Tue, 16 Jun 2026 12:20:17 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
       "title": "La DGSI choisit le français ChapsVision et tourne le dos à Palantir",
-      "link": "https://www.silicon.fr/uncategorized/la-dgsi-choisit-le-francais-chapsvision-et-tourne-le-dos-a-palantir-227691",
+      "link": "https://www.silicon.fr/data-ia-1372/la-dgsi-choisit-le-francais-chapsvision-et-tourne-le-dos-a-palantir-227691",
       "date": "Tue, 16 Jun 2026 11:43:26 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
@@ -69,30 +93,6 @@
       "title": "DMA : les Big Tech multiplient les recours",
       "link": "https://www.silicon.fr/business-1367/dma-recours-pourvois-commission-europeenne-227667",
       "date": "Mon, 15 Jun 2026 14:36:10 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Suspension de Claude Mythos : des experts demandent la levée des restrictions",
-      "link": "https://www.silicon.fr/cybersecurite-1371/suspension-de-claude-mythos-des-experts-demandent-la-levee-des-restrictions-227672",
-      "date": "Mon, 15 Jun 2026 13:57:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Salesforce met 3,6 milliards $ sur Fin pour booster Agentforce",
-      "link": "https://www.silicon.fr/business-1367/salesforce-met-36-milliards-sur-fin-pour-booster-agentforce-227669",
-      "date": "Mon, 15 Jun 2026 13:21:48 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Bras de fer Trump-Anthropic : Bruxelles s’inquiète…l’agenda IPO fragilisé",
-      "link": "https://www.silicon.fr/cybersecurite-1371/bras-de-fer-trump-anthropic-bruxelles-sinquiete-lagenda-ipo-fragilise-227661",
-      "date": "Mon, 15 Jun 2026 10:02:27 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
