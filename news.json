@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-16T06:23:22.758051+00:00",
+  "updated": "2026-06-16T12:01:53.138162+00:00",
   "news": [
     {
-      "title": "Coupe du Monde 2026 : Pourquoi le lissage de mouvement de votre TV est votre meilleur allié pour les matchs (et comment le régler)",
+      "title": "Pourquoi le lissage de mouvement de votre TV est votre meilleur allié pour les matchs (et comment le régler)",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-pourquoi-le-lissage-de-mouvement-de-votre-tv-est-votre-meilleur-allie-pour-les-matchs-et-comment-le-regler-496804.htm#xtor=123456",
       "date": "lun, 15 Juin 2026 22:30:05 +0200",
       "source": "ZDNet FR",
@@ -10,7 +10,7 @@
       "sources_count": 3
     },
     {
-      "title": "Coupe du Monde 2026 : Écran noir ou bug de l'application en plein direct ? Mettez à jour votre TV par USB (même sans Wi-Fi)",
+      "title": "Écran noir ou bug de l'application en plein direct ? Mettez à jour votre TV par USB (même sans Wi-Fi)",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-ecran-noir-ou-bug-de-lapplication-en-plein-direct-mettez-a-jour-votre-tv-par-usb-meme-sans-wi-fi-496800.htm#xtor=123456",
       "date": "lun, 15 Juin 2026 22:00:26 +0200",
       "source": "ZDNet FR",
@@ -18,7 +18,7 @@
       "sources_count": 3
     },
     {
-      "title": "Coupe du Monde 2026 : comment diffuser les matchs depuis votre iPhone sur votre TV avec AirPlay ou la copie d'écran",
+      "title": "Comment diffuser les matchs depuis votre iPhone sur votre TV avec AirPlay ou la copie d'écran",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-comment-diffuser-les-matchs-depuis-votre-iphone-sur-votre-tv-avec-airplay-ou-la-copie-decran-496795.htm#xtor=123456",
       "date": "lun, 15 Juin 2026 21:30:07 +0200",
       "source": "ZDNet FR",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "La DGSI choisit le français ChapsVision et tourne le dos à Palantir",
+      "link": "https://www.silicon.fr/uncategorized/la-dgsi-choisit-le-francais-chapsvision-et-tourne-le-dos-a-palantir-227691",
+      "date": "Tue, 16 Jun 2026 11:43:26 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’Arcep expose ses « chiffres de terrain » sur l’empreinte énergétique des LLM",
+      "link": "https://www.silicon.fr/green-it-1374/consommation-energetique-llm-227683",
+      "date": "Tue, 16 Jun 2026 08:47:22 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "DMA : les Big Tech multiplient les recours",
       "link": "https://www.silicon.fr/business-1367/dma-recours-pourvois-commission-europeenne-227667",
       "date": "Mon, 15 Jun 2026 14:36:10 +0000",
@@ -77,22 +93,6 @@
       "title": "Bras de fer Trump-Anthropic : Bruxelles s’inquiète…l’agenda IPO fragilisé",
       "link": "https://www.silicon.fr/cybersecurite-1371/bras-de-fer-trump-anthropic-bruxelles-sinquiete-lagenda-ipo-fragilise-227661",
       "date": "Mon, 15 Jun 2026 10:02:27 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Yogosha repris à la barre par Groupe Créative",
-      "link": "https://www.silicon.fr/cybersecurite-1371/yogosha-groupe-creative-227657",
-      "date": "Mon, 15 Jun 2026 07:55:51 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La sécurité de npm, un jeu d’équilibriste pour GitHub",
-      "link": "https://www.silicon.fr/cybersecurite-1371/github-securite-npm-227651",
-      "date": "Fri, 12 Jun 2026 15:18:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
