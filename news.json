@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T10:54:13.684774+00:00",
+  "updated": "2026-06-17T14:22:51.660743+00:00",
   "news": [
     {
       "title": "iPhone ou Android, comment diffuser les matchs de votre téléphone directement sur votre téléviseur",
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "Moderniser COBOL avec l’IA générative",
+      "link": "https://www.silicon.fr/data-ia-1372/moderniser-cobol-avec-lia-generative-227761",
+      "date": "Wed, 17 Jun 2026 13:43:28 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Gamaredon : comment le FSB a réinventé son arsenal d’espionnage",
+      "link": "https://www.silicon.fr/cybersecurite-1371/gamaredon-comment-le-fsb-a-reinvente-son-arsenal-despionnage-227749",
+      "date": "Wed, 17 Jun 2026 13:13:43 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Bercy crée une Direction de l’intelligence artificielle et du numérique pour accélérer sa transformation",
+      "link": "https://www.silicon.fr/data-ia-1372/bercy-cree-une-direction-de-lintelligence-artificielle-et-du-numerique-pour-accelerer-sa-transformation-227741",
+      "date": "Wed, 17 Jun 2026 12:03:37 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "{ VivaTech 2026 } – L’Oréal choisit OpenAI pour ses projets IA",
       "link": "https://www.silicon.fr/data-ia-1372/vivatech-2026-loreal-choisit-openai-pour-ses-projets-ia-227738",
       "date": "Wed, 17 Jun 2026 10:49:41 +0000",
@@ -69,30 +93,6 @@
       "title": "L’open source n’est plus « gratuit par défaut » : il devient un choix stratégique et responsable",
       "link": "https://www.silicon.fr/open-source-1375/lopen-source-nest-plus-gratuit-par-defaut-il-devient-un-choix-strategique-et-responsable-227702",
       "date": "Tue, 16 Jun 2026 14:02:45 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "SpaceX avale Cursor pour 60 milliards $",
-      "link": "https://www.silicon.fr/business-1367/spacex-avale-cursor-pour-60-milliards-227696",
-      "date": "Tue, 16 Jun 2026 12:30:39 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "VMware, un vrai sujet de dépendance dans la sphère publique",
-      "link": "https://www.silicon.fr/business-1367/dependances-numeriques-vmware-sphere-publique-227690",
-      "date": "Tue, 16 Jun 2026 12:20:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La DGSI choisit le français ChapsVision et tourne le dos à Palantir",
-      "link": "https://www.silicon.fr/data-ia-1372/la-dgsi-choisit-le-francais-chapsvision-et-tourne-le-dos-a-palantir-227691",
-      "date": "Tue, 16 Jun 2026 11:43:26 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
