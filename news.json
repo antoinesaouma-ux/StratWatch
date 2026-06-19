@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-19T11:12:47.055147+00:00",
+  "updated": "2026-06-19T14:39:34.059821+00:00",
   "news": [
+    {
+      "title": "Antivirus PC : lequel choisir en 2026 pour protéger vos appareils ?",
+      "link": "https://www.zdnet.fr/guide-achat/antivirus-pc-lequel-choisir-en-2026-pour-proteger-vos-appareils-497149.htm#xtor=123456",
+      "date": "ven, 19 Juin 2026 14:30:48 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Votre TV Samsung rame ? L'astuce magique de 5 secondes pour retrouver sa rapidité avant le match",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-votre-tv-samsung-rame-lastuce-magique-de-5-secondes-pour-retrouver-sa-rapidite-avant-le-match-496809.htm#xtor=123456",
@@ -13,14 +21,6 @@
       "title": "Test Baseus Spacemate RD1 Pro : une station d'accueil 15-en-1 qui met de l'ordre sur le bureau",
       "link": "https://www.zdnet.fr/guide-achat/test-baseus-spacemate-rd1-pro-une-station-daccueil-15-en-1-qui-met-de-lordre-sur-le-bureau-497099.htm#xtor=123456",
       "date": "mer, 17 Juin 2026 21:31:56 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Énergie pratique : gardez ces trois appareils toujours branchés sur une station électrique",
-      "link": "https://www.zdnet.fr/pratique/energie-pratique-gardez-ces-trois-appareils-toujours-branches-sur-une-station-electrique-497080.htm#xtor=123456",
-      "date": "mer, 17 Juin 2026 19:31:58 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Nos 5 conseils pour réduire votre dépendance à l’hyperviseur",
-      "link": "https://www.silicon.fr/uncategorized/nos-5-conseils-pour-reduire-votre-dependance-a-lhyperviseur-227770",
-      "date": "Wed, 17 Jun 2026 16:16:16 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Microsoft et le secteur public : les mille facettes d’un ancrage profond",
       "link": "https://www.silicon.fr/business-1367/microsoft-secteur-public-227829",
       "date": "Thu, 18 Jun 2026 15:42:41 +0000",
@@ -82,9 +74,17 @@
       "sources_count": 3
     },
     {
-      "title": "Alibaba Cloud inaugure sa région France sans services IA",
-      "link": "https://www.silicon.fr/cloud-1370/alibaba-cloud-france-227780",
-      "date": "Thu, 18 Jun 2026 08:38:13 +0000",
+      "title": "Databricks joue l’alternative à HTAP pour unifier transactionnel et analytique",
+      "link": "https://www.silicon.fr/data-ia-1372/databricks-ltap-227943",
+      "date": "Fri, 19 Jun 2026 12:35:56 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "NIS2 en suspens : les RSSI attendent, le marché aussi",
+      "link": "https://www.silicon.fr/cybersecurite-1371/nis2-en-suspens-les-rssi-attendent-le-marche-aussi-227945",
+      "date": "Fri, 19 Jun 2026 12:16:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
