@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T06:06:40.545540+00:00",
+  "updated": "2026-06-19T11:12:47.055147+00:00",
   "news": [
     {
       "title": "Votre TV Samsung rame ? L'astuce magique de 5 secondes pour retrouver sa rapidité avant le match",
@@ -58,14 +58,6 @@
       "sources_count": 3
     },
     {
-      "title": "Moderniser COBOL avec l’IA générative",
-      "link": "https://www.silicon.fr/data-ia-1372/moderniser-cobol-avec-lia-generative-227761",
-      "date": "Wed, 17 Jun 2026 13:43:28 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Microsoft et le secteur public : les mille facettes d’un ancrage profond",
       "link": "https://www.silicon.fr/business-1367/microsoft-secteur-public-227829",
       "date": "Thu, 18 Jun 2026 15:42:41 +0000",
@@ -93,6 +85,14 @@
       "title": "Alibaba Cloud inaugure sa région France sans services IA",
       "link": "https://www.silicon.fr/cloud-1370/alibaba-cloud-france-227780",
       "date": "Thu, 18 Jun 2026 08:38:13 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "La CJUE consacre la responsabilité des sites sur les contenus triés par algorithme",
+      "link": "https://www.silicon.fr/business-1367/cjue-reseaux-sociaux-information-algorithmes-227900",
+      "date": "Fri, 19 Jun 2026 08:42:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
