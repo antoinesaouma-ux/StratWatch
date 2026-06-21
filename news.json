@@ -1,14 +1,6 @@
 {
-  "updated": "2026-06-21T07:23:44.958413+00:00",
+  "updated": "2026-06-21T10:58:25.818234+00:00",
   "news": [
-    {
-      "title": "Votre TV connectée rame ou saccade ? 6 réglages pour doper ses performances avant le match",
-      "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-votre-tv-connectee-rame-ou-saccade-6-reglages-pour-doper-ses-performances-avant-le-match-496814.htm#xtor=123456",
-      "date": "ven, 19 Juin 2026 22:00:06 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
     {
       "title": "Vous possédez un téléviseur Sony Bravia ? Modifiez ces 3 paramètres pour transfigurer l'image des matchs",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-vous-possedez-un-televiseur-sony-bravia-modifiez-ces-3-parametres-pour-transfigurer-limage-des-matchs-496816.htm#xtor=123456",
@@ -42,9 +34,17 @@
       "sources_count": 3
     },
     {
-      "title": "Android : pourquoi vous devriez remplacer Gboard par ce clavier open source",
-      "link": "https://www.zdnet.fr/pratique/android-pourquoi-vous-devriez-remplacer-gboard-par-ce-clavier-open-source-497209.htm#xtor=123456",
-      "date": "sam, 20 Juin 2026 09:01:12 +0200",
+      "title": "Des entreprises établissent votre profil à partir de votre utilisation du smartphone : comment les en empêcher ?",
+      "link": "https://www.zdnet.fr/pratique/des-entreprises-etablissent-votre-profil-a-partir-de-votre-utilisation-du-smartphone-comment-les-en-empecher-497335.htm#xtor=123456",
+      "date": "dim, 21 Juin 2026 09:31:52 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Confidentialité, spam, Gemini : les 9 paramètres Google Messages à changer absolument",
+      "link": "https://www.zdnet.fr/pratique/confidentialite-spam-gemini-les-9-parametres-google-messages-a-changer-absolument-497252.htm#xtor=123456",
+      "date": "dim, 21 Juin 2026 09:05:48 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
