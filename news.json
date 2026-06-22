@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-22T12:41:57.321477+00:00",
+  "updated": "2026-06-22T17:24:34.744792+00:00",
   "news": [
+    {
+      "title": "Comment faire tourner Linux sur un Mac grâce à Container",
+      "link": "https://www.zdnet.fr/pratique/comment-faire-tourner-linux-sur-un-mac-grace-a-container-497346.htm#xtor=123456",
+      "date": "lun, 22 Juin 2026 17:50:30 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Vous possédez un téléviseur Hisense ? Voici comment régler votre écran pour sublimer l'image des matchs",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-vous-possedez-un-televiseur-hisense-voici-comment-regler-votre-ecran-pour-sublimer-limage-des-matchs-496818.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Confidentialité, spam, Gemini : les 9 paramètres Google Messages à changer absolument",
-      "link": "https://www.zdnet.fr/pratique/confidentialite-spam-gemini-les-9-parametres-google-messages-a-changer-absolument-497252.htm#xtor=123456",
-      "date": "dim, 21 Juin 2026 09:05:48 +0200",
-      "source": "ZDNet FR",
+      "title": "Des Big Tech portent un projet pour standardiser la découverte des ressources agentiques",
+      "link": "https://www.silicon.fr/data-ia-1372/ai-catalog-agentic-resource-discovery-ard-227960",
+      "date": "Mon, 22 Jun 2026 12:57:09 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "NIS2 en suspens : les RSSI attendent, le marché aussi",
       "link": "https://www.silicon.fr/cybersecurite-1371/nis2-en-suspens-les-rssi-attendent-le-marche-aussi-227945",
       "date": "Fri, 19 Jun 2026 12:16:19 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La CJUE consacre la responsabilité des sites sur les contenus triés par algorithme",
-      "link": "https://www.silicon.fr/business-1367/cjue-reseaux-sociaux-information-algorithmes-227900",
-      "date": "Fri, 19 Jun 2026 08:42:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
