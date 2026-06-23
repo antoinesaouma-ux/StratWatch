@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-23T13:34:47.237753+00:00",
+  "updated": "2026-06-23T16:19:19.758266+00:00",
   "news": [
+    {
+      "title": "IA en entreprise : 5 conseils pour automatiser les processus et mettre fin aux tracas liés à l'intégration des données",
+      "link": "https://www.zdnet.fr/pratique/ia-en-entreprise-cinq-conseils-pour-automatiser-les-processus-et-mettre-fin-aux-tracas-lies-a-lintegration-des-donnees-497414.htm#xtor=123456",
+      "date": "mar, 23 Juin 2026 16:01:47 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "60 Hz, 120 Hz ou 165 Hz ? Décryptez le taux de rafraîchissement de votre TV pour suivre le ballon sans aucun flou",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-60-hz-120-hz-ou-165-hz-decryptez-le-taux-de-rafraichissement-de-votre-tv-pour-suivre-le-ballon-sans-aucun-flou-496820.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Hébergement WordPress : lequel choisir en 2026 ?",
-      "link": "https://www.zdnet.fr/guide-achat/hebergement-wordpress-lequel-choisir-en-2026-497154.htm#xtor=123456",
-      "date": "dim, 21 Juin 2026 14:30:50 +0200",
-      "source": "ZDNet FR",
+      "title": "DevSecOps : la « plate-forme », une notion relative",
+      "link": "https://www.silicon.fr/cloud-1370/devsecops-magic-quadrant-2026-227986",
+      "date": "Tue, 23 Jun 2026 13:41:13 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Éducation, recherche, finances… L’empreinte d’Oracle dans les SI de l’État",
       "link": "https://www.silicon.fr/business-1367/oracle-secteur-public-dependance-227950",
       "date": "Mon, 22 Jun 2026 06:00:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA : après l’ivresse, le budget",
-      "link": "https://www.silicon.fr/data-ia-1372/ia-apres-livresse-le-budget-227951",
-      "date": "Fri, 19 Jun 2026 14:39:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
