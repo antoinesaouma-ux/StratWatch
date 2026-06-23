@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T03:34:23.193681+00:00",
+  "updated": "2026-06-23T07:37:36.040970+00:00",
   "news": [
     {
       "title": "60 Hz, 120 Hz ou 165 Hz ? Décryptez le taux de rafraîchissement de votre TV pour suivre le ballon sans aucun flou",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "De NetApp à Dell, changement d’échelle pour Guillaume de Landtsheer",
+      "link": "https://www.silicon.fr/business-1367/guillaume-de-landtsheer-dell-227974",
+      "date": "Tue, 23 Jun 2026 06:52:12 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Des Big Tech portent un projet pour standardiser la découverte des ressources agentiques",
       "link": "https://www.silicon.fr/data-ia-1372/ai-catalog-agentic-resource-discovery-ard-227960",
       "date": "Mon, 22 Jun 2026 12:57:09 +0000",
@@ -85,14 +93,6 @@
       "title": "Databricks joue l’alternative à HTAP pour unifier transactionnel et analytique",
       "link": "https://www.silicon.fr/data-ia-1372/databricks-ltap-227943",
       "date": "Fri, 19 Jun 2026 12:35:56 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "NIS2 en suspens : les RSSI attendent, le marché aussi",
-      "link": "https://www.silicon.fr/cybersecurite-1371/nis2-en-suspens-les-rssi-attendent-le-marche-aussi-227945",
-      "date": "Fri, 19 Jun 2026 12:16:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
