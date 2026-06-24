@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-24T13:10:21.612326+00:00",
+  "updated": "2026-06-24T16:07:04.162350+00:00",
   "news": [
+    {
+      "title": "IA en entreprise : avant de lâcher les chevaux en déployant des agents d’IA, 4 conseils",
+      "link": "https://www.zdnet.fr/pratique/ia-en-entreprise-avant-de-lacher-les-chevaux-en-deployant-des-agents-dintelligence-artificielle-4-facons-dagir-avec-une-extreme-prudence-497530.htm#xtor=123456",
+      "date": "mer, 24 Juin 2026 16:30:52 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: après plusieurs mois de test, voici lequel de ces deux casques choisir",
       "link": "https://www.zdnet.fr/guide-achat/sony-wh-1000xm6-vs-sennheiser-momentum-5-apres-plusieurs-mois-de-test-voici-lequel-de-ces-deux-casques-choisir-497457.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "Test Marshall Milton ANC : un supra-auriculaire bien différent des autres",
       "link": "https://www.zdnet.fr/guide-achat/test-marshall-milton-anc-un-supra-auriculaire-bien-different-des-autres-497360.htm#xtor=123456",
       "date": "lun, 22 Juin 2026 18:50:34 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment faire tourner Linux sur un Mac grâce à Container",
-      "link": "https://www.zdnet.fr/pratique/comment-faire-tourner-linux-sur-un-mac-grace-a-container-497346.htm#xtor=123456",
-      "date": "lun, 22 Juin 2026 17:50:30 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
