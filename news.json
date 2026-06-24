@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T06:35:04.229081+00:00",
+  "updated": "2026-06-24T10:12:48.023109+00:00",
   "news": [
     {
       "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: après plusieurs mois de test, voici lequel de ces deux casques choisir",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Dopé aux microVM, Lambda se rapproche d’AgentCore",
+      "link": "https://www.silicon.fr/data-ia-1372/aws-microvm-lambda-227992",
+      "date": "Wed, 24 Jun 2026 08:23:26 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Le RIPE NCC freine sa marche vers le cloud",
+      "link": "https://www.silicon.fr/cloud-1370/le-ripe-ncc-freine-sa-marche-vers-le-cloud-227968",
+      "date": "Wed, 24 Jun 2026 06:41:18 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "DevSecOps : la « plate-forme », une notion relative",
       "link": "https://www.silicon.fr/cloud-1370/devsecops-magic-quadrant-2026-227986",
       "date": "Tue, 23 Jun 2026 13:41:13 +0000",
@@ -77,22 +93,6 @@
       "title": "Des Big Tech portent un projet pour standardiser la découverte des ressources agentiques",
       "link": "https://www.silicon.fr/data-ia-1372/ai-catalog-agentic-resource-discovery-ard-227960",
       "date": "Mon, 22 Jun 2026 12:57:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’Estonie esquisse un registre national d’identités pour les agents IA",
-      "link": "https://www.silicon.fr/data-ia-1372/agents-ia-identites-estonie-227957",
-      "date": "Mon, 22 Jun 2026 07:30:43 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Éducation, recherche, finances… L’empreinte d’Oracle dans les SI de l’État",
-      "link": "https://www.silicon.fr/business-1367/oracle-secteur-public-dependance-227950",
-      "date": "Mon, 22 Jun 2026 06:00:06 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
