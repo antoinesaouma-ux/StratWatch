@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T10:12:48.023109+00:00",
+  "updated": "2026-06-24T13:10:21.612326+00:00",
   "news": [
     {
       "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: après plusieurs mois de test, voici lequel de ces deux casques choisir",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Chez Mistral AI, l’OCR s’enrichit, mais cela a un prix",
+      "link": "https://www.silicon.fr/data-ia-1372/mistral-ai-ocr-228004",
+      "date": "Wed, 24 Jun 2026 12:20:32 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Dopé aux microVM, Lambda se rapproche d’AgentCore",
       "link": "https://www.silicon.fr/data-ia-1372/aws-microvm-lambda-227992",
       "date": "Wed, 24 Jun 2026 08:23:26 +0000",
@@ -85,14 +93,6 @@
       "title": "De NetApp à Dell, changement d’échelle pour Guillaume de Landtsheer",
       "link": "https://www.silicon.fr/business-1367/guillaume-de-landtsheer-dell-227974",
       "date": "Tue, 23 Jun 2026 06:52:12 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Des Big Tech portent un projet pour standardiser la découverte des ressources agentiques",
-      "link": "https://www.silicon.fr/data-ia-1372/ai-catalog-agentic-resource-discovery-ard-227960",
-      "date": "Mon, 22 Jun 2026 12:57:09 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
