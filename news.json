@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-26T13:02:14.988749+00:00",
+  "updated": "2026-06-26T16:05:32.988155+00:00",
   "news": [
+    {
+      "title": "Web pratique : remplacez Google Search par DuckDuckGo et Perplexity pour de meilleurs résultats",
+      "link": "https://www.zdnet.fr/pratique/web-pratique-remplacez-google-search-par-duckduckgo-et-perplexity-pour-des-resultats-nettement-ameliores-497650.htm#xtor=123456",
+      "date": "ven, 26 Juin 2026 17:38:30 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Hébergement e-commerce : comment choisir la bonne solution pour sa boutique en ligne ?",
       "link": "https://www.zdnet.fr/guide-achat/hebergement-e-commerce-comment-choisir-la-bonne-solution-pour-sa-boutique-en-ligne-497413.htm#xtor=123456",
@@ -42,30 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Comment choisir un hébergeur pour son site web ?",
-      "link": "https://www.zdnet.fr/guide-achat/comment-choisir-un-hebergeur-pour-son-site-web-497424.htm#xtor=123456",
-      "date": "jeu, 25 Juin 2026 14:30:13 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Chez Mistral AI, l’OCR s’enrichit, mais cela a un prix",
-      "link": "https://www.silicon.fr/data-ia-1372/mistral-ai-ocr-228004",
-      "date": "Wed, 24 Jun 2026 12:20:32 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Dopé aux microVM, Lambda se rapproche d’AgentCore",
-      "link": "https://www.silicon.fr/data-ia-1372/aws-microvm-lambda-227992",
-      "date": "Wed, 24 Jun 2026 08:23:26 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Quelques solutions françaises pour amorcer la transition post-quantique",
       "link": "https://www.silicon.fr/cybersecurite-1371/post-quantique-solutions-francaises-228008",
       "date": "Thu, 25 Jun 2026 10:06:58 +0000",
@@ -77,6 +61,22 @@
       "title": "Ceci n’est pas un PC Copilot+ : Microsoft relance des Surface 8 Go",
       "link": "https://www.silicon.fr/workspace-1376/microsoft-surface-8-go-227989",
       "date": "Thu, 25 Jun 2026 06:52:23 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’UE veut soumettre AWS et Azure au DMA : l’IA a compté",
+      "link": "https://www.silicon.fr/cloud-1370/aws-azure-dma-228040",
+      "date": "Fri, 26 Jun 2026 15:45:58 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "REGALIA, une synthèse des enjeux de régulation des algorithmes",
+      "link": "https://www.silicon.fr/data-ia-1372/regalia-une-synthese-des-enjeux-de-regulation-des-algorithmes-228022",
+      "date": "Fri, 26 Jun 2026 13:32:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
