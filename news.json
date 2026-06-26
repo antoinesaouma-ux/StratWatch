@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-26T16:05:32.988155+00:00",
+  "updated": "2026-06-26T18:21:44.367047+00:00",
   "news": [
+    {
+      "title": "PC pratique : l’outil Windows gratuit AppControl montre exactement pourquoi votre ordinateur ralentit",
+      "link": "https://www.zdnet.fr/pratique/pc-pratique-loutil-windows-gratuit-appcontrol-montre-exactement-pourquoi-votre-ordinateur-ralentit-497734.htm#xtor=123456",
+      "date": "ven, 26 Juin 2026 18:15:58 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Web pratique : remplacez Google Search par DuckDuckGo et Perplexity pour de meilleurs résultats",
       "link": "https://www.zdnet.fr/pratique/web-pratique-remplacez-google-search-par-duckduckgo-et-perplexity-pour-des-resultats-nettement-ameliores-497650.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "8 astuces HDMI indispensables pour éviter les bugs d'écran et vivre les matchs des Bleus à 100 %",
       "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-8-astuces-hdmi-indispensables-pour-eviter-les-bugs-decran-et-vivre-les-matchs-des-bleus-a-100-496839.htm#xtor=123456",
       "date": "jeu, 25 Juin 2026 22:00:59 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Vendefoul Wolf : une distribution Linux à contre-courant, avec des résultats exceptionnels",
-      "link": "https://www.zdnet.fr/guide-achat/vendefoul-wolf-une-distribution-linux-a-contre-courant-avec-des-resultats-exceptionnels-497690.htm#xtor=123456",
-      "date": "jeu, 25 Juin 2026 17:22:21 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
