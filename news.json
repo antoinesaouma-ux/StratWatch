@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-26T10:12:52.632360+00:00",
+  "updated": "2026-06-26T13:02:14.988749+00:00",
   "news": [
     {
-      "title": "Test Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition : un ultraportable qui préfigure ce que devrait être la réparabilité",
-      "link": "https://www.zdnet.fr/guide-achat/test-lenovo-thinkpad-x1-carbon-gen-14-aura-edition-un-ultraportabke-qui-prefigure-ce-que-devrait-etre-la-reparabilite-a-lavenir-497504.htm#xtor=123456",
-      "date": "mer, 24 Juin 2026 22:07:54 +0200",
+      "title": "Hébergement e-commerce : comment choisir la bonne solution pour sa boutique en ligne ?",
+      "link": "https://www.zdnet.fr/guide-achat/hebergement-e-commerce-comment-choisir-la-bonne-solution-pour-sa-boutique-en-ligne-497413.htm#xtor=123456",
+      "date": "ven, 26 Juin 2026 14:30:15 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -66,14 +66,6 @@
       "sources_count": 3
     },
     {
-      "title": "Le RIPE NCC freine sa marche vers le cloud",
-      "link": "https://www.silicon.fr/cloud-1370/le-ripe-ncc-freine-sa-marche-vers-le-cloud-227968",
-      "date": "Wed, 24 Jun 2026 06:41:18 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Quelques solutions françaises pour amorcer la transition post-quantique",
       "link": "https://www.silicon.fr/cybersecurite-1371/post-quantique-solutions-francaises-228008",
       "date": "Thu, 25 Jun 2026 10:06:58 +0000",
@@ -85,6 +77,14 @@
       "title": "Ceci n’est pas un PC Copilot+ : Microsoft relance des Surface 8 Go",
       "link": "https://www.silicon.fr/workspace-1376/microsoft-surface-8-go-227989",
       "date": "Thu, 25 Jun 2026 06:52:23 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Sécurité de la supply chain logicielle : des outils complexes à mettre en action",
+      "link": "https://www.silicon.fr/cybersecurite-1371/securite-chaine-approvisionnement-logicielle-magic-quadrant-2026-228033",
+      "date": "Fri, 26 Jun 2026 11:54:00 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
