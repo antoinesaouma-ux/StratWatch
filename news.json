@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-30T13:02:45.768389+00:00",
+  "updated": "2026-06-30T16:14:57.014398+00:00",
   "news": [
+    {
+      "title": "Comment donner à Linux l'apparence de macOS, gratuitement, grâce à quelques réglages simples sous ZorinOS",
+      "link": "https://www.zdnet.fr/pratique/comment-donner-a-linux-lapparence-de-macos-gratuitement-grace-a-quelques-reglages-simples-sous-zorinos-497976.htm#xtor=123456",
+      "date": "mar, 30 Juin 2026 15:07:51 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "VPN sur iPhone : les réglages essentiels pour protéger sa navigation",
       "link": "https://www.zdnet.fr/guide-achat/vpn-sur-iphone-les-reglages-essentiels-pour-proteger-sa-navigation-497882.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "3 méthodes simples pour dupliquer l'écran de votre smartphone Android sur la TV du salon",
-      "link": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-3-methodes-simples-pour-dupliquer-lecran-de-votre-smartphone-android-sur-la-tv-du-salon-496845.htm#xtor=123456",
-      "date": "dim, 28 Juin 2026 22:00:09 +0200",
-      "source": "ZDNet FR",
+      "title": "D’AWS à GCP, comment l’IA de Slack est devenue multicloud",
+      "link": "https://www.silicon.fr/cloud-1370/slack-ai-multicloud-228066",
+      "date": "Tue, 30 Jun 2026 13:54:37 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "REGALIA, une synthèse des enjeux de régulation des algorithmes",
       "link": "https://www.silicon.fr/data-ia-1372/regalia-une-synthese-des-enjeux-de-regulation-des-algorithmes-228022",
       "date": "Fri, 26 Jun 2026 13:32:42 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Sécurité de la supply chain logicielle : des outils complexes à mettre en action",
-      "link": "https://www.silicon.fr/cybersecurite-1371/securite-chaine-approvisionnement-logicielle-magic-quadrant-2026-228033",
-      "date": "Fri, 26 Jun 2026 11:54:00 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
