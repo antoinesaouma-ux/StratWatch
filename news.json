@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T06:44:26.109278+00:00",
+  "updated": "2026-06-30T10:23:21.664649+00:00",
   "news": [
     {
       "title": "Votre match plante ou saccade ? L'astuce rapide pour vider le cache de votre TV connectée",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "La Région Île-de-France tente d’encadrer le boom des datacenters",
+      "link": "https://www.silicon.fr/business-1367/datacenters-ile-de-france-228060",
+      "date": "Tue, 30 Jun 2026 09:12:55 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Comment l’UE se représente l’open source en France",
       "link": "https://www.silicon.fr/open-source-1375/open-source-france-2026-228055",
       "date": "Mon, 29 Jun 2026 15:24:31 +0000",
@@ -85,14 +93,6 @@
       "title": "Sécurité de la supply chain logicielle : des outils complexes à mettre en action",
       "link": "https://www.silicon.fr/cybersecurite-1371/securite-chaine-approvisionnement-logicielle-magic-quadrant-2026-228033",
       "date": "Fri, 26 Jun 2026 11:54:00 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Jalapeño plutôt que Stargate : OpenAI a revu ses priorités",
-      "link": "https://www.silicon.fr/business-1367/openai-stargate-jalapeno-228028",
-      "date": "Fri, 26 Jun 2026 09:57:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
