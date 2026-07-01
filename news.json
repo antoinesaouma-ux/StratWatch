@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-01T14:04:53.366229+00:00",
+  "updated": "2026-07-01T17:04:44.641891+00:00",
   "news": [
+    {
+      "title": "Internet pratique : 3 façons d’utiliser un smartphone Android comme connexion de secours pour un routeur",
+      "link": "https://www.zdnet.fr/pratique/internet-pratique-3-facons-dutiliser-un-smartphone-android-comme-connexion-de-secours-pour-un-routeur-498036.htm#xtor=123456",
+      "date": "mer, 01 Juil 2026 18:08:36 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Retour d’expérience : j'ai fait remplacer la batterie de mon iPhone à l'Apple Store pour la toute première fois et j'en ai tiré une leçon précieuse",
+      "link": "https://www.zdnet.fr/pratique/retour-dexperience-jai-fait-remplacer-la-batterie-de-mon-iphone-a-lapple-store-pour-la-toute-premiere-fois-et-jen-ai-tire-une-lecon-precieuse-498022.htm#xtor=123456",
+      "date": "mer, 01 Juil 2026 17:30:39 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Hébergeur site web gratuit : ce qu'il faut savoir avant de choisir",
       "link": "https://www.zdnet.fr/guide-achat/hebergeur-site-web-gratuit-ce-quil-faut-savoir-avant-de-choisir-497753.htm#xtor=123456",
@@ -34,18 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "Comment donner à Linux l'apparence de macOS, gratuitement, grâce à quelques réglages simples sous ZorinOS",
-      "link": "https://www.zdnet.fr/pratique/comment-donner-a-linux-lapparence-de-macos-gratuitement-grace-a-quelques-reglages-simples-sous-zorinos-497976.htm#xtor=123456",
-      "date": "mar, 30 Juin 2026 15:07:51 +0200",
-      "source": "ZDNet FR",
+      "title": "Pour 3 Md$, Schneider Electric absorbe Cognite, un concurrent sur l’IA industrielle",
+      "link": "https://www.silicon.fr/business-1367/schneider-electric-cognite-228097",
+      "date": "Wed, 01 Jul 2026 16:47:50 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "VPN sur iPhone : les réglages essentiels pour protéger sa navigation",
-      "link": "https://www.zdnet.fr/guide-achat/vpn-sur-iphone-les-reglages-essentiels-pour-proteger-sa-navigation-497882.htm#xtor=123456",
-      "date": "mar, 30 Juin 2026 14:30:41 +0200",
-      "source": "ZDNet FR",
+      "title": "Gestion du SaaS : l’Europe est devenue un point focal",
+      "link": "https://www.silicon.fr/cloud-1370/gestion-saas-magic-quadrant-2026-228085",
+      "date": "Wed, 01 Jul 2026 14:39:05 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "La Région Île-de-France tente d’encadrer le boom des datacenters",
       "link": "https://www.silicon.fr/business-1367/datacenters-ile-de-france-228060",
       "date": "Tue, 30 Jun 2026 09:12:55 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment l’UE se représente l’open source en France",
-      "link": "https://www.silicon.fr/open-source-1375/open-source-france-2026-228055",
-      "date": "Mon, 29 Jun 2026 15:24:31 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Après Claude Mythos, le « déclic » préoccupant de l’administration US",
-      "link": "https://www.silicon.fr/data-ia-1372/etats-unis-openai-anthropic-controles-228050",
-      "date": "Mon, 29 Jun 2026 10:18:09 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
