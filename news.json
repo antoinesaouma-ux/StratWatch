@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T07:02:55.078622+00:00",
+  "updated": "2026-07-01T11:15:38.253273+00:00",
   "news": [
     {
       "title": "Le port USB de votre TV a des super-pouvoirs cachés pour vos soirées de matchs (et comment en profiter)",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Le nouveau modèle de gouvernance de MySQL fait des sceptiques",
+      "link": "https://www.silicon.fr/data-ia-1372/mysql-modele-gouvernance-228078",
+      "date": "Wed, 01 Jul 2026 10:21:07 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "La Cour suprême US a-t-elle condamné le Data Privacy Framework ?",
       "link": "https://www.silicon.fr/data-ia-1372/data-privacy-framework-cour-supreme-228073",
       "date": "Tue, 30 Jun 2026 16:46:38 +0000",
@@ -85,14 +93,6 @@
       "title": "Après Claude Mythos, le « déclic » préoccupant de l’administration US",
       "link": "https://www.silicon.fr/data-ia-1372/etats-unis-openai-anthropic-controles-228050",
       "date": "Mon, 29 Jun 2026 10:18:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’UE veut soumettre AWS et Azure au DMA : l’IA a compté",
-      "link": "https://www.silicon.fr/cloud-1370/aws-azure-dma-228040",
-      "date": "Fri, 26 Jun 2026 15:45:58 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
