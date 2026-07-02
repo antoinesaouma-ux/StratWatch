@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:00:50.652967+00:00",
+  "updated": "2026-07-02T15:04:12.828833+00:00",
   "news": [
     {
       "title": "Internet pratique : 3 façons d’utiliser un smartphone Android comme connexion de secours pour un routeur",
@@ -42,58 +42,10 @@
       "sources_count": 3
     },
     {
-      "title": "Retour d’expérience : ce que j'ai appris après des années à tester les caméras thermiques",
-      "link": "https://www.zdnet.fr/pratique/retour-dexperience-ce-que-jai-appris-apres-des-annees-a-tester-les-cameras-thermiques-497926.htm#xtor=123456",
-      "date": "mar, 30 Juin 2026 20:00:58 +0200",
+      "title": "Comment j'ai stoppé une attaque de spam sur WordPress avec 4 700 lignes de code en deux jours – grâce au Codex et à Claude",
+      "link": "https://www.zdnet.fr/pratique/comment-jai-stoppe-une-attaque-de-spam-sur-wordpress-avec-4-700-lignes-de-code-en-deux-jours-grace-au-codex-et-a-claude-498169.htm#xtor=123456",
+      "date": "jeu, 02 Juil 2026 15:38:41 +0200",
       "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Pour 3 Md$, Schneider Electric absorbe Cognite, un concurrent sur l’IA industrielle",
-      "link": "https://www.silicon.fr/business-1367/schneider-electric-cognite-228097",
-      "date": "Wed, 01 Jul 2026 16:47:50 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Gestion du SaaS : l’Europe est devenue un point focal",
-      "link": "https://www.silicon.fr/cloud-1370/gestion-saas-magic-quadrant-2026-228085",
-      "date": "Wed, 01 Jul 2026 14:39:05 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Le nouveau modèle de gouvernance de MySQL fait des sceptiques",
-      "link": "https://www.silicon.fr/data-ia-1372/mysql-modele-gouvernance-228078",
-      "date": "Wed, 01 Jul 2026 10:21:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La Cour suprême US a-t-elle condamné le Data Privacy Framework ?",
-      "link": "https://www.silicon.fr/data-ia-1372/data-privacy-framework-cour-supreme-228073",
-      "date": "Tue, 30 Jun 2026 16:46:38 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "D’AWS à GCP, comment l’IA de Slack est devenue multicloud",
-      "link": "https://www.silicon.fr/cloud-1370/slack-ai-multicloud-228066",
-      "date": "Tue, 30 Jun 2026 13:54:37 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Numeum renouvelle sa gouvernance : les entrants, les sortants",
-      "link": "https://www.silicon.fr/business-1367/numeum-renouvelle-gouvernance-228100",
-      "date": "Thu, 02 Jul 2026 10:09:59 +0000",
-      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     }
