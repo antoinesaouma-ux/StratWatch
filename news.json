@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:04:12.828833+00:00",
+  "updated": "2026-07-02T17:24:58.398582+00:00",
   "news": [
     {
       "title": "Internet pratique : 3 façons d’utiliser un smartphone Android comme connexion de secours pour un routeur",
@@ -46,6 +46,54 @@
       "link": "https://www.zdnet.fr/pratique/comment-jai-stoppe-une-attaque-de-spam-sur-wordpress-avec-4-700-lignes-de-code-en-deux-jours-grace-au-codex-et-a-claude-498169.htm#xtor=123456",
       "date": "jeu, 02 Juil 2026 15:38:41 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Pour 3 Md$, Schneider Electric absorbe Cognite, un concurrent sur l’IA industrielle",
+      "link": "https://www.silicon.fr/business-1367/schneider-electric-cognite-228097",
+      "date": "Wed, 01 Jul 2026 16:47:50 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Gestion du SaaS : l’Europe est devenue un point focal",
+      "link": "https://www.silicon.fr/cloud-1370/gestion-saas-magic-quadrant-2026-228085",
+      "date": "Wed, 01 Jul 2026 14:39:05 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Le nouveau modèle de gouvernance de MySQL fait des sceptiques",
+      "link": "https://www.silicon.fr/data-ia-1372/mysql-modele-gouvernance-228078",
+      "date": "Wed, 01 Jul 2026 10:21:07 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Meta va-t-il devenir un néocloud ?",
+      "link": "https://www.silicon.fr/cloud-1370/meta-neocloud-228128",
+      "date": "Thu, 02 Jul 2026 16:38:37 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Android : Google perd son bras de fer à 4,1 Md€ avec l’UE",
+      "link": "https://www.silicon.fr/business-1367/google-android-antitrust-amende-228118",
+      "date": "Thu, 02 Jul 2026 13:37:59 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Numeum renouvelle sa gouvernance : les entrants, les sortants",
+      "link": "https://www.silicon.fr/business-1367/numeum-renouvelle-gouvernance-228100",
+      "date": "Thu, 02 Jul 2026 10:09:59 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     }
