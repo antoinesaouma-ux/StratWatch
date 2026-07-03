@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T11:24:27.345396+00:00",
+  "updated": "2026-07-03T13:39:19.210279+00:00",
   "news": [
     {
       "title": "Internet pratique : 3 façons d’utiliser un smartphone Android comme connexion de secours pour un routeur",
@@ -66,14 +66,6 @@
       "sources_count": 3
     },
     {
-      "title": "Le nouveau modèle de gouvernance de MySQL fait des sceptiques",
-      "link": "https://www.silicon.fr/data-ia-1372/mysql-modele-gouvernance-228078",
-      "date": "Wed, 01 Jul 2026 10:21:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Meta va-t-il devenir un néocloud ?",
       "link": "https://www.silicon.fr/cloud-1370/meta-neocloud-228128",
       "date": "Thu, 02 Jul 2026 16:38:37 +0000",
@@ -93,6 +85,14 @@
       "title": "Numeum renouvelle sa gouvernance : les entrants, les sortants",
       "link": "https://www.silicon.fr/business-1367/numeum-renouvelle-gouvernance-228100",
       "date": "Thu, 02 Jul 2026 10:09:59 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’UE grave l’IA dans sa stratégie éducation-formation",
+      "link": "https://www.silicon.fr/emploi-formation-1373/ue-ia-formation-education-228137",
+      "date": "Fri, 03 Jul 2026 11:37:56 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
