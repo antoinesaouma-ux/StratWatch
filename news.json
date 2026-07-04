@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-04T05:48:41.360717+00:00",
+  "updated": "2026-07-04T08:21:29.946084+00:00",
   "news": [
+    {
+      "title": "J'ai modifié ces paramètres d'Android Auto pour limiter ce que Gemini apprend sur moi",
+      "link": "https://www.zdnet.fr/pratique/jai-modifie-ces-parametres-dandroid-auto-pour-limiter-ce-que-gemini-apprend-sur-moi-498116.htm#xtor=123456",
+      "date": "sam, 04 Juil 2026 09:00:07 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Internet pratique : 3 façons d’utiliser un smartphone Android comme connexion de secours pour un routeur",
       "link": "https://www.zdnet.fr/pratique/internet-pratique-3-facons-dutiliser-un-smartphone-android-comme-connexion-de-secours-pour-un-routeur-498036.htm#xtor=123456",
@@ -13,14 +21,6 @@
       "title": "Retour d’expérience : j'ai fait remplacer la batterie de mon iPhone à l'Apple Store pour la toute première fois et j'en ai tiré une leçon précieuse",
       "link": "https://www.zdnet.fr/pratique/retour-dexperience-jai-fait-remplacer-la-batterie-de-mon-iphone-a-lapple-store-pour-la-toute-premiere-fois-et-jen-ai-tire-une-lecon-precieuse-498022.htm#xtor=123456",
       "date": "mer, 01 Juil 2026 17:30:39 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Hébergeur site web gratuit : ce qu'il faut savoir avant de choisir",
-      "link": "https://www.zdnet.fr/guide-achat/hebergeur-site-web-gratuit-ce-quil-faut-savoir-avant-de-choisir-497753.htm#xtor=123456",
-      "date": "mer, 01 Juil 2026 14:30:46 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
