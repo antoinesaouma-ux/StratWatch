@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T07:00:08.654030+00:00",
+  "updated": "2026-07-06T11:53:27.813945+00:00",
   "news": [
     {
       "title": "Android pratique : activez ce nouveau paramètre de sécurité qui détecte les réseaux malveillants et les fausses antennes-relais",
@@ -18,9 +18,9 @@
       "sources_count": 3
     },
     {
-      "title": "J'ai modifié ces paramètres d'Android Auto pour limiter ce que Gemini apprend sur moi",
-      "link": "https://www.zdnet.fr/pratique/jai-modifie-ces-parametres-dandroid-auto-pour-limiter-ce-que-gemini-apprend-sur-moi-498116.htm#xtor=123456",
-      "date": "sam, 04 Juil 2026 09:00:07 +0200",
+      "title": "Road-trip de l'été : les réglages de sécurité à activer sur Android Auto avant de prendre la route des vacances",
+      "link": "https://www.zdnet.fr/pratique/road-trip-de-lete-les-reglages-de-securite-a-activer-sur-android-auto-avant-de-prendre-la-route-des-vacances-498307.htm#xtor=123456",
+      "date": "lun, 06 Juil 2026 09:51:59 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Pour 3 Md$, Schneider Electric absorbe Cognite, un concurrent sur l’IA industrielle",
-      "link": "https://www.silicon.fr/business-1367/schneider-electric-cognite-228097",
-      "date": "Wed, 01 Jul 2026 16:47:50 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Meta va-t-il devenir un néocloud ?",
       "link": "https://www.silicon.fr/cloud-1370/meta-neocloud-228128",
       "date": "Thu, 02 Jul 2026 16:38:37 +0000",
@@ -77,6 +69,14 @@
       "title": "Numeum renouvelle sa gouvernance : les entrants, les sortants",
       "link": "https://www.silicon.fr/business-1367/numeum-renouvelle-gouvernance-228100",
       "date": "Thu, 02 Jul 2026 10:09:59 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "PC IA : le NPU, emblème d’un marché qui se cherche encore",
+      "link": "https://www.silicon.fr/workspace-1376/pc-ia-npu-228146",
+      "date": "Mon, 06 Jul 2026 10:49:30 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
