@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-07T13:10:38.765618+00:00",
+  "updated": "2026-07-07T16:16:39.930528+00:00",
   "news": [
+    {
+      "title": "Web pratique : testez le nouveau navigateur allégé Brave Origin",
+      "link": "https://www.zdnet.fr/pratique/web-pratique-testez-le-nouveau-navigateur-allege-brave-origin-498373.htm#xtor=123456",
+      "date": "mar, 07 Juil 2026 18:04:07 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test HP OmniBook Ultra 14 : pas si cher pour un ordinateur portable capable de satisfaire les pros",
       "link": "https://www.zdnet.fr/guide-achat/test-hp-omnibook-ultra-14-pas-si-cher-pour-un-ordinateur-portable-capable-de-satisfaire-les-pros-498333.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Ce vieux téléphone qui dort dans un tiroir peut devenir votre dashcam, gratuitement",
-      "link": "https://www.zdnet.fr/guide-achat/ce-vieux-telephone-qui-dort-dans-un-tiroir-peut-devenir-votre-dashcam-gratuitement-498156.htm#xtor=123456",
-      "date": "dim, 05 Juil 2026 09:01:27 +0200",
-      "source": "ZDNet FR",
+      "title": "L’AI Act doit-il être l’affaire des DPO ?",
+      "link": "https://www.silicon.fr/data-ia-1372/dpo-rgpd-ai-act-228193",
+      "date": "Tue, 07 Jul 2026 14:28:26 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "PC IA : le NPU, emblème d’un marché qui se cherche encore",
       "link": "https://www.silicon.fr/workspace-1376/pc-ia-npu-228146",
       "date": "Mon, 06 Jul 2026 10:49:30 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Data science : l’IA, facteur de décentralisation",
-      "link": "https://www.silicon.fr/data-ia-1372/dsml-magic-quadrant-2026-228140",
-      "date": "Fri, 03 Jul 2026 15:29:38 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
