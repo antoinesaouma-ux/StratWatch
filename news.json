@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T10:43:52.764345+00:00",
+  "updated": "2026-07-07T13:10:38.765618+00:00",
   "news": [
     {
       "title": "Test HP OmniBook Ultra 14 : pas si cher pour un ordinateur portable capable de satisfaire les pros",
@@ -50,9 +50,17 @@
       "sources_count": 3
     },
     {
-      "title": "Meta va-t-il devenir un néocloud ?",
-      "link": "https://www.silicon.fr/cloud-1370/meta-neocloud-228128",
-      "date": "Thu, 02 Jul 2026 16:38:37 +0000",
+      "title": "Quand les régulateurs somment les banques de se barricader face à l’IA",
+      "link": "https://www.silicon.fr/cybersecurite-1371/quand-les-regulateurs-somment-les-banques-de-se-barricader-face-a-lia-228194",
+      "date": "Tue, 07 Jul 2026 13:04:11 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Un premier « ransomware agentique » repéré dans le cyberespace",
+      "link": "https://www.silicon.fr/cybersecurite-1371/jadepuffer-ransomware-agentique-228188",
+      "date": "Tue, 07 Jul 2026 11:18:18 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "Data science : l’IA, facteur de décentralisation",
       "link": "https://www.silicon.fr/data-ia-1372/dsml-magic-quadrant-2026-228140",
       "date": "Fri, 03 Jul 2026 15:29:38 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’UE grave l’IA dans sa stratégie éducation-formation",
-      "link": "https://www.silicon.fr/emploi-formation-1373/ue-ia-formation-education-228137",
-      "date": "Fri, 03 Jul 2026 11:37:56 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
