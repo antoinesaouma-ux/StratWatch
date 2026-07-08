@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T10:05:32.702270+00:00",
+  "updated": "2026-07-08T12:12:40.434462+00:00",
   "news": [
     {
       "title": "Energie pratique : faites attention, les panneaux solaires plug-and-play présentent six dangers, avertissent les associations du secteur de l'électricité",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "ANSSI et ACPR coopèrent sur la cyber offensive",
+      "link": "https://www.silicon.fr/cybersecurite-1371/anssi-acpr-ssi-228198",
+      "date": "Wed, 08 Jul 2026 11:03:41 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "L’AI Act doit-il être l’affaire des DPO ?",
       "link": "https://www.silicon.fr/data-ia-1372/dpo-rgpd-ai-act-228193",
       "date": "Tue, 07 Jul 2026 14:28:26 +0000",
@@ -85,14 +93,6 @@
       "title": "IA en entreprise : pourquoi Microsoft et AWS court-circuitent les intermédiaires",
       "link": "https://www.silicon.fr/business-1367/ia-en-entreprise-pourquoi-microsoft-et-aws-court-circuitent-les-intermediaires-228183",
       "date": "Mon, 06 Jul 2026 14:18:28 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "PC IA : le NPU, emblème d’un marché qui se cherche encore",
-      "link": "https://www.silicon.fr/workspace-1376/pc-ia-npu-228146",
-      "date": "Mon, 06 Jul 2026 10:49:30 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
