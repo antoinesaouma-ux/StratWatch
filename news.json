@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-08T19:04:36.234162+00:00",
+  "updated": "2026-07-08T20:54:50.944259+00:00",
   "news": [
+    {
+      "title": "Informatique pratique : Blip vous facilite les transferts de fichiers entre appareils Android, iOS, Windows et macOS",
+      "link": "https://www.zdnet.fr/informatique/informatique-pratique-blip-vous-facilite-les-transferts-de-fichiers-entre-appareils-android-ios-windows-et-macos-498424.htm#xtor=123456",
+      "date": "mer, 08 Juil 2026 22:01:00 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Discussions d'été : comment blinder vos messages SMS entre iPhone et Android",
       "link": "https://www.zdnet.fr/pratique/discussions-dete-comment-blinder-vos-messages-sms-entre-iphone-et-android-498111.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "Test HP OmniBook Ultra 14 : pas si cher pour un ordinateur portable capable de satisfaire les pros",
       "link": "https://www.zdnet.fr/guide-achat/test-hp-omnibook-ultra-14-pas-si-cher-pour-un-ordinateur-portable-capable-de-satisfaire-les-pros-498333.htm#xtor=123456",
       "date": "lun, 06 Juil 2026 22:04:43 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Linux pratique : voici comment installer la distribution portable PorteuX sur une clé USB",
-      "link": "https://www.zdnet.fr/pratique/linux-pratique-voici-comment-installer-la-distribution-portable-porteux-sur-une-cle-usb-498341.htm#xtor=123456",
-      "date": "lun, 06 Juil 2026 18:03:13 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
