@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T05:53:52.501881+00:00",
+  "updated": "2026-07-09T09:28:12.993257+00:00",
   "news": [
     {
       "title": "Informatique pratique : Blip vous facilite les transferts de fichiers entre appareils Android, iOS, Windows et macOS",
@@ -82,17 +82,17 @@
       "sources_count": 3
     },
     {
-      "title": "De l’IAM à l’IaC, des angles morts dans les solutions de sauvegarde",
-      "link": "https://www.silicon.fr/data-ia-1372/sauvegarde-magic-quadrant-2026-228180",
-      "date": "Mon, 06 Jul 2026 16:20:19 +0000",
+      "title": "Sauvegarde Windows activée par défaut : l’Europe tenue à l’écart",
+      "link": "https://www.silicon.fr/workspace-1376/sauvegarde-windows-europe-228201",
+      "date": "Thu, 09 Jul 2026 07:08:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "IA en entreprise : pourquoi Microsoft et AWS court-circuitent les intermédiaires",
-      "link": "https://www.silicon.fr/business-1367/ia-en-entreprise-pourquoi-microsoft-et-aws-court-circuitent-les-intermediaires-228183",
-      "date": "Mon, 06 Jul 2026 14:18:28 +0000",
+      "title": "De l’IAM à l’IaC, des angles morts dans les solutions de sauvegarde",
+      "link": "https://www.silicon.fr/data-ia-1372/sauvegarde-magic-quadrant-2026-228180",
+      "date": "Mon, 06 Jul 2026 16:20:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
