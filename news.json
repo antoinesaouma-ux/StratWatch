@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T09:28:12.993257+00:00",
+  "updated": "2026-07-09T12:25:04.883906+00:00",
   "news": [
     {
       "title": "Informatique pratique : Blip vous facilite les transferts de fichiers entre appareils Android, iOS, Windows et macOS",
@@ -74,9 +74,17 @@
       "sources_count": 3
     },
     {
-      "title": "Un premier « ransomware agentique » repéré dans le cyberespace",
-      "link": "https://www.silicon.fr/cybersecurite-1371/jadepuffer-ransomware-agentique-228188",
-      "date": "Tue, 07 Jul 2026 11:18:18 +0000",
+      "title": "Comment Gentilly a remplacé son intranet SharePoint par Jamespot",
+      "link": "https://www.silicon.fr/workspace-1376/comment-gentilly-a-remplace-son-intranet-sharepoint-par-jamespot-228211",
+      "date": "Thu, 09 Jul 2026 10:23:43 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Mistral AI change d’approche pour l’apprentissage par renforcement",
+      "link": "https://www.silicon.fr/data-ia-1372/mistral-ai-apprentissage-renforcement-228208",
+      "date": "Thu, 09 Jul 2026 10:06:35 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "Sauvegarde Windows activée par défaut : l’Europe tenue à l’écart",
       "link": "https://www.silicon.fr/workspace-1376/sauvegarde-windows-europe-228201",
       "date": "Thu, 09 Jul 2026 07:08:39 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "De l’IAM à l’IaC, des angles morts dans les solutions de sauvegarde",
-      "link": "https://www.silicon.fr/data-ia-1372/sauvegarde-magic-quadrant-2026-228180",
-      "date": "Mon, 06 Jul 2026 16:20:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
