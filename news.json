@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-10T11:51:39.610112+00:00",
+  "updated": "2026-07-10T13:54:56.649679+00:00",
   "news": [
+    {
+      "title": "Antivirus pour tablette Android : est-ce vraiment nécessaire ?",
+      "link": "https://www.zdnet.fr/guide-achat/antivirus-pour-tablette-android-est-ce-vraiment-necessaire-498454.htm#xtor=123456",
+      "date": "ven, 10 Juil 2026 14:30:55 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Informatique pratique : Blip vous facilite les transferts de fichiers entre appareils Android, iOS, Windows et macOS",
       "link": "https://www.zdnet.fr/informatique/informatique-pratique-blip-vous-facilite-les-transferts-de-fichiers-entre-appareils-android-ios-windows-et-macos-498424.htm#xtor=123456",
@@ -21,14 +29,6 @@
       "title": "Test HP OmniBook X Flip 14 : le PC portable le plus élégant de 2026 et avec une autonomie vraiment surprenante",
       "link": "https://www.zdnet.fr/guide-achat/test-hp-omnibook-x-flip-14-le-pc-portable-le-plus-elegant-de-2026-et-avec-une-autonomie-vraiment-surprenante-498421.htm#xtor=123456",
       "date": "mer, 08 Juil 2026 18:06:48 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Energie pratique : faites attention, les panneaux solaires plug-and-play présentent six dangers, avertissent les associations du secteur de l'électricité",
-      "link": "https://www.zdnet.fr/pratique/energie-pratique-faites-attention-les-panneaux-solaires-plug-and-play-presentent-six-dangers-avertissent-les-associations-du-secteur-de-lelectricite-498378.htm#xtor=123456",
-      "date": "mar, 07 Juil 2026 22:07:11 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -74,25 +74,25 @@
       "sources_count": 3
     },
     {
-      "title": "Comment Gentilly a remplacé son intranet SharePoint par Jamespot",
-      "link": "https://www.silicon.fr/workspace-1376/comment-gentilly-a-remplace-son-intranet-sharepoint-par-jamespot-228211",
-      "date": "Thu, 09 Jul 2026 10:23:43 +0000",
+      "title": "LLMD, un serveur d’inférence made in France qui se frotte à vLLM",
+      "link": "https://www.silicon.fr/data-ia-1372/zml-228223",
+      "date": "Fri, 10 Jul 2026 13:44:23 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Mistral AI change d’approche pour l’apprentissage par renforcement",
-      "link": "https://www.silicon.fr/data-ia-1372/mistral-ai-apprentissage-renforcement-228208",
-      "date": "Thu, 09 Jul 2026 10:06:35 +0000",
+      "title": "Scaleway rachète Qarnot pour ses capacités HPC",
+      "link": "https://www.silicon.fr/cloud-1370/scaleway-rachete-qarnot-pour-ses-capacites-hpc-228233",
+      "date": "Fri, 10 Jul 2026 13:43:38 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Sauvegarde Windows activée par défaut : l’Europe tenue à l’écart",
-      "link": "https://www.silicon.fr/workspace-1376/sauvegarde-windows-europe-228201",
-      "date": "Thu, 09 Jul 2026 07:08:39 +0000",
+      "title": "La French Tech signe son meilleur semestre depuis la sortie du Covid",
+      "link": "https://www.silicon.fr/business-1367/la-french-tech-signe-son-meilleur-semestre-depuis-la-sortie-du-covid-228230",
+      "date": "Fri, 10 Jul 2026 12:55:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
