@@ -1,14 +1,6 @@
 {
-  "updated": "2026-07-13T14:01:11.723482+00:00",
+  "updated": "2026-07-13T17:04:20.919025+00:00",
   "news": [
-    {
-      "title": "Sennheiser Momentum 5 vs. Bose QuietComfort Ultra 2 : quel casque ANC haut de gamme gagne ?",
-      "link": "https://www.zdnet.fr/guide-achat/sennheiser-momentum-5-vs-bose-quietcomfort-ultra-2-quel-casque-anc-haut-de-gamme-gagne-498533.htm#xtor=123456",
-      "date": "ven, 10 Juil 2026 22:09:23 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
     {
       "title": "Le LG C6 prouve que l'OLED n'a pas dit son dernier mot face au Mini LED",
       "link": "https://www.zdnet.fr/guide-achat/le-lg-c6-prouve-que-loled-na-pas-dit-son-dernier-mot-face-au-mini-led-498520.htm#xtor=123456",
@@ -21,6 +13,14 @@
       "title": "La fonction cachée d'Android Auto qui transforme vos trajets en temps productif",
       "link": "https://www.zdnet.fr/pratique/la-fonction-cachee-dandroid-auto-qui-transforme-vos-trajets-en-temps-productif-498493.htm#xtor=123456",
       "date": "sam, 11 Juil 2026 09:06:31 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Informatique pratique : au lieu de Google Drive, misez sur Nextcloud",
+      "link": "https://www.zdnet.fr/pratique/informatique-pratique-au-lieu-de-google-drive-misez-sur-nextcloud-498560.htm#xtor=123456",
+      "date": "lun, 13 Juil 2026 18:11:43 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -46,6 +46,14 @@
       "link": "https://www.zdnet.fr/pratique/comment-liberer-de-lespace-sur-votre-android-en-quelques-secondes-avec-lappli-sponge-498523.htm#xtor=123456",
       "date": "dim, 12 Juil 2026 09:07:54 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Pour optimiser les LLM, IBM leur fait faire des divisions",
+      "link": "https://www.silicon.fr/data-ia-1372/ibm-cofrgenet-228271",
+      "date": "Mon, 13 Jul 2026 16:14:13 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Scaleway rachète Qarnot pour ses capacités HPC",
       "link": "https://www.silicon.fr/cloud-1370/scaleway-rachete-qarnot-pour-ses-capacites-hpc-228233",
       "date": "Fri, 10 Jul 2026 13:43:38 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La French Tech signe son meilleur semestre depuis la sortie du Covid",
-      "link": "https://www.silicon.fr/business-1367/la-french-tech-signe-son-meilleur-semestre-depuis-la-sortie-du-covid-228230",
-      "date": "Fri, 10 Jul 2026 12:55:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
