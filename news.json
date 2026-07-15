@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T13:07:45.644394+00:00",
+  "updated": "2026-07-15T15:16:46.092541+00:00",
   "news": [
     {
       "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2 : les deux casques sont impressionnants, mais l'un est plus confortable",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Fondation OpenClaw : l’Europe largement exclue de la gouvernance",
+      "link": "https://www.silicon.fr/open-source-1375/openclaw-foundation-228287",
+      "date": "Wed, 15 Jul 2026 13:57:50 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Cloud hybride : une décision de maîtrise, pas un choix technique",
+      "link": "https://www.silicon.fr/cloud-1370/cloud-hybride-une-decision-de-maitrise-pas-un-choix-technique-228288",
+      "date": "Wed, 15 Jul 2026 13:14:07 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Ce que risque la France pour ne pas avoir transposé NIS 2",
       "link": "https://www.silicon.fr/cybersecurite-1371/ce-que-risque-la-france-pour-ne-pas-avoir-transpose-nis-2-228285",
       "date": "Wed, 15 Jul 2026 10:30:00 +0000",
@@ -77,22 +93,6 @@
       "title": "En BI, le rapport standardisé devient l’exception",
       "link": "https://www.silicon.fr/data-ia-1372/bi-analytics-magic-quadrant-2026-228263",
       "date": "Mon, 13 Jul 2026 12:14:32 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AI Gigafactories : resté dans l’ombre d’AION, Æther sort du bois",
-      "link": "https://www.silicon.fr/business-1367/ai-gigafactories-aether-aion-228257",
-      "date": "Mon, 13 Jul 2026 09:16:31 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Ce que les RSSI demandent aux candidats à la présidentielle",
-      "link": "https://www.silicon.fr/cybersecurite-1371/ce-que-les-rssi-demandent-aux-candidats-a-la-presidentielle-228239",
-      "date": "Fri, 10 Jul 2026 15:15:09 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
