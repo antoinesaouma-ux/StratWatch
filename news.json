@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:48:16.388099+00:00",
+  "updated": "2026-07-15T11:20:04.238332+00:00",
   "news": [
     {
       "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2 : les deux casques sont impressionnants, mais l'un est plus confortable",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Ce que risque la France pour ne pas avoir transposé NIS 2",
+      "link": "https://www.silicon.fr/cybersecurite-1371/ce-que-risque-la-france-pour-ne-pas-avoir-transpose-nis-2-228285",
+      "date": "Wed, 15 Jul 2026 10:30:00 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "L’IA, refrain douloureux pour IBM",
       "link": "https://www.silicon.fr/business-1367/ibm-ia-mainframe-228281",
       "date": "Wed, 15 Jul 2026 09:38:43 +0000",
@@ -85,14 +93,6 @@
       "title": "Ce que les RSSI demandent aux candidats à la présidentielle",
       "link": "https://www.silicon.fr/cybersecurite-1371/ce-que-les-rssi-demandent-aux-candidats-a-la-presidentielle-228239",
       "date": "Fri, 10 Jul 2026 15:15:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "LLMD, un serveur d’inférence made in France qui se frotte à vLLM",
-      "link": "https://www.silicon.fr/data-ia-1372/zml-228223",
-      "date": "Fri, 10 Jul 2026 13:44:23 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
