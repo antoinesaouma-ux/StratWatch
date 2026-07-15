@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-15T15:16:46.092541+00:00",
+  "updated": "2026-07-15T17:03:26.283172+00:00",
   "news": [
+    {
+      "title": "Comment sauver les photos de vos vacances d'un smartphone Android à l'écran brisé",
+      "link": "https://www.zdnet.fr/pratique/comment-sauver-les-photos-de-vos-vacances-dun-smartphone-android-a-lecran-brise-498103.htm#xtor=123456",
+      "date": "mer, 15 Juil 2026 18:30:10 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Linux pratique : laissez-vous tenter par le nouvel et bel effet Frosted Glass de COSMIC",
+      "link": "https://www.zdnet.fr/pratique/linux-pratique-laissez-vous-tenter-par-le-nouvel-et-bel-effet-frosted-glass-de-cosmic-498609.htm#xtor=123456",
+      "date": "mer, 15 Juil 2026 18:04:10 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2 : les deux casques sont impressionnants, mais l'un est plus confortable",
       "link": "https://www.zdnet.fr/guide-achat/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2-les-deux-casques-sont-impressionnants-mais-lun-est-plus-confortable-498589.htm#xtor=123456",
@@ -29,22 +45,6 @@
       "title": "Test TP-Link Tapo C465 : le panneau solaire de cette caméra de surveillance n’est pas son seul avantage",
       "link": "https://www.zdnet.fr/guide-achat/test-tp-link-tapo-c465-le-panneau-solaire-de-cette-camera-de-surveillance-nest-pas-son-seul-avantage-498557.htm#xtor=123456",
       "date": "lun, 13 Juil 2026 22:00:54 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Informatique pratique : au lieu de Google Drive, misez sur Nextcloud",
-      "link": "https://www.zdnet.fr/pratique/informatique-pratique-au-lieu-de-google-drive-misez-sur-nextcloud-498560.htm#xtor=123456",
-      "date": "lun, 13 Juil 2026 18:11:43 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "VPN avec IP dédiée : à quoi ça sert et pour qui est-ce utile ?",
-      "link": "https://www.zdnet.fr/guide-achat/vpn-avec-ip-dediee-a-quoi-ca-sert-et-pour-qui-est-ce-utile-498457.htm#xtor=123456",
-      "date": "lun, 13 Juil 2026 14:30:53 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
