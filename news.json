@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T07:05:24.839705+00:00",
+  "updated": "2026-07-15T09:48:16.388099+00:00",
   "news": [
     {
       "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2 : les deux casques sont impressionnants, mais l'un est plus confortable",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "L’IA, refrain douloureux pour IBM",
+      "link": "https://www.silicon.fr/business-1367/ibm-ia-mainframe-228281",
+      "date": "Wed, 15 Jul 2026 09:38:43 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Pour optimiser les LLM, IBM leur fait faire des divisions",
       "link": "https://www.silicon.fr/data-ia-1372/ibm-cofrgenet-228271",
       "date": "Mon, 13 Jul 2026 16:14:13 +0000",
@@ -85,14 +93,6 @@
       "title": "LLMD, un serveur d’inférence made in France qui se frotte à vLLM",
       "link": "https://www.silicon.fr/data-ia-1372/zml-228223",
       "date": "Fri, 10 Jul 2026 13:44:23 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Scaleway rachète Qarnot pour ses capacités HPC",
-      "link": "https://www.silicon.fr/cloud-1370/scaleway-rachete-qarnot-pour-ses-capacites-hpc-228233",
-      "date": "Fri, 10 Jul 2026 13:43:38 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
