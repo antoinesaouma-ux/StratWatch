@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T09:54:35.296415+00:00",
+  "updated": "2026-07-16T11:25:44.919238+00:00",
   "news": [
     {
       "title": "Sécurité pratique : ne laissez jamais un chatbot IA choisir votre mot de passe, sous aucun prétexte",
@@ -74,9 +74,17 @@
       "sources_count": 3
     },
     {
-      "title": "L’IA, refrain douloureux pour IBM",
-      "link": "https://www.silicon.fr/business-1367/ibm-ia-mainframe-228281",
-      "date": "Wed, 15 Jul 2026 09:38:43 +0000",
+      "title": "Airbus choisit Scaleway comme fournisseur de cloud",
+      "link": "https://www.silicon.fr/cloud-1370/airbus-choisit-scaleway-comme-fournisseur-de-cloud-228304",
+      "date": "Thu, 16 Jul 2026 11:21:32 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Open source, moratoire sur les data centers…29 propositions pour reconquérir la souveraineté numérique",
+      "link": "https://www.silicon.fr/business-1367/open-source-moratoire-sur-les-data-centers-29-propositions-pour-reconquerir-la-souverainete-numerique-228300",
+      "date": "Thu, 16 Jul 2026 10:34:20 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "Sophos Fusion : un rebranding pour un tournant agentique",
       "link": "https://www.silicon.fr/cybersecurite-1371/sophos-fusion-228297",
       "date": "Thu, 16 Jul 2026 07:54:31 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Pour optimiser les LLM, IBM leur fait faire des divisions",
-      "link": "https://www.silicon.fr/data-ia-1372/ibm-cofrgenet-228271",
-      "date": "Mon, 13 Jul 2026 16:14:13 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
