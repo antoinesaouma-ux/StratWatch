@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:45:24.367310+00:00",
+  "updated": "2026-07-20T15:43:33.177337+00:00",
   "news": [
     {
       "title": "Jabra Evolve3 75 vs. Lenovo ThinkPad 8550 (Aura Edition) : lequel de ces deux casques destinés aux professionnels choisir ?",
@@ -50,9 +50,25 @@
       "sources_count": 3
     },
     {
-      "title": "FinOps : la spécification FOCUS à l’épreuve de la « token-économie »",
-      "link": "https://www.silicon.fr/cloud-1370/finops-focus-token-economie-228311",
-      "date": "Thu, 16 Jul 2026 15:26:51 +0000",
+      "title": "Pourquoi Apple s’en prend à ses ex salariés partis chez OpenAI",
+      "link": "https://www.silicon.fr/business-1367/pourquoi-apple-sen-prend-a-ses-ex-salaries-partis-chez-openai-228357",
+      "date": "Mon, 20 Jul 2026 14:58:39 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Agents IA : le cadrage de l’Autorité de la concurrence",
+      "link": "https://www.silicon.fr/data-ia-1372/agents-ia-autorite-concurrence-228336",
+      "date": "Mon, 20 Jul 2026 14:36:21 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "NetApp mise sur DataPelago pour rester dans la course à l’infra IA",
+      "link": "https://www.silicon.fr/data-ia-1372/netapp-mise-sur-datapelago-pour-rester-dans-la-course-a-infrastructure-ia-228352",
+      "date": "Mon, 20 Jul 2026 13:55:56 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -77,22 +93,6 @@
       "title": "Broadcom vs CISPE : beaucoup de recours, peu d’effets",
       "link": "https://www.silicon.fr/cloud-1370/broadcom-cispe-voies-recours-228328",
       "date": "Fri, 17 Jul 2026 13:32:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Meta débauche un poids lourd d’AWS pour préparer son entrée dans le cloud",
-      "link": "https://www.silicon.fr/cloud-1370/meta-debauche-un-poids-lourd-daws-pour-preparer-son-entree-dans-le-cloud-228327",
-      "date": "Fri, 17 Jul 2026 11:37:30 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Datacenters : le moratoire édulcoré de l’État de New York",
-      "link": "https://www.silicon.fr/business-1367/datacenters-moratoire-new-york-228322",
-      "date": "Fri, 17 Jul 2026 09:44:34 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
