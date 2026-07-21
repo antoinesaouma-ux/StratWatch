@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T12:18:00.347821+00:00",
+  "updated": "2026-07-21T14:54:11.851826+00:00",
   "news": [
     {
       "title": "J'ai testé l'Ultrahuman Ring Pro : le rêve du biohacker, mais pas pour moi",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Observabilité : une télémétrie à canaliser",
+      "link": "https://www.silicon.fr/data-ia-1372/observabilite-magic-quadrant-2026-228392",
+      "date": "Tue, 21 Jul 2026 13:54:22 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "AXA déploie Microsoft 365 Copilot partout",
+      "link": "https://www.silicon.fr/data-ia-1372/axa-deploie-microsoft-365-copilot-partout-228398",
+      "date": "Tue, 21 Jul 2026 12:55:06 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Automobile : comment l’IA et les logiciels redéfinissent le time-to-market ?",
       "link": "https://www.silicon.fr/data-ia-1372/automobile-comment-lia-et-les-logiciels-redefinissent-le-time-to-market-228393",
       "date": "Tue, 21 Jul 2026 12:00:27 +0000",
@@ -77,22 +93,6 @@
       "title": "Pourquoi Apple s’en prend à ses ex salariés partis chez OpenAI",
       "link": "https://www.silicon.fr/business-1367/pourquoi-apple-sen-prend-a-ses-ex-salaries-partis-chez-openai-228357",
       "date": "Mon, 20 Jul 2026 14:58:39 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Agents IA : le cadrage de l’Autorité de la concurrence",
-      "link": "https://www.silicon.fr/data-ia-1372/agents-ia-autorite-concurrence-228336",
-      "date": "Mon, 20 Jul 2026 14:36:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "NetApp mise sur DataPelago pour rester dans la course à l’infra IA",
-      "link": "https://www.silicon.fr/data-ia-1372/netapp-mise-sur-datapelago-pour-rester-dans-la-course-a-infrastructure-ia-228352",
-      "date": "Mon, 20 Jul 2026 13:55:56 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
