@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-21T20:11:47.564287+00:00",
+  "updated": "2026-07-21T21:53:19.809977+00:00",
   "news": [
+    {
+      "title": "Retour d’expérience : j’ai testé durant un mois trois montres avec fonction de mesure de tension artérielle afin de déterminer la plus précise",
+      "link": "https://www.zdnet.fr/guide-achat/retour-dexperience-jai-teste-durant-un-mois-trois-montres-avec-fonction-de-mesure-de-tension-arterielle-afin-de-determiner-la-plus-precise-498793.htm#xtor=123456",
+      "date": "mar, 21 Juil 2026 22:09:12 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Sécurité pratique : comment un réseau local virtuel (VLAN) peut mieux protéger votre maison connectée",
       "link": "https://www.zdnet.fr/pratique/securite-pratique-comment-un-reseau-local-virtuel-vlan-peut-mieux-proteger-votre-maison-connectee-498798.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "7 gestes tech à faire avant de partir en vacances pour protéger votre maison",
       "link": "https://www.zdnet.fr/pratique/7-gestes-tech-a-faire-avant-de-partir-en-vacances-pour-proteger-votre-maison-498719.htm#xtor=123456",
       "date": "dim, 19 Juil 2026 14:02:10 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "WhatCable : l'appli gratuite qui démasque vos faux câbles USB-C",
-      "link": "https://www.zdnet.fr/pratique/whatcable-lappli-gratuite-qui-demasque-vos-faux-cables-usb-c-498685.htm#xtor=123456",
-      "date": "dim, 19 Juil 2026 09:01:30 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
