@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-21T16:13:57.244618+00:00",
+  "updated": "2026-07-21T18:08:00.254757+00:00",
   "news": [
     {
-      "title": "J'ai testé l'Ultrahuman Ring Pro : le rêve du biohacker, mais pas pour moi",
-      "link": "https://www.zdnet.fr/guide-achat/jai-teste-lultrahuman-ring-pro-le-reve-du-biohacker-mais-pas-pour-moi-498654.htm#xtor=123456",
-      "date": "sam, 18 Juil 2026 14:01:36 +0200",
+      "title": "Sécurité pratique : comment un réseau local virtuel (VLAN) peut mieux protéger votre maison connectée",
+      "link": "https://www.zdnet.fr/pratique/securite-pratique-comment-un-reseau-local-virtuel-vlan-peut-mieux-proteger-votre-maison-connectee-498798.htm#xtor=123456",
+      "date": "mar, 21 Juil 2026 18:05:05 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Microsoft et Mistral AI passent à l’échelle industrielle avec un partenariat centré sur l’infrastructure",
+      "link": "https://www.silicon.fr/business-1367/microsoft-et-mistral-ai-passent-a-lechelle-industrielle-avec-un-partenariat-centre-sur-linfrastructure-228406",
+      "date": "Tue, 21 Jul 2026 17:25:57 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Quand les garde-fous d’un LLM perturbent une cyberdéfense",
+      "link": "https://www.silicon.fr/cybersecurite-1371/hugging-face-cyberdefense-llm-228402",
+      "date": "Tue, 21 Jul 2026 16:40:40 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Observabilité : une télémétrie à canaliser",
       "link": "https://www.silicon.fr/data-ia-1372/observabilite-magic-quadrant-2026-228392",
       "date": "Tue, 21 Jul 2026 13:54:22 +0000",
@@ -77,22 +93,6 @@
       "title": "HP s’appuie sur OpenAI pour sa transformation par l’IA",
       "link": "https://www.silicon.fr/data-ia-1372/hp-sappuie-sur-openai-pour-sa-transformation-par-lia-228387",
       "date": "Tue, 21 Jul 2026 11:33:41 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "OnePlus dit stop en Europe : la fin d’une marque qui avait trouvé sa niche",
-      "link": "https://www.silicon.fr/workspace-1376/oneplus-europe-228361",
-      "date": "Tue, 21 Jul 2026 10:38:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Pourquoi Apple s’en prend à ses ex salariés partis chez OpenAI",
-      "link": "https://www.silicon.fr/business-1367/pourquoi-apple-sen-prend-a-ses-ex-salaries-partis-chez-openai-228357",
-      "date": "Mon, 20 Jul 2026 14:58:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
