@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T07:30:47.760996+00:00",
+  "updated": "2026-07-22T10:13:02.942959+00:00",
   "news": [
     {
       "title": "Retour d’expérience : j’ai testé durant un mois trois montres avec fonction de mesure de tension artérielle afin de déterminer la plus précise",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "VPN et géoblocage : la CJUE clarifie les responsabilités",
+      "link": "https://www.silicon.fr/business-1367/vpn-cjue-228415",
+      "date": "Wed, 22 Jul 2026 07:47:54 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Microsoft et Mistral AI passent à l’échelle industrielle avec un partenariat centré sur l’infrastructure",
       "link": "https://www.silicon.fr/business-1367/microsoft-et-mistral-ai-passent-a-lechelle-industrielle-avec-un-partenariat-centre-sur-linfrastructure-228406",
       "date": "Tue, 21 Jul 2026 17:25:57 +0000",
@@ -85,14 +93,6 @@
       "title": "Automobile : comment l’IA et les logiciels redéfinissent le time-to-market ?",
       "link": "https://www.silicon.fr/data-ia-1372/automobile-comment-lia-et-les-logiciels-redefinissent-le-time-to-market-228393",
       "date": "Tue, 21 Jul 2026 12:00:27 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "HP s’appuie sur OpenAI pour sa transformation par l’IA",
-      "link": "https://www.silicon.fr/data-ia-1372/hp-sappuie-sur-openai-pour-sa-transformation-par-lia-228387",
-      "date": "Tue, 21 Jul 2026 11:33:41 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
