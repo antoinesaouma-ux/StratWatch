@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-22T16:12:46.073501+00:00",
+  "updated": "2026-07-22T18:00:26.052185+00:00",
   "news": [
+    {
+      "title": "Série dans le train et musique sur la plage : pourquoi vos écouteurs sans fil s'emmêlent les pinceaux",
+      "link": "https://www.zdnet.fr/pratique/serie-dans-le-train-et-musique-sur-la-plage-pourquoi-vos-ecouteurs-sans-fil-semmelent-les-pinceaux-498092.htm#xtor=123456",
+      "date": "mer, 22 Juil 2026 18:33:32 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Linux pratique : comment configurer le DNS sur les distributions Ubuntu via la ligne de commande",
       "link": "https://www.zdnet.fr/pratique/linux-pratique-comment-configurer-le-dns-sur-les-distributions-ubuntu-via-la-ligne-de-commande-498864.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Retour d’expérience : ne reproduisez pas les erreurs que j’ai commises avec ma centrale d'alimentation de secours durant une longue coupure de courant",
-      "link": "https://www.zdnet.fr/pratique/retour-dexperience-ne-commettez-pas-les-erreurs-que-jai-commises-avec-ma-centrale-dalimentation-de-secours-durant-une-longue-coupure-de-courant-498741.htm#xtor=123456",
-      "date": "lun, 20 Juil 2026 18:06:41 +0200",
-      "source": "ZDNet FR",
+      "title": "L’attaque automatisée contre Hugging Face provient… d’OpenAI",
+      "link": "https://www.silicon.fr/cybersecurite-1371/openai-hugging-face-228450",
+      "date": "Wed, 22 Jul 2026 16:27:14 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Microsoft et Mistral AI passent à l’échelle industrielle avec un partenariat centré sur l’infrastructure",
       "link": "https://www.silicon.fr/business-1367/microsoft-et-mistral-ai-passent-a-lechelle-industrielle-avec-un-partenariat-centre-sur-linfrastructure-228406",
       "date": "Tue, 21 Jul 2026 17:25:57 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Quand les garde-fous d’un LLM perturbent une cyberdéfense",
-      "link": "https://www.silicon.fr/cybersecurite-1371/hugging-face-cyberdefense-llm-228402",
-      "date": "Tue, 21 Jul 2026 16:40:40 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
