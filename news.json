@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T12:20:30.625151+00:00",
+  "updated": "2026-07-22T14:54:06.010804+00:00",
   "news": [
     {
       "title": "Retour d’expérience : j’ai testé durant un mois trois montres avec fonction de mesure de tension artérielle afin de déterminer la plus précise",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Attaques cyber propulsées par l’IA : le Cigref rappelle la vulnérabilité de l’Europe",
+      "link": "https://www.silicon.fr/cybersecurite-1371/attaques-cyber-propulsees-par-lia-le-cigref-rappelle-la-vulnerabilite-de-leurope-228443",
+      "date": "Wed, 22 Jul 2026 13:28:21 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "La température, un réglage qui se perd avec les modèles de raisonnement",
+      "link": "https://www.silicon.fr/data-ia-1372/temperature-modeles-raisonnement-228419",
+      "date": "Wed, 22 Jul 2026 13:17:05 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "VPN et géoblocage : la CJUE clarifie les responsabilités",
       "link": "https://www.silicon.fr/business-1367/vpn-cjue-228415",
       "date": "Wed, 22 Jul 2026 07:47:54 +0000",
@@ -77,22 +93,6 @@
       "title": "Observabilité : une télémétrie à canaliser",
       "link": "https://www.silicon.fr/data-ia-1372/observabilite-magic-quadrant-2026-228392",
       "date": "Tue, 21 Jul 2026 13:54:22 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AXA déploie Microsoft 365 Copilot partout",
-      "link": "https://www.silicon.fr/data-ia-1372/axa-deploie-microsoft-365-copilot-partout-228398",
-      "date": "Tue, 21 Jul 2026 12:55:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Automobile : comment l’IA et les logiciels redéfinissent le time-to-market ?",
-      "link": "https://www.silicon.fr/data-ia-1372/automobile-comment-lia-et-les-logiciels-redefinissent-le-time-to-market-228393",
-      "date": "Tue, 21 Jul 2026 12:00:27 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
