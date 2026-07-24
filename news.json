@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-24T12:11:04.051459+00:00",
+  "updated": "2026-07-24T14:42:59.226251+00:00",
   "news": [
+    {
+      "title": "Antivirus Windows : Defender suffit-il pour protéger son ordinateur ?",
+      "link": "https://www.zdnet.fr/guide-achat/antivirus-windows-defender-suffit-il-pour-proteger-son-ordinateur-498983.htm#xtor=123456",
+      "date": "ven, 24 Juil 2026 14:30:55 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test Ray-Ban Meta Blayzer Optics : des lunettes IA à verres correcteurs marquées par l’élégance",
       "link": "https://www.zdnet.fr/guide-achat/test-ray-ban-meta-blayzer-optics-des-lunettes-ia-a-verres-correcteurs-marquees-par-lelegance-498839.htm#xtor=123456",
@@ -26,14 +34,6 @@
       "sources_count": 3
     },
     {
-      "title": "Retour d’expérience : j’ai testé durant un mois trois montres avec fonction de mesure de tension artérielle afin de déterminer la plus précise",
-      "link": "https://www.zdnet.fr/guide-achat/retour-dexperience-jai-teste-durant-un-mois-trois-montres-avec-fonction-de-mesure-de-tension-arterielle-afin-de-determiner-la-plus-precise-498793.htm#xtor=123456",
-      "date": "mar, 21 Juil 2026 22:09:12 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Retour d’expérience : comment j’ai perdu du poids, assisté de produits tech, en vue d’une grande rando à faire avec un ami",
       "link": "https://www.zdnet.fr/pratique/retour-dexperience-comment-jai-perdu-du-poids-assiste-de-produits-tech-en-vue-dune-grande-rando-a-faire-avec-un-ami-498877.htm#xtor=123456",
       "date": "jeu, 23 Juil 2026 22:03:07 +0200",
@@ -50,17 +50,17 @@
       "sources_count": 3
     },
     {
-      "title": "Dépassé par la « bouillie IA », GitHub restructure son bug bounty",
-      "link": "https://www.silicon.fr/cybersecurite-1371/github-bug-bounty-ia-228480",
-      "date": "Thu, 23 Jul 2026 15:24:33 +0000",
+      "title": "AMD entre vraiment dans le jeu des racks IA exascale",
+      "link": "https://www.silicon.fr/data-ia-1372/amd-helios-ai-exascale-228506",
+      "date": "Fri, 24 Jul 2026 13:08:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "IBM rachète HRL Laboratories pour doubler la mise sur le quantique",
-      "link": "https://www.silicon.fr/business-1367/ibm-rachete-hrl-laboratories-pour-doubler-la-mise-sur-le-quantique-228475",
-      "date": "Thu, 23 Jul 2026 13:37:45 +0000",
+      "title": "L’incident OpenAI–Hugging Face n’est pas la révolution que vous imaginez",
+      "link": "https://www.silicon.fr/cybersecurite-1371/lincident-openai-hugging-face-nest-pas-la-revolution-que-vous-imaginez-228512",
+      "date": "Fri, 24 Jul 2026 12:52:45 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
