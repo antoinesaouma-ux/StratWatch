@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T12:48:53.220719+00:00",
+  "updated": "2026-07-27T15:35:26.881144+00:00",
   "news": [
     {
       "title": "Prise en main Samsung Galaxy Z Flip8 : rendez-vous manqué",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Un « kill switch » pour l’IA ? Ce que projette le législateur américain",
+      "link": "https://www.silicon.fr/data-ia-1372/ai-kill-switch-228527",
+      "date": "Mon, 27 Jul 2026 15:08:10 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Open Secure AI Alliance : Nvidia veut fédérer le standard de sécurité de l’IA",
+      "link": "https://www.silicon.fr/cybersecurite-1371/open-secure-ai-alliance-nvidia-veut-federer-le-standard-de-securite-de-lia-228526",
+      "date": "Mon, 27 Jul 2026 13:57:14 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Airbus mise sur SAP Sovereign Cloud",
       "link": "https://www.silicon.fr/cloud-1370/airbus-mise-sur-sap-sovereign-cloud-228521",
       "date": "Mon, 27 Jul 2026 11:07:34 +0000",
@@ -77,22 +93,6 @@
       "title": "L’incident OpenAI–Hugging Face n’est pas la révolution que vous imaginez",
       "link": "https://www.silicon.fr/cybersecurite-1371/lincident-openai-hugging-face-nest-pas-la-revolution-que-vous-imaginez-228512",
       "date": "Fri, 24 Jul 2026 12:52:45 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "ROCm.ai, ou comment AMD inculque sa stack aux LLM",
-      "link": "https://www.silicon.fr/data-ia-1372/amd-rocm-ai-228492",
-      "date": "Fri, 24 Jul 2026 11:27:48 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Le mouvement vers le cloud va-t-il s’inverser avec l’IA ?",
-      "link": "https://www.silicon.fr/cloud-1370/le-mouvement-vers-le-cloud-va-t-il-sinverser-avec-lia-228495",
-      "date": "Fri, 24 Jul 2026 10:52:37 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
