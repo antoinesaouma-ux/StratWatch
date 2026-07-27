@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T09:25:59.356040+00:00",
+  "updated": "2026-07-27T12:48:53.220719+00:00",
   "news": [
     {
       "title": "Prise en main Samsung Galaxy Z Flip8 : rendez-vous manqué",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Airbus mise sur SAP Sovereign Cloud",
+      "link": "https://www.silicon.fr/cloud-1370/airbus-mise-sur-sap-sovereign-cloud-228521",
+      "date": "Mon, 27 Jul 2026 11:07:34 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Les planètes s’alignent pour les modèles d’IA open-weight",
+      "link": "https://www.silicon.fr/data-ia-1372/modeles-ia-open-weight-228520",
+      "date": "Mon, 27 Jul 2026 10:53:15 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "AMD entre vraiment dans le jeu des racks IA exascale",
       "link": "https://www.silicon.fr/data-ia-1372/amd-helios-ai-exascale-228506",
       "date": "Fri, 24 Jul 2026 13:08:19 +0000",
@@ -77,22 +93,6 @@
       "title": "Le mouvement vers le cloud va-t-il s’inverser avec l’IA ?",
       "link": "https://www.silicon.fr/cloud-1370/le-mouvement-vers-le-cloud-va-t-il-sinverser-avec-lia-228495",
       "date": "Fri, 24 Jul 2026 10:52:37 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Le Pentagone consolide ses licences logicielles Oracle",
-      "link": "https://www.silicon.fr/business-1367/le-pentagone-consolide-ses-licences-logicielles-oracle-228489",
-      "date": "Fri, 24 Jul 2026 10:21:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’Europe ne questionne plus sa dépendance à l’IA américaine, elle la subit…",
-      "link": "https://www.silicon.fr/data-ia-1372/leurope-ne-questionne-plus-sa-dependance-a-lia-americaine-elle-la-subit-228484",
-      "date": "Fri, 24 Jul 2026 08:55:53 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
