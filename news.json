@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-28T12:29:29.287705+00:00",
+  "updated": "2026-07-28T15:10:16.978431+00:00",
   "news": [
+    {
+      "title": "Comment sauvegarder son site web sans perdre ses données ?",
+      "link": "https://www.zdnet.fr/guide-achat/comment-sauvegarder-son-site-web-sans-perdre-ses-donnees-499028.htm#xtor=123456",
+      "date": "mar, 28 Juil 2026 14:30:29 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Samsung Galaxy Z Flip8 vs. Motorola Razr 70 Ultra : quel smartphone pliable au format clapet choisir ?",
       "link": "https://www.zdnet.fr/guide-achat/samsung-galaxy-z-flip8-vs-motorola-razr-70-ultra-quel-smartphone-pliable-au-format-clapet-choisir-498999.htm#xtor=123456",
@@ -42,10 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "Google Messages : cette fonctionnalité cachée évite les impairs dans vos conversations",
-      "link": "https://www.zdnet.fr/pratique/google-messages-cette-fonctionnalite-cachee-evite-les-impairs-dans-vos-conversations-498896.htm#xtor=123456",
-      "date": "dim, 26 Juil 2026 09:02:40 +0200",
-      "source": "ZDNet FR",
+      "title": "Microsoft lance MAI-Cyber-1-Flash et pousse l’IA au cœur du SOC",
+      "link": "https://www.silicon.fr/cybersecurite-1371/microsoft-lance-mai-cyber-1-flash-et-pousse-lia-au-coeur-du-soc-228554",
+      "date": "Tue, 28 Jul 2026 14:49:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Kimi K3 : comment Moonshot AI est passé à l’échelle",
+      "link": "https://www.silicon.fr/data-ia-1372/kimi-k3-228544",
+      "date": "Tue, 28 Jul 2026 12:51:32 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Open Secure AI Alliance : Nvidia veut fédérer le standard de sécurité de l’IA",
       "link": "https://www.silicon.fr/cybersecurite-1371/open-secure-ai-alliance-nvidia-veut-federer-le-standard-de-securite-de-lia-228526",
       "date": "Mon, 27 Jul 2026 13:57:14 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Airbus mise sur SAP Sovereign Cloud",
-      "link": "https://www.silicon.fr/cloud-1370/airbus-mise-sur-sap-sovereign-cloud-228521",
-      "date": "Mon, 27 Jul 2026 11:07:34 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Les planètes s’alignent pour les modèles d’IA open-weight",
-      "link": "https://www.silicon.fr/data-ia-1372/modeles-ia-open-weight-228520",
-      "date": "Mon, 27 Jul 2026 10:53:15 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
