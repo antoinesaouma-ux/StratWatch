@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-28T15:10:16.978431+00:00",
+  "updated": "2026-07-28T17:17:01.166544+00:00",
   "news": [
+    {
+      "title": "Web pratique : cinq façons d'obtenir davantage de mentions grâce à la recherche basée sur l'IA",
+      "link": "https://www.zdnet.fr/pratique/web-pratique-cinq-facons-dobtenir-davantage-de-mentions-grace-a-la-recherche-basee-sur-lia-499040.htm#xtor=123456",
+      "date": "mar, 28 Juil 2026 18:07:10 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Comment sauvegarder son site web sans perdre ses données ?",
       "link": "https://www.zdnet.fr/guide-achat/comment-sauvegarder-son-site-web-sans-perdre-ses-donnees-499028.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "Création d’entreprise : quelles erreurs éviter ?",
       "link": "https://www.zdnet.fr/pratique/creation-dentreprise-quelles-erreurs-eviter-499002.htm#xtor=123456",
       "date": "lun, 27 Juil 2026 04:21:15 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Passer de Windows ou macOS à Linux : le plan en 10 jours pour ne rien rater",
-      "link": "https://www.zdnet.fr/pratique/passer-de-windows-ou-macos-a-linux-le-plan-en-10-jours-pour-ne-rien-rater-498945.htm#xtor=123456",
-      "date": "dim, 26 Juil 2026 14:01:09 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
