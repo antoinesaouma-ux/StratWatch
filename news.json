@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-29T12:54:19.502776+00:00",
+  "updated": "2026-07-29T15:03:28.710943+00:00",
   "news": [
+    {
+      "title": "Antivirus avec VPN inclus : bonne idée ou fausse bonne affaire ?",
+      "link": "https://www.zdnet.fr/guide-achat/antivirus-avec-vpn-inclus-bonne-idee-ou-fausse-bonne-affaire-498645.htm#xtor=123456",
+      "date": "mer, 29 Juil 2026 14:30:09 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Samsung Galaxy Z Fold8 Ultra vs. Motorola Razr Fold : quel smartphone pliable haut de gamme choisir ?",
       "link": "https://www.zdnet.fr/smartphone/samsung-galaxy-z-fold8-ultra-vs-motorola-razr-fold-quel-smartphone-pliable-haut-de-gamme-choisir-499016.htm#xtor=123456",
@@ -42,10 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "Retour d’expérience : comment j'ai résolu le problème de connexion Wifi instable de mon bureau à domicile grâce à l'outil de diagnostic gratuit de Samsung",
-      "link": "https://www.zdnet.fr/pratique/retour-dexperience-comment-jai-resolu-le-probleme-de-connexion-wifi-instable-de-mon-bureau-a-domicile-grace-a-loutil-de-diagnostic-gratuit-de-samsung-498994.htm#xtor=123456",
-      "date": "lun, 27 Juil 2026 18:09:15 +0200",
-      "source": "ZDNet FR",
+      "title": "Le Zero Trust à l’ère des agents : une approche dépassée ?",
+      "link": "https://www.silicon.fr/cybersecurite-1371/le-zero-trust-a-lere-des-agents-une-approche-depassee-228583",
+      "date": "Wed, 29 Jul 2026 14:26:55 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Vent de révolte contre Anthropic dans la Silicon Valley",
+      "link": "https://www.silicon.fr/business-1367/vent-de-revolte-contre-anthropic-dans-la-silicon-valley-228569",
+      "date": "Wed, 29 Jul 2026 14:12:13 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Nvidia mise gros sur le mystère Sutskever",
       "link": "https://www.silicon.fr/business-1367/nvidia-mise-gros-sur-le-mystere-sutskever-228543",
       "date": "Tue, 28 Jul 2026 10:40:13 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic et les modèles open-weight : oui, mais…",
-      "link": "https://www.silicon.fr/data-ia-1372/anthropic-modeles-open-weight-228540",
-      "date": "Tue, 28 Jul 2026 09:24:25 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Un « kill switch » pour l’IA ? Ce que projette le législateur américain",
-      "link": "https://www.silicon.fr/data-ia-1372/ai-kill-switch-228527",
-      "date": "Mon, 27 Jul 2026 15:08:10 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
