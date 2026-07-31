@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-31T15:52:52.628007+00:00",
+  "updated": "2026-07-31T17:16:59.044344+00:00",
   "news": [
+    {
+      "title": "Android pratique : cinq astuces pour accélérer votre smartphone au-delà du simple nettoyage du cache système",
+      "link": "https://www.zdnet.fr/smartphone/android-pratique-cinq-astuces-pour-accelerer-votre-smartphone-au-dela-du-simple-nettoyage-du-cache-systeme-499169.htm#xtor=123456",
+      "date": "ven, 31 Juil 2026 18:03:13 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Amazfit Cheetah 2 Ultra vs. Amazfit Balance 3 : le modèle phare justifie-t-il la différence de prix ?",
       "link": "https://www.zdnet.fr/guide-achat/amazfit-cheetah-2-ultra-vs-amazfit-balance-3-le-modele-phare-justifie-t-il-la-difference-de-prix-499068.htm#xtor=123456",
@@ -21,14 +29,6 @@
       "title": "IA en entreprise : comment utiliser les agents sans dépasser votre budget",
       "link": "https://www.zdnet.fr/pratique/ia-en-entreprise-comment-utiliser-les-agents-sans-depasser-votre-budget-499078.htm#xtor=123456",
       "date": "mer, 29 Juil 2026 18:00:32 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Antivirus avec VPN inclus : bonne idée ou fausse bonne affaire ?",
-      "link": "https://www.zdnet.fr/guide-achat/antivirus-avec-vpn-inclus-bonne-idee-ou-fausse-bonne-affaire-498645.htm#xtor=123456",
-      "date": "mer, 29 Juil 2026 14:30:09 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -66,9 +66,9 @@
       "sources_count": 3
     },
     {
-      "title": "Wavestone renforce son offre en IA en s’offrant AI Builders",
-      "link": "https://www.silicon.fr/business-1367/wavestone-renforce-son-offre-en-ia-en-soffrant-ai-builders-228598",
-      "date": "Thu, 30 Jul 2026 09:44:30 +0000",
+      "title": "AI Act : clés et ressources pour se mettre en conformité",
+      "link": "https://www.silicon.fr/data-ia-1372/ai-act-conformite-228611",
+      "date": "Fri, 31 Jul 2026 16:13:15 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
