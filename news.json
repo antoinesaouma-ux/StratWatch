@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T11:54:24.650032+00:00",
+  "updated": "2026-08-01T12:53:02.913070+00:00",
   "news": [
     {
       "title": "Test Ozlo Sleepbuds 2 : des écouteurs de sommeil confortables avant tout",
@@ -26,6 +26,14 @@
       "sources_count": 3
     },
     {
+      "title": "Pourquoi j'ai relié ma télé connectée à un VPN, et pourquoi vous devriez faire pareil",
+      "link": "https://www.zdnet.fr/pratique/pourquoi-jai-relie-ma-tele-connectee-a-un-vpn-et-pourquoi-vous-devriez-faire-pareil-499111.htm#xtor=123456",
+      "date": "sam, 01 Août 2026 14:01:55 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Comment reprogrammer la touche Copilot de votre clavier pour lui donner une fonction plus utile",
       "link": "https://www.zdnet.fr/pratique/comment-reprogrammer-la-touche-copilot-de-votre-clavier-pour-lui-donner-une-fonction-plus-utile-499096.htm#xtor=123456",
       "date": "sam, 01 Août 2026 09:00:09 +0200",
@@ -37,14 +45,6 @@
       "title": "Google Home Speaker vs. Sonos Era 100 : quelle enceinte connectée pour la maison ?",
       "link": "https://www.zdnet.fr/guide-achat/google-home-speaker-vs-sonos-era-100-quelle-enceinte-connectee-pour-la-maison-499145.htm#xtor=123456",
       "date": "jeu, 30 Juil 2026 22:02:26 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Linux pratique : testez la distribution ArchEZ si vous êtes un débutant",
-      "link": "https://www.zdnet.fr/guide-achat/linux-pratique-testez-la-distribution-archez-si-vous-etes-un-debutant-499128.htm#xtor=123456",
-      "date": "jeu, 30 Juil 2026 18:01:50 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
