@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T11:52:47.561796+00:00",
+  "updated": "2026-08-02T12:55:08.860556+00:00",
   "news": [
     {
       "title": "Test Ozlo Sleepbuds 2 : des écouteurs de sommeil confortables avant tout",
@@ -18,14 +18,6 @@
       "sources_count": 3
     },
     {
-      "title": "Android pratique : cinq astuces pour accélérer votre smartphone au-delà du simple nettoyage du cache système",
-      "link": "https://www.zdnet.fr/smartphone/android-pratique-cinq-astuces-pour-accelerer-votre-smartphone-au-dela-du-simple-nettoyage-du-cache-systeme-499169.htm#xtor=123456",
-      "date": "ven, 31 Juil 2026 18:03:13 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Pourquoi j'ai relié ma télé connectée à un VPN, et pourquoi vous devriez faire pareil",
       "link": "https://www.zdnet.fr/pratique/pourquoi-jai-relie-ma-tele-connectee-a-un-vpn-et-pourquoi-vous-devriez-faire-pareil-499111.htm#xtor=123456",
       "date": "sam, 01 Août 2026 14:01:55 +0200",
@@ -37,6 +29,14 @@
       "title": "Comment reprogrammer la touche Copilot de votre clavier pour lui donner une fonction plus utile",
       "link": "https://www.zdnet.fr/pratique/comment-reprogrammer-la-touche-copilot-de-votre-clavier-pour-lui-donner-une-fonction-plus-utile-499096.htm#xtor=123456",
       "date": "sam, 01 Août 2026 09:00:09 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Ce que les règles des compagnies aériennes révèlent sur nos mauvaises habitudes avec les batteries externes",
+      "link": "https://www.zdnet.fr/pratique/ce-que-les-regles-des-compagnies-aeriennes-revelent-sur-nos-mauvaises-habitudes-avec-les-batteries-externes-499156.htm#xtor=123456",
+      "date": "dim, 02 Août 2026 14:01:22 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
