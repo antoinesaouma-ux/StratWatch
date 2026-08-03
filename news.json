@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T12:22:39.224103+00:00",
+  "updated": "2026-08-03T15:35:54.808287+00:00",
   "news": [
     {
       "title": "Test Ozlo Sleepbuds 2 : des écouteurs de sommeil confortables avant tout",
@@ -50,7 +50,15 @@
       "sources_count": 3
     },
     {
-      "title": "LinkedIn dégaine son bouton anti  » Slop IA «",
+      "title": "AI Office : qui sont les gendarmes de l’IA au sein de l’UE",
+      "link": "https://www.silicon.fr/data-ia-1372/ai-office-qui-sont-les-gendarmes-de-lia-au-sein-de-lue-228645",
+      "date": "Mon, 03 Aug 2026 12:59:05 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "LinkedIn dégaine son bouton anti « Slop IA »",
       "link": "https://www.silicon.fr/business-1367/linkedin-degaine-son-bouton-anti-slop-ia-228639",
       "date": "Mon, 03 Aug 2026 10:54:45 +0000",
       "source": "Silicon.fr",
@@ -85,14 +93,6 @@
       "title": "Le RSSI ne décide pas du risque que l’entreprise accepte",
       "link": "https://www.silicon.fr/cybersecurite-1371/le-rssi-ne-decide-pas-du-risque-que-lentreprise-accepte-228615",
       "date": "Fri, 31 Jul 2026 11:09:19 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AWS, Azure, Google Cloud : l’IA accélère leur croissance et relance la compétition",
-      "link": "https://www.silicon.fr/cloud-1370/aws-azure-google-cloud-lia-accelere-leur-croissance-et-relance-la-competition-228610",
-      "date": "Fri, 31 Jul 2026 10:48:20 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
