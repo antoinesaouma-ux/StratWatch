@@ -1,18 +1,10 @@
 {
-  "updated": "2026-08-03T15:35:54.808287+00:00",
+  "updated": "2026-08-03T17:45:40.255514+00:00",
   "news": [
     {
       "title": "Test Ozlo Sleepbuds 2 : des écouteurs de sommeil confortables avant tout",
       "link": "https://www.zdnet.fr/guide-achat/test-ozlo-sleepbuds-2-des-ecouteurs-de-sommeil-confortables-avant-tout-499173.htm#xtor=123456",
       "date": "ven, 31 Juil 2026 22:04:42 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Squat de connexion en vacances : votre voisin de camping vous vole-t-il votre Wi-Fi ?",
-      "link": "https://www.zdnet.fr/pratique/squat-de-connexion-en-vacances-votre-voisin-de-camping-vous-vole-t-il-votre-wi-fi-498081.htm#xtor=123456",
-      "date": "ven, 31 Juil 2026 18:38:30 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -34,6 +26,14 @@
       "sources_count": 3
     },
     {
+      "title": "Point tech : ce que signifie « mAh » pour la batterie de votre smartphone",
+      "link": "https://www.zdnet.fr/guide-achat/point-tech-ce-que-signifie-mah-pour-la-batterie-de-votre-smartphone-499204.htm#xtor=123456",
+      "date": "lun, 03 Août 2026 18:07:49 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Ce que les règles des compagnies aériennes révèlent sur nos mauvaises habitudes avec les batteries externes",
       "link": "https://www.zdnet.fr/pratique/ce-que-les-regles-des-compagnies-aeriennes-revelent-sur-nos-mauvaises-habitudes-avec-les-batteries-externes-499156.htm#xtor=123456",
       "date": "dim, 02 Août 2026 14:01:22 +0200",
@@ -46,6 +46,14 @@
       "link": "https://www.zdnet.fr/pratique/aio-launcher-le-lanceur-android-parfait-pour-une-utilisation-a-une-seule-main-499114.htm#xtor=123456",
       "date": "dim, 02 Août 2026 09:02:01 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "AI gigafactories : les détails de l’appel d’offres",
+      "link": "https://www.silicon.fr/data-ia-1372/ai-gigafactories-appel-offres-gigafabriques-228646",
+      "date": "Mon, 03 Aug 2026 16:30:21 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Pourquoi Microsoft prend ses distances avec OpenAI",
       "link": "https://www.silicon.fr/business-1367/pourquoi-microsoft-prend-ses-distances-avec-openai-228622",
       "date": "Fri, 31 Jul 2026 13:18:55 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Le RSSI ne décide pas du risque que l’entreprise accepte",
-      "link": "https://www.silicon.fr/cybersecurite-1371/le-rssi-ne-decide-pas-du-risque-que-lentreprise-accepte-228615",
-      "date": "Fri, 31 Jul 2026 11:09:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
