@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T13:43:58.587975+00:00",
+  "updated": "2026-08-04T16:05:45.511550+00:00",
   "news": [
     {
       "title": "Tout savoir sur les codes d'urgence : comment ils fonctionnent et pourquoi ils peuvent vous valoir un procès",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Bruxelles teste le cloud sécurisé de Thales pour ses projets d’armement",
+      "link": "https://www.silicon.fr/cybersecurite-1371/bruxelles-teste-le-cloud-securise-de-thales-pour-ses-projets-darmement-228667",
+      "date": "Tue, 04 Aug 2026 15:16:31 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Plusieurs modèles Amazon Nova sont désormais du legacy",
       "link": "https://www.silicon.fr/data-ia-1372/amazon-nova-228662",
       "date": "Tue, 04 Aug 2026 11:56:52 +0000",
@@ -85,14 +93,6 @@
       "title": "AI Office : qui sont les gendarmes de l’IA au sein de l’UE",
       "link": "https://www.silicon.fr/data-ia-1372/ai-office-qui-sont-les-gendarmes-de-lia-au-sein-de-lue-228645",
       "date": "Mon, 03 Aug 2026 12:59:05 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "LinkedIn dégaine son bouton anti « Slop IA »",
-      "link": "https://www.silicon.fr/business-1367/linkedin-degaine-son-bouton-anti-slop-ia-228639",
-      "date": "Mon, 03 Aug 2026 10:54:45 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
