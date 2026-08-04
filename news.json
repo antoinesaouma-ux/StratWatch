@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-04T11:13:55.570784+00:00",
+  "updated": "2026-08-04T13:43:58.587975+00:00",
   "news": [
     {
-      "title": "Pourquoi j'ai relié ma télé connectée à un VPN, et pourquoi vous devriez faire pareil",
-      "link": "https://www.zdnet.fr/pratique/pourquoi-jai-relie-ma-tele-connectee-a-un-vpn-et-pourquoi-vous-devriez-faire-pareil-499111.htm#xtor=123456",
-      "date": "sam, 01 Août 2026 14:01:55 +0200",
+      "title": "Tout savoir sur les codes d'urgence : comment ils fonctionnent et pourquoi ils peuvent vous valoir un procès",
+      "link": "https://www.zdnet.fr/pratique/tout-savoir-sur-les-codes-durgence-comment-ils-fonctionnent-et-pourquoi-ils-peuvent-vous-valoir-un-proces-499288.htm#xtor=123456",
+      "date": "mar, 04 Août 2026 14:37:33 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Comment reprogrammer la touche Copilot de votre clavier pour lui donner une fonction plus utile",
-      "link": "https://www.zdnet.fr/pratique/comment-reprogrammer-la-touche-copilot-de-votre-clavier-pour-lui-donner-une-fonction-plus-utile-499096.htm#xtor=123456",
-      "date": "sam, 01 Août 2026 09:00:09 +0200",
+      "title": "Contrôle parental Google : Family Link suffit-il à sécuriser un téléphone ?",
+      "link": "https://www.zdnet.fr/guide-achat/controle-parental-google-family-link-suffit-il-a-securiser-un-telephone-498642.htm#xtor=123456",
+      "date": "mar, 04 Août 2026 14:30:14 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -46,6 +46,14 @@
       "link": "https://www.zdnet.fr/pratique/aio-launcher-le-lanceur-android-parfait-pour-une-utilisation-a-une-seule-main-499114.htm#xtor=123456",
       "date": "dim, 02 Août 2026 09:02:01 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Plusieurs modèles Amazon Nova sont désormais du legacy",
+      "link": "https://www.silicon.fr/data-ia-1372/amazon-nova-228662",
+      "date": "Tue, 04 Aug 2026 11:56:52 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "LinkedIn dégaine son bouton anti « Slop IA »",
       "link": "https://www.silicon.fr/business-1367/linkedin-degaine-son-bouton-anti-slop-ia-228639",
       "date": "Mon, 03 Aug 2026 10:54:45 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Infrastructures IA : Gartner met OVHcloud et Scaleway sur sa carte mondiale",
-      "link": "https://www.silicon.fr/data-ia-1372/infrastructure-ia-cloud-magic-quadrant-2026-228633",
-      "date": "Mon, 03 Aug 2026 10:07:36 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
