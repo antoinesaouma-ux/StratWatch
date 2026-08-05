@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-05T10:23:10.035122+00:00",
+  "updated": "2026-08-05T12:46:00.422912+00:00",
   "news": [
+    {
+      "title": "Comment se débarrasser d'un phishing et sécuriser ses comptes",
+      "link": "https://www.zdnet.fr/guide-achat/comment-se-debarrasser-dun-phishing-et-securiser-ses-comptes-498986.htm#xtor=123456",
+      "date": "mer, 05 Août 2026 14:30:06 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Retour d’expérience : j'ai comparé mon Google Fitbit Air à un cardiofréquencemètre quasi « aussi précis qu'un électrocardiogramme »",
       "link": "https://www.zdnet.fr/guide-achat/retour-dexperience-jai-compare-mon-google-fitbit-air-a-un-cardiofrequencemetre-quasi-aussi-precis-quun-electrocardiogramme-499227.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Point tech : ce que signifie « mAh » pour la batterie de votre smartphone",
-      "link": "https://www.zdnet.fr/guide-achat/point-tech-ce-que-signifie-mah-pour-la-batterie-de-votre-smartphone-499204.htm#xtor=123456",
-      "date": "lun, 03 Août 2026 18:07:49 +0200",
-      "source": "ZDNet FR",
+      "title": "Des agents Anthropic et OpenAI créent de fausses identités pour piéger un développeur",
+      "link": "https://www.silicon.fr/cybersecurite-1371/agents-anthropic-et-openai-creent-fausses-identites-pour-pieger-un-developpeur-228674",
+      "date": "Wed, 05 Aug 2026 11:22:05 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "AI gigafactories : les détails de l’appel d’offres",
       "link": "https://www.silicon.fr/data-ia-1372/ai-gigafactories-appel-offres-gigafabriques-228646",
       "date": "Mon, 03 Aug 2026 16:30:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AI Office : qui sont les gendarmes de l’IA au sein de l’UE",
-      "link": "https://www.silicon.fr/data-ia-1372/ai-office-qui-sont-les-gendarmes-de-lia-au-sein-de-lue-228645",
-      "date": "Mon, 03 Aug 2026 12:59:05 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
