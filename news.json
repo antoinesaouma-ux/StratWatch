@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T12:46:00.422912+00:00",
+  "updated": "2026-08-05T15:06:28.915566+00:00",
   "news": [
     {
       "title": "Comment se débarrasser d'un phishing et sécuriser ses comptes",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "En un an, qu’a produit le Conseil de l’IA et du numérique ?",
+      "link": "https://www.silicon.fr/data-ia-1372/conseil-ia-numerique-livrables-228673",
+      "date": "Wed, 05 Aug 2026 14:42:20 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Des agents Anthropic et OpenAI créent de fausses identités pour piéger un développeur",
       "link": "https://www.silicon.fr/cybersecurite-1371/agents-anthropic-et-openai-creent-fausses-identites-pour-pieger-un-developpeur-228674",
       "date": "Wed, 05 Aug 2026 11:22:05 +0000",
@@ -85,14 +93,6 @@
       "title": "Le SASE, un marché sujet à « surplateformisation »",
       "link": "https://www.silicon.fr/cybersecurite-1371/sase-magic-quadrant-2026-228654",
       "date": "Tue, 04 Aug 2026 08:27:33 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AI gigafactories : les détails de l’appel d’offres",
-      "link": "https://www.silicon.fr/data-ia-1372/ai-gigafactories-appel-offres-gigafabriques-228646",
-      "date": "Mon, 03 Aug 2026 16:30:21 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
