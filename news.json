@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-07T16:39:51.554525+00:00",
+  "updated": "2026-08-07T17:38:56.264281+00:00",
   "news": [
+    {
+      "title": "Informatique pratique : misez sur ZimaOS plutôt que sur Google Drive pour garantir la confidentialité de vos fichiers et une sauvegarde locale",
+      "link": "https://www.zdnet.fr/pratique/informatique-pratique-misez-sur-zimaos-plutot-que-sur-google-drive-pour-garantir-la-confidentialite-de-vos-fichiers-et-une-sauvegarde-locale-499399.htm#xtor=123456",
+      "date": "ven, 07 Août 2026 18:03:05 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Comment je survis à l'été sans clim : mes meilleurs conseils, astuces et gadgets pour affronter la chaleur",
       "link": "https://www.zdnet.fr/pratique/comment-je-survis-a-lete-sans-clim-mes-meilleurs-conseils-astuces-et-gadgets-pour-affronter-la-chaleur-499449.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "J'ai effectué une analyse « dumpstate » sur mon Android : 3 diagnostics système pour vérifier l'espace libre",
       "link": "https://www.zdnet.fr/pratique/jai-effectue-une-analyse-dumpstate-sur-mon-android-3-diagnostics-systeme-pour-verifier-lespace-libre-499373.htm#xtor=123456",
       "date": "jeu, 06 Août 2026 11:35:05 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "J'ai dicté plus de 120 000 mots à l'aide de ma voix : voici mes trois outils préférés (dont l'un est gratuit)",
-      "link": "https://www.zdnet.fr/guide-achat/jai-dicte-plus-de-120-000-mots-a-laide-de-ma-voix-voici-mes-trois-outils-preferes-dont-lun-est-gratuit-499370.htm#xtor=123456",
-      "date": "jeu, 06 Août 2026 10:17:08 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
