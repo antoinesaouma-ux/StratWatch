@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-07T20:27:43.944206+00:00",
+  "updated": "2026-08-07T21:27:08.191492+00:00",
   "news": [
+    {
+      "title": "Prise en main Samsung Galaxy Watch 9 : légère et confortable",
+      "link": "https://www.zdnet.fr/guide-achat/prise-en-main-samsung-galaxy-watch-9-legere-et-confortable-499402.htm#xtor=123456",
+      "date": "ven, 07 Août 2026 22:03:25 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Informatique pratique : misez sur ZimaOS plutôt que sur Google Drive pour garantir la confidentialité de vos fichiers et une sauvegarde locale",
       "link": "https://www.zdnet.fr/pratique/informatique-pratique-misez-sur-zimaos-plutot-que-sur-google-drive-pour-garantir-la-confidentialite-de-vos-fichiers-et-une-sauvegarde-locale-499399.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "Android pratique : testez le génial Octopi Launcher",
       "link": "https://www.zdnet.fr/guide-achat/android-pratique-testez-le-genial-octopi-launcher-499312.htm#xtor=123456",
       "date": "jeu, 06 Août 2026 18:01:34 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "J'ai effectué une analyse « dumpstate » sur mon Android : 3 diagnostics système pour vérifier l'espace libre",
-      "link": "https://www.zdnet.fr/pratique/jai-effectue-une-analyse-dumpstate-sur-mon-android-3-diagnostics-systeme-pour-verifier-lespace-libre-499373.htm#xtor=123456",
-      "date": "jeu, 06 Août 2026 11:35:05 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
