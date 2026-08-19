@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T21:14:54.136385+00:00",
+  "updated": "2026-08-19T22:12:52.001814+00:00",
   "news": [
     {
       "title": "Vous voulez faire tourner une distro Linux votre smartphone Android ? J'ai trouvé la méthode la plus simple",
@@ -46,54 +46,6 @@
       "link": "https://www.zdnet.fr/pratique/google-pixel-tag-vs-apple-airtag-lun-a-un-gros-avantage-technologique-sur-lautre-500007.htm#xtor=123456",
       "date": "lun, 17 Août 2026 22:03:38 +0200",
       "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cyberattaque à la DGFiP : le plan de riposte qui peine à convaincre",
-      "link": "https://www.silicon.fr/cybersecurite-1371/cyberattaque-dgfip-le-plan-de-riposte-qui-peine-a-convaincre-228740",
-      "date": "Wed, 19 Aug 2026 13:04:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "OpenAI ralentit le développement de ses modèles face à la montée des capacités cyber",
-      "link": "https://www.silicon.fr/cybersecurite-1371/openai-ralentit-le-developpement-de-ses-modeles-face-a-la-montee-des-capacites-cyber-228736",
-      "date": "Wed, 19 Aug 2026 08:53:13 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "NetApp acquiert JetStream Software",
-      "link": "https://www.silicon.fr/data-ia-1372/netapp-acquiert-jetstream-software-228733",
-      "date": "Tue, 18 Aug 2026 12:05:55 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Ce que Claude Mythos révèle de nos stratégies de cybersécurité",
-      "link": "https://www.silicon.fr/cybersecurite-1371/ce-que-claude-mythos-revele-de-nos-strategies-de-cybersecurite-228730",
-      "date": "Tue, 18 Aug 2026 11:33:52 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Piratage de la DGFiP : ce que l’on sait vraiment",
-      "link": "https://www.silicon.fr/cybersecurite-1371/piratage-de-la-dgfip-ce-que-lon-sait-vraiment-228727",
-      "date": "Tue, 18 Aug 2026 11:15:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "{Sélection Été 2026 } – 10 articles à lire pour préparer la rentrée",
-      "link": "https://www.silicon.fr/business-1367/selection-ete-2026-10-articles-a-lire-pour-preparer-la-rentree-228676",
-      "date": "Fri, 07 Aug 2026 13:27:10 +0000",
-      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     }
