@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-19T12:21:12.015050+00:00",
+  "updated": "2026-08-19T13:35:28.002017+00:00",
   "news": [
+    {
+      "title": "Site piraté : que faire pour le sécuriser et le restaurer ?",
+      "link": "https://www.zdnet.fr/guide-achat/site-pirate-que-faire-pour-le-securiser-et-le-restaurer-499031.htm#xtor=123456",
+      "date": "mer, 19 Août 2026 14:30:17 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Vous pouvez transformer un vieil Android en alternative au Raspberry Pi, mais il y a une chose que vous devez savoir avant tout",
       "link": "https://www.zdnet.fr/pratique/vous-pouvez-transformer-un-vieil-android-en-alternative-au-raspberry-pi-mais-il-y-a-une-chose-que-vous-devez-savoir-avant-tout-500142.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Trois semaines avec l'Apple Watch Ultra 3 et la Galaxy Watch Ultra 2 : mon verdict",
-      "link": "https://www.zdnet.fr/guide-achat/trois-semaines-avec-lapple-watch-ultra-3-et-la-galaxy-watch-ultra-2-mon-verdict-499918.htm#xtor=123456",
-      "date": "dim, 16 Août 2026 09:05:08 +0200",
-      "source": "ZDNet FR",
+      "title": "Cyberattaque à la DGFiP : le plan riposte qui peine à convaincre",
+      "link": "https://www.silicon.fr/cybersecurite-1371/cyberattaque-a-la-dgfip-le-plan-riposte-qui-peine-a-convaincre-228740",
+      "date": "Wed, 19 Aug 2026 13:04:21 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "{Sélection Été 2026 } – 10 articles à lire pour préparer la rentrée",
       "link": "https://www.silicon.fr/business-1367/selection-ete-2026-10-articles-a-lire-pour-preparer-la-rentree-228676",
       "date": "Fri, 07 Aug 2026 13:27:10 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AMD rachète Taalas pour accélérer sur l’inférence IA",
-      "link": "https://www.silicon.fr/data-ia-1372/amd-rachete-taalas-pour-accelerer-sur-linference-ia-228716",
-      "date": "Fri, 07 Aug 2026 12:30:52 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
