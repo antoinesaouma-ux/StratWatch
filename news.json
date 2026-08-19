@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T08:22:32.419296+00:00",
+  "updated": "2026-08-19T09:21:25.417866+00:00",
   "news": [
     {
       "title": "Vous pouvez transformer un vieil Android en alternative au Raspberry Pi, mais il y a une chose que vous devez savoir avant tout",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "OpenAI ralentit le développement de ses modèles face à la montée des capacités cyber",
+      "link": "https://www.silicon.fr/cybersecurite-1371/openai-ralentit-le-developpement-de-ses-modeles-face-a-la-montee-des-capacites-cyber-228736",
+      "date": "Wed, 19 Aug 2026 08:53:13 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "NetApp acquiert JetStream Software",
       "link": "https://www.silicon.fr/data-ia-1372/netapp-acquiert-jetstream-software-228733",
       "date": "Tue, 18 Aug 2026 12:05:55 +0000",
@@ -85,14 +93,6 @@
       "title": "AMD rachète Taalas pour accélérer sur l’inférence IA",
       "link": "https://www.silicon.fr/data-ia-1372/amd-rachete-taalas-pour-accelerer-sur-linference-ia-228716",
       "date": "Fri, 07 Aug 2026 12:30:52 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Devenu plus englobant, le SSE échappe à sa signification première",
-      "link": "https://www.silicon.fr/cybersecurite-1371/sse-magic-quadrant-2026-228714",
-      "date": "Fri, 07 Aug 2026 12:21:47 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
