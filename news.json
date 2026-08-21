@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T13:36:27.373929+00:00",
+  "updated": "2026-08-21T14:23:00.578231+00:00",
   "news": [
     {
       "title": "Vous voulez faire tourner une distro Linux votre smartphone Android ? J'ai trouvé la méthode la plus simple",
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Cyberattaque à la DGFiP : le plan de riposte qui peine à convaincre",
-      "link": "https://www.silicon.fr/cybersecurite-1371/cyberattaque-dgfip-le-plan-de-riposte-qui-peine-a-convaincre-228740",
-      "date": "Wed, 19 Aug 2026 13:04:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Microsoft met fin à son offre Azure VMware Solution avec licences incluses",
       "link": "https://www.silicon.fr/cloud-1370/microsoft-met-fin-a-son-offre-azure-vmware-solution-avec-licences-incluses-228767",
       "date": "Thu, 20 Aug 2026 14:06:50 +0000",
@@ -77,6 +69,14 @@
       "title": "Palo Alto Networks lance son programme Frontier AI Critical Defense",
       "link": "https://www.silicon.fr/cybersecurite-1371/palo-alto-networks-lance-son-programme-frontier-ai-critical-defense-228754",
       "date": "Thu, 20 Aug 2026 11:11:03 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Le « Legal Engineer », ce nouveau métier à la frontière du droit et de l’IA que Microsoft recrute",
+      "link": "https://www.silicon.fr/emploi-formation-1373/le-legal-engineer-ce-nouveau-metier-a-la-frontiere-du-droit-et-de-lia-que-microsoft-recrute-228780",
+      "date": "Fri, 21 Aug 2026 14:02:06 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
