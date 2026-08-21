@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T08:25:28.156268+00:00",
+  "updated": "2026-08-21T09:24:21.669575+00:00",
   "news": [
     {
       "title": "Vous voulez faire tourner une distro Linux votre smartphone Android ? J'ai trouvé la méthode la plus simple",
@@ -66,14 +66,6 @@
       "sources_count": 3
     },
     {
-      "title": "NetApp acquiert JetStream Software",
-      "link": "https://www.silicon.fr/data-ia-1372/netapp-acquiert-jetstream-software-228733",
-      "date": "Tue, 18 Aug 2026 12:05:55 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Microsoft met fin à son offre Azure VMware Solution avec licences incluses",
       "link": "https://www.silicon.fr/cloud-1370/microsoft-met-fin-a-son-offre-azure-vmware-solution-avec-licences-incluses-228767",
       "date": "Thu, 20 Aug 2026 14:06:50 +0000",
@@ -93,6 +85,14 @@
       "title": "Palo Alto Networks lance son programme Frontier AI Critical Defense",
       "link": "https://www.silicon.fr/cybersecurite-1371/palo-alto-networks-lance-son-programme-frontier-ai-critical-defense-228754",
       "date": "Thu, 20 Aug 2026 11:11:03 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Services IT : comment l’IA fait évoluer les contrats de prestation",
+      "link": "https://www.silicon.fr/business-1367/services-it-comment-lia-fait-evoluer-les-contrats-de-prestation-228771",
+      "date": "Fri, 21 Aug 2026 08:42:46 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
