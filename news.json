@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:24:23.101552+00:00",
+  "updated": "2026-08-25T13:39:35.564539+00:00",
   "news": [
     {
       "title": "Après une semaine passée à porter la Pixel Watch 5, voici ce que j'aime le plus",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Mistral et HUMAIN misent sur des modèles IA arabophones",
+      "link": "https://www.silicon.fr/business-1367/mistral-et-humain-misent-sur-des-modeles-ia-arabophones-228811",
+      "date": "Tue, 25 Aug 2026 13:00:25 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "En France, 85 % des ransomwares sont d’abord des attaques d’identité",
       "link": "https://www.silicon.fr/cybersecurite-1371/en-france-85-des-ransomwares-sont-dabord-des-attaques-didentite-228807",
       "date": "Tue, 25 Aug 2026 11:12:53 +0000",
@@ -85,14 +93,6 @@
       "title": "Une procédure de crise s’apprend vite, une organisation résiliente se construit lentement",
       "link": "https://www.silicon.fr/cybersecurite-1371/une-procedure-de-crise-sapprend-vite-une-organisation-resiliente-se-construit-lentement-228787",
       "date": "Mon, 24 Aug 2026 10:03:38 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AI Gateway : la prochaine bataille des infrastructures IA",
-      "link": "https://www.silicon.fr/data-ia-1372/ai-gateway-la-prochaine-bataille-des-infrastructures-ia-228784",
-      "date": "Mon, 24 Aug 2026 08:43:38 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
