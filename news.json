@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:18:34.876468+00:00",
+  "updated": "2026-08-26T12:26:43.583080+00:00",
   "news": [
     {
       "title": "Le nouvel outil de récupération de Windows 11 de Microsoft est le « bouton Annuler » par excellence : comment l'activer ?",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Bill Gates met en garde contre une « ère de l’IA turbulente »",
+      "link": "https://www.silicon.fr/data-ia-1372/bill-gates-met-en-garde-contre-une-ere-de-lia-turbulente-228822",
+      "date": "Wed, 26 Aug 2026 11:23:47 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Anthropic vise un marché total de plus de 30 000 milliards $",
       "link": "https://www.silicon.fr/business-1367/anthropic-vise-un-marche-total-de-plus-de-30-000-milliards-228820",
       "date": "Wed, 26 Aug 2026 10:16:11 +0000",
@@ -85,14 +93,6 @@
       "title": "LinkedIn et son bouton anti-« AI slop » : succès d’usage, verdict encore incertain",
       "link": "https://www.silicon.fr/business-1367/linkedin-et-son-bouton-anti-ai-slop-succes-dusage-verdict-encore-incertain-228799",
       "date": "Tue, 25 Aug 2026 09:28:34 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "TCS et Porsche scellent un pacte IA à 1,25 milliards €",
-      "link": "https://www.silicon.fr/business-1367/tcs-et-porsche-scellent-un-pacte-ia-a-125-milliards-e-228794",
-      "date": "Tue, 25 Aug 2026 08:52:31 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
