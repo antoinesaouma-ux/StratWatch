@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T09:29:28.839547+00:00",
+  "updated": "2026-08-26T10:23:03.286062+00:00",
   "news": [
     {
       "title": "Le nouvel outil de récupération de Windows 11 de Microsoft est le « bouton Annuler » par excellence : comment l'activer ?",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Anthropic vise un marché total de plus de 30 000 milliards $",
+      "link": "https://www.silicon.fr/business-1367/anthropic-vise-un-marche-total-de-plus-de-30-000-milliards-228820",
+      "date": "Wed, 26 Aug 2026 10:16:11 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "AI Gateway : la bataille pour le contrôle de l’IA",
       "link": "https://www.silicon.fr/data-ia-1372/ai-gateway-la-bataille-pour-le-controle-de-lia-228817",
       "date": "Wed, 26 Aug 2026 09:26:40 +0000",
@@ -85,14 +93,6 @@
       "title": "TCS et Porsche scellent un pacte IA à 1,25 milliards €",
       "link": "https://www.silicon.fr/business-1367/tcs-et-porsche-scellent-un-pacte-ia-a-125-milliards-e-228794",
       "date": "Tue, 25 Aug 2026 08:52:31 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Emplois Tech : New York détrône San Francisco",
-      "link": "https://www.silicon.fr/emploi-formation-1373/emplois-tech-new-york-detrone-san-francisco-228791",
-      "date": "Mon, 24 Aug 2026 11:25:05 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
