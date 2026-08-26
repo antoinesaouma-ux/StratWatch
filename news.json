@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T16:08:24.744516+00:00",
+  "updated": "2026-08-26T18:48:16.481575+00:00",
   "news": [
     {
       "title": "Le nouvel outil de récupération de Windows 11 de Microsoft est le « bouton Annuler » par excellence : comment l'activer ?",
@@ -10,9 +10,9 @@
       "sources_count": 3
     },
     {
-      "title": "Test Marshall Stanmore IV : cette enceinte fonctionne uniquement en Bluetooth, mais elle offre un son tellement excellent que je peux lui pardonner l'absence de Wi-Fi",
-      "link": "https://www.zdnet.fr/guide-achat/test-marshall-stanmore-iv-cette-enceinte-fonctionne-uniquement-en-bluetooth-mais-elle-offre-un-son-tellement-excellent-que-je-peux-lui-pardonner-labsence-de-wi-fi-500326.htm#xtor=123456",
-      "date": "sam, 22 Août 2026 10:22:17 +0200",
+      "title": "Test Pebble Time 2 : après avoir utilisé une Apple Watch pendant des années, cette montre est exactement ce dont j'avais besoin",
+      "link": "https://www.zdnet.fr/guide-achat/test-pebble-time-2-apres-avoir-utilise-une-apple-watch-pendant-des-annees-cette-montre-est-exactement-ce-dont-javais-besoin-500652.htm#xtor=123456",
+      "date": "mer, 26 Août 2026 18:00:57 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -46,54 +46,6 @@
       "link": "https://www.zdnet.fr/pratique/claude-code-vs-codex-pourquoi-jutilise-les-deux-et-comment-choisir-lun-ou-lautre-si-vous-y-etes-oblige-500320.htm#xtor=123456",
       "date": "dim, 23 Août 2026 09:50:33 +0200",
       "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Brevets Wi-Fi : Huawei et HP concluent un accord mondial de licences croisées",
-      "link": "https://www.silicon.fr/business-1367/brevets-wi-fi-huawei-et-hp-concluent-un-accord-mondial-de-licences-croisees-228825",
-      "date": "Wed, 26 Aug 2026 13:24:05 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Bill Gates met en garde contre une « ère de l’IA turbulente »",
-      "link": "https://www.silicon.fr/data-ia-1372/bill-gates-met-en-garde-contre-une-ere-de-lia-turbulente-228822",
-      "date": "Wed, 26 Aug 2026 11:23:47 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic vise un marché total de plus de 30 000 milliards $",
-      "link": "https://www.silicon.fr/business-1367/anthropic-vise-un-marche-total-de-plus-de-30-000-milliards-228820",
-      "date": "Wed, 26 Aug 2026 10:16:11 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AI Gateway : la bataille pour le contrôle de l’IA",
-      "link": "https://www.silicon.fr/data-ia-1372/ai-gateway-la-bataille-pour-le-controle-de-lia-228817",
-      "date": "Wed, 26 Aug 2026 09:26:40 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Mistral et HUMAIN misent sur des modèles IA arabophones",
-      "link": "https://www.silicon.fr/business-1367/mistral-et-humain-misent-sur-des-modeles-ia-arabophones-228811",
-      "date": "Tue, 25 Aug 2026 13:00:25 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "En France, 85 % des ransomwares sont d’abord des attaques d’identité",
-      "link": "https://www.silicon.fr/cybersecurite-1371/en-france-85-des-ransomwares-sont-dabord-des-attaques-didentite-228807",
-      "date": "Tue, 25 Aug 2026 11:12:53 +0000",
-      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     }
