@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T02:22:13.397589+00:00",
+  "updated": "2026-08-27T13:16:38.234442+00:00",
   "news": [
     {
       "title": "Comment j'ai transformé gratuitement mon vieux PC Windows en Chromebook grâce à FydeOS",
@@ -46,6 +46,54 @@
       "link": "https://www.zdnet.fr/pratique/claude-code-vs-codex-pourquoi-jutilise-les-deux-et-comment-choisir-lun-ou-lautre-si-vous-y-etes-oblige-500320.htm#xtor=123456",
       "date": "dim, 23 Août 2026 09:50:33 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Brevets Wi-Fi : Huawei et HP concluent un accord mondial de licences croisées",
+      "link": "https://www.silicon.fr/business-1367/brevets-wi-fi-huawei-et-hp-concluent-un-accord-mondial-de-licences-croisees-228825",
+      "date": "Wed, 26 Aug 2026 13:24:05 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Bill Gates met en garde contre une « ère de l’IA turbulente »",
+      "link": "https://www.silicon.fr/data-ia-1372/bill-gates-met-en-garde-contre-une-ere-de-lia-turbulente-228822",
+      "date": "Wed, 26 Aug 2026 11:23:47 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Anthropic vise un marché total de plus de 30 000 milliards $",
+      "link": "https://www.silicon.fr/business-1367/anthropic-vise-un-marche-total-de-plus-de-30-000-milliards-228820",
+      "date": "Wed, 26 Aug 2026 10:16:11 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "AWS rachète DuckLabs : ce que le deal change pour l’analytique et l’open source",
+      "link": "https://www.silicon.fr/data-ia-1372/aws-rachete-ducklabs-ce-que-le-deal-change-pour-lanalytique-et-lopen-source-228834",
+      "date": "Thu, 27 Aug 2026 13:03:41 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Qui est YMTC, le champion chinois de la mémoire NAND  ?",
+      "link": "https://www.silicon.fr/business-1367/qui-est-ymtc-le-champion-chinois-de-la-memoire-nand-228831",
+      "date": "Thu, 27 Aug 2026 11:39:25 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Nvidia serait prêt à mettre la main sur Hugging Face pour 13 milliards $",
+      "link": "https://www.silicon.fr/business-1367/nvidia-serait-pret-a-mettre-la-main-sur-hugging-face-pour-13-milliards-228829",
+      "date": "Thu, 27 Aug 2026 09:02:15 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     }
