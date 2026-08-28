@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-28T07:42:43.454276+00:00",
+  "updated": "2026-08-28T19:44:09.875737+00:00",
   "news": [
+    {
+      "title": "Les 5 meilleures alternatives Linux à Windows en 2026 (autres que Mint)",
+      "link": "https://www.zdnet.fr/pratique/les-5-meilleures-alternatives-linux-a-windows-en-2026-autres-que-mint-500808.htm#xtor=123456",
+      "date": "ven, 28 Août 2026 18:00:44 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Comment j'ai transformé gratuitement mon vieux PC Windows en Chromebook grâce à FydeOS",
       "link": "https://www.zdnet.fr/pratique/comment-jai-transforme-gratuitement-mon-vieux-pc-windows-en-chromebook-grace-a-fydeos-500657.htm#xtor=123456",
@@ -26,14 +34,6 @@
       "sources_count": 3
     },
     {
-      "title": "Oui, vous pouvez modifier l'arrière-plan de l'application Messages sur votre iPhone, mais il y a un hic",
-      "link": "https://www.zdnet.fr/pratique/oui-vous-pouvez-modifier-larriere-plan-de-lapplication-messages-sur-votre-iphone-mais-il-y-a-un-hic-500578.htm#xtor=123456",
-      "date": "mar, 25 Août 2026 18:00:57 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "La nouvelle montre connectée Fenix 9 Pro de Garmin est deux fois plus lumineuse que la Garmin Fenix 8 : voici une comparaison entre les deux modèles",
       "link": "https://www.zdnet.fr/guide-achat/la-nouvelle-montre-connectee-fenix-9-pro-de-garmin-est-deux-fois-plus-lumineuse-que-la-garmin-fenix-8-voici-une-comparaison-entre-les-deux-modeles-500726.htm#xtor=123456",
       "date": "jeu, 27 Août 2026 22:00:15 +0200",
@@ -46,30 +46,6 @@
       "link": "https://www.zdnet.fr/pratique/le-nouveau-plugin-mac-de-chatgpt-a-analyse-mes-imessages-et-je-lai-trouve-etonnamment-utile-500723.htm#xtor=123456",
       "date": "jeu, 27 Août 2026 18:00:35 +0200",
       "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Brevets Wi-Fi : Huawei et HP concluent un accord mondial de licences croisées",
-      "link": "https://www.silicon.fr/business-1367/brevets-wi-fi-huawei-et-hp-concluent-un-accord-mondial-de-licences-croisees-228825",
-      "date": "Wed, 26 Aug 2026 13:24:05 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Bill Gates met en garde contre une « ère de l’IA turbulente »",
-      "link": "https://www.silicon.fr/data-ia-1372/bill-gates-met-en-garde-contre-une-ere-de-lia-turbulente-228822",
-      "date": "Wed, 26 Aug 2026 11:23:47 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic vise un marché total de plus de 30 000 milliards $",
-      "link": "https://www.silicon.fr/business-1367/anthropic-vise-un-marche-total-de-plus-de-30-000-milliards-228820",
-      "date": "Wed, 26 Aug 2026 10:16:11 +0000",
-      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -93,6 +69,30 @@
       "title": "Nvidia serait prêt à mettre la main sur Hugging Face pour 13 milliards $",
       "link": "https://www.silicon.fr/business-1367/nvidia-serait-pret-a-mettre-la-main-sur-hugging-face-pour-13-milliards-228829",
       "date": "Thu, 27 Aug 2026 09:02:15 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "OpenAI veut fédérer l’industrie face à la montée des cyberattaques dopées à l’IA",
+      "link": "https://www.silicon.fr/cybersecurite-1371/openai-veut-federer-lindustrie-face-a-la-montee-des-cyberattaques-dopees-a-lia-228858",
+      "date": "Fri, 28 Aug 2026 13:38:10 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Salesforce et Anthropic s’allient avec « Claudeforce »",
+      "link": "https://www.silicon.fr/business-1367/salesforce-et-anthropic-sallient-avec-claudeforce-228850",
+      "date": "Fri, 28 Aug 2026 11:17:57 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Etats et cybercriminels piratent les mêmes VPN et pare-feux",
+      "link": "https://www.silicon.fr/cybersecurite-1371/etats-et-cybercriminels-piratent-les-memes-vpn-et-pare-feux-228847",
+      "date": "Fri, 28 Aug 2026 10:34:40 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
