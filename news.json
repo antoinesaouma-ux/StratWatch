@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T07:50:05.954114+00:00",
+  "updated": "2026-08-31T15:37:30.156987+00:00",
   "news": [
     {
       "title": "Les 6 distributions Linux sans IA que je recommande le plus – et pourquoi elles devraient le rester",
@@ -50,25 +50,33 @@
       "sources_count": 3
     },
     {
-      "title": "AWS rachète DuckLabs : ce que le deal change pour l’analytique et l’open source",
-      "link": "https://www.silicon.fr/data-ia-1372/aws-rachete-ducklabs-ce-que-le-deal-change-pour-lanalytique-et-lopen-source-228834",
-      "date": "Thu, 27 Aug 2026 13:03:41 +0000",
+      "title": "Scribe, ce projet d’État qui a tourné à la faute grave collective",
+      "link": "https://www.silicon.fr/business-1367/scribe-sanctions-cour-comptes-228860",
+      "date": "Mon, 31 Aug 2026 15:10:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Qui est YMTC, le champion chinois de la mémoire NAND  ?",
-      "link": "https://www.silicon.fr/business-1367/qui-est-ymtc-le-champion-chinois-de-la-memoire-nand-228831",
-      "date": "Thu, 27 Aug 2026 11:39:25 +0000",
+      "title": "Comment Cisco a doté ses 90 000 salariés d’un agent IA",
+      "link": "https://www.silicon.fr/data-ia-1372/comment-cisco-a-dote-ses-90-000-salaries-dun-agent-ia-228872",
+      "date": "Mon, 31 Aug 2026 13:22:11 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Nvidia serait prêt à mettre la main sur Hugging Face pour 13 milliards $",
-      "link": "https://www.silicon.fr/business-1367/nvidia-serait-pret-a-mettre-la-main-sur-hugging-face-pour-13-milliards-228829",
-      "date": "Thu, 27 Aug 2026 09:02:15 +0000",
+      "title": "Jamespot rachète Alinto et ajoute la messagerie à son offre collaborative",
+      "link": "https://www.silicon.fr/business-1367/jamespot-rachete-alinto-et-ajoute-la-messagerie-a-son-offre-collaborative-228866",
+      "date": "Mon, 31 Aug 2026 12:03:01 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Le régulateur financier mondial demande un encadrement d’urgence de l’IA",
+      "link": "https://www.silicon.fr/business-1367/le-regulateur-financier-mondial-demande-un-encadrement-durgence-de-lia-228862",
+      "date": "Mon, 31 Aug 2026 10:44:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "Salesforce et Anthropic s’allient avec « Claudeforce »",
       "link": "https://www.silicon.fr/business-1367/salesforce-et-anthropic-sallient-avec-claudeforce-228850",
       "date": "Fri, 28 Aug 2026 11:17:57 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Etats et cybercriminels piratent les mêmes VPN et pare-feux",
-      "link": "https://www.silicon.fr/cybersecurite-1371/etats-et-cybercriminels-piratent-les-memes-vpn-et-pare-feux-228847",
-      "date": "Fri, 28 Aug 2026 10:34:40 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
