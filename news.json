@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T10:41:51.220749+00:00",
+  "updated": "2026-09-01T15:16:47.076568+00:00",
   "news": [
     {
       "title": "Comment j'ai trié 22 000 photos sans me sentir dépassé : 4 astuces simples",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "ChatGPT soumis au DSA : où en sont les autres enquêtes ?",
+      "link": "https://www.silicon.fr/business-1367/chatgpt-dsa-enquetes-228890",
+      "date": "Tue, 01 Sep 2026 13:51:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "La FTC accuse Amazon d’avoir truqué ses enchères publicitaires",
       "link": "https://www.silicon.fr/business-1367/la-ftc-accuse-amazon-davoir-truque-ses-encheres-publicitaires-228888",
       "date": "Tue, 01 Sep 2026 09:47:03 +0000",
@@ -85,14 +93,6 @@
       "title": "Jamespot rachète Alinto et ajoute la messagerie à son offre collaborative",
       "link": "https://www.silicon.fr/business-1367/jamespot-rachete-alinto-et-ajoute-la-messagerie-a-son-offre-collaborative-228866",
       "date": "Mon, 31 Aug 2026 12:03:01 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Le régulateur financier mondial demande un encadrement d’urgence de l’IA",
-      "link": "https://www.silicon.fr/business-1367/le-regulateur-financier-mondial-demande-un-encadrement-durgence-de-lia-228862",
-      "date": "Mon, 31 Aug 2026 10:44:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
