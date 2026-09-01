@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-01T15:16:47.076568+00:00",
+  "updated": "2026-09-01T18:57:25.447527+00:00",
   "news": [
+    {
+      "title": "stillOS offre l'une des meilleures expériences d'initiation à Linux que j'aie jamais vues.",
+      "link": "https://www.zdnet.fr/guide-achat/stillos-offre-lune-des-meilleures-experiences-dinitiation-a-linux-que-jaie-jamais-vues-501007.htm#xtor=123456",
+      "date": "mar, 01 Sep 2026 18:21:28 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Comment j'ai trié 22 000 photos sans me sentir dépassé : 4 astuces simples",
       "link": "https://www.zdnet.fr/pratique/comment-jai-trie-22-000-photos-sans-me-sentir-depasse-4-astuces-simples-500927.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Le Fairphone 6+ prouve qu'un smartphone durable peut aussi être performant",
-      "link": "https://www.zdnet.fr/guide-achat/le-fairphone-6-prouve-quun-smartphone-durable-peut-aussi-etre-performant-500815.htm#xtor=123456",
-      "date": "dim, 30 Août 2026 09:01:03 +0200",
-      "source": "ZDNet FR",
+      "title": "Souveraineté numérique : le diagnostic fait consensus, pas le remède",
+      "link": "https://www.silicon.fr/workspace-1376/souverainete-numerique-le-diagnostic-fait-consensus-pas-le-remede-228911",
+      "date": "Tue, 01 Sep 2026 16:12:11 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Comment Cisco a doté ses 90 000 salariés d’un agent IA",
       "link": "https://www.silicon.fr/data-ia-1372/comment-cisco-a-dote-ses-90-000-salaries-dun-agent-ia-228872",
       "date": "Mon, 31 Aug 2026 13:22:11 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Jamespot rachète Alinto et ajoute la messagerie à son offre collaborative",
-      "link": "https://www.silicon.fr/business-1367/jamespot-rachete-alinto-et-ajoute-la-messagerie-a-son-offre-collaborative-228866",
-      "date": "Mon, 31 Aug 2026 12:03:01 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
