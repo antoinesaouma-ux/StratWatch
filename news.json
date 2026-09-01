@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T05:49:52.954887+00:00",
+  "updated": "2026-09-01T10:41:51.220749+00:00",
   "news": [
     {
       "title": "Comment j'ai trié 22 000 photos sans me sentir dépassé : 4 astuces simples",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "La FTC accuse Amazon d’avoir truqué ses enchères publicitaires",
+      "link": "https://www.silicon.fr/business-1367/la-ftc-accuse-amazon-davoir-truque-ses-encheres-publicitaires-228888",
+      "date": "Tue, 01 Sep 2026 09:47:03 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "UCaaS : la demande en IA ne suit pas l’offre",
+      "link": "https://www.silicon.fr/cloud-1370/ucaas-magic-quadrant-2026-228881",
+      "date": "Tue, 01 Sep 2026 08:11:22 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Scribe, ce projet d’État qui a tourné à la faute grave collective",
       "link": "https://www.silicon.fr/business-1367/scribe-sanctions-cour-comptes-228860",
       "date": "Mon, 31 Aug 2026 15:10:19 +0000",
@@ -77,22 +93,6 @@
       "title": "Le régulateur financier mondial demande un encadrement d’urgence de l’IA",
       "link": "https://www.silicon.fr/business-1367/le-regulateur-financier-mondial-demande-un-encadrement-durgence-de-lia-228862",
       "date": "Mon, 31 Aug 2026 10:44:16 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "OpenAI veut fédérer l’industrie face à la montée des cyberattaques dopées à l’IA",
-      "link": "https://www.silicon.fr/cybersecurite-1371/openai-veut-federer-lindustrie-face-a-la-montee-des-cyberattaques-dopees-a-lia-228858",
-      "date": "Fri, 28 Aug 2026 13:38:10 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Salesforce et Anthropic s’allient avec « Claudeforce »",
-      "link": "https://www.silicon.fr/business-1367/salesforce-et-anthropic-sallient-avec-claudeforce-228850",
-      "date": "Fri, 28 Aug 2026 11:17:57 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
