@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-02T15:31:50.738744+00:00",
+  "updated": "2026-09-02T19:03:00.642101+00:00",
   "news": [
+    {
+      "title": "Gemini Notebook peut désormais analyser vos livres fdu Google Play : voici trois façons dont j'utilise cette fonctionnalité",
+      "link": "https://www.zdnet.fr/pratique/gemini-notebook-peut-desormais-analyser-vos-livres-fdu-google-play-voici-trois-facons-dont-jutilise-cette-fonctionnalite-501077.htm#xtor=123456",
+      "date": "mer, 02 Sep 2026 18:36:56 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "J'ai utilisé l'agent IA de Perplexity sous Windows pour mener à bien 5 tâches complexes : voici ce qui m'a le plus impressionné",
+      "link": "https://www.zdnet.fr/pratique/jai-utilise-lagent-ia-de-perplexity-sous-windows-pour-mener-a-bien-5-taches-complexes-voici-ce-qui-ma-le-plus-impressionne-501074.htm#xtor=123456",
+      "date": "mer, 02 Sep 2026 18:27:26 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test Comulytic Note Pro AI : cet enregistreur vocal IA de poche m'a rappelé le bon vieux temps de la dictée (et de la sténographie)",
       "link": "https://www.zdnet.fr/guide-achat/test-comulytic-note-pro-ai-cet-enregistreur-vocal-ia-de-poche-ma-rappele-le-bon-vieux-temps-de-la-dictee-et-de-la-stenographie-501012.htm#xtor=123456",
@@ -34,18 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "Des panneaux solaires avec batteries résoudront-t-ils votre problème d'alimentation électrique ? J'ai fait le calcul",
-      "link": "https://www.zdnet.fr/pratique/des-panneaux-solaires-avec-batteries-resoudront-t-ils-votre-probleme-dalimentation-electrique-jai-fait-le-calcul-500826.htm#xtor=123456",
-      "date": "dim, 30 Août 2026 16:00:22 +0200",
-      "source": "ZDNet FR",
+      "title": "CrowdStrike pousse prudemment son red teaming agentique",
+      "link": "https://www.silicon.fr/cybersecurite-1371/crowdstrike-falcon-2026-228920",
+      "date": "Wed, 02 Sep 2026 16:26:54 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Fini de plisser les yeux : cette appli gratuite transforme votre téléphone en loupe puissante",
-      "link": "https://www.zdnet.fr/pratique/fini-de-plisser-les-yeux-cette-appli-gratuite-transforme-votre-telephone-en-loupe-puissante-500827.htm#xtor=123456",
-      "date": "dim, 30 Août 2026 14:01:22 +0200",
-      "source": "ZDNet FR",
+      "title": "Nvidia, de vendeur de GPU à architecte du financement de l’IA",
+      "link": "https://www.silicon.fr/business-1367/nvidia-de-vendeur-de-gpu-a-architecte-du-financement-de-lia-228921",
+      "date": "Wed, 02 Sep 2026 16:21:25 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "ChatGPT soumis au DSA : où en sont les autres enquêtes ?",
       "link": "https://www.silicon.fr/business-1367/chatgpt-dsa-enquetes-228890",
       "date": "Tue, 01 Sep 2026 13:51:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La FTC accuse Amazon d’avoir truqué ses enchères publicitaires",
-      "link": "https://www.silicon.fr/business-1367/la-ftc-accuse-amazon-davoir-truque-ses-encheres-publicitaires-228888",
-      "date": "Tue, 01 Sep 2026 09:47:03 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "UCaaS : la demande en IA ne suit pas l’offre",
-      "link": "https://www.silicon.fr/cloud-1370/ucaas-magic-quadrant-2026-228881",
-      "date": "Tue, 01 Sep 2026 08:11:22 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
