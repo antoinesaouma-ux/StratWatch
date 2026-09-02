@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T06:34:30.681109+00:00",
+  "updated": "2026-09-02T11:49:38.191331+00:00",
   "news": [
     {
       "title": "Test Comulytic Note Pro AI : cet enregistreur vocal IA de poche m'a rappelé le bon vieux temps de la dictée (et de la sténographie)",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Open source et secteur public : pourquoi ce n’est pas si facile",
+      "link": "https://www.silicon.fr/open-source-1375/open-source-secteur-public-228917",
+      "date": "Wed, 02 Sep 2026 10:21:25 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "ITSM : entre cœur fonctionnel et briques IA, le marché trouve un équilibre",
+      "link": "https://www.silicon.fr/business-1367/itsm-magic-quadrant-2026-228913",
+      "date": "Wed, 02 Sep 2026 07:53:28 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Souveraineté numérique : le diagnostic fait consensus, pas le remède",
       "link": "https://www.silicon.fr/workspace-1376/souverainete-numerique-le-diagnostic-fait-consensus-pas-le-remede-228911",
       "date": "Tue, 01 Sep 2026 16:12:11 +0000",
@@ -77,22 +93,6 @@
       "title": "UCaaS : la demande en IA ne suit pas l’offre",
       "link": "https://www.silicon.fr/cloud-1370/ucaas-magic-quadrant-2026-228881",
       "date": "Tue, 01 Sep 2026 08:11:22 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Scribe, ce projet d’État qui a tourné à la faute grave collective",
-      "link": "https://www.silicon.fr/business-1367/scribe-sanctions-cour-comptes-228860",
-      "date": "Mon, 31 Aug 2026 15:10:19 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment Cisco a doté ses 90 000 salariés d’un agent IA",
-      "link": "https://www.silicon.fr/data-ia-1372/comment-cisco-a-dote-ses-90-000-salaries-dun-agent-ia-228872",
-      "date": "Mon, 31 Aug 2026 13:22:11 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
