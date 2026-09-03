@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T14:46:43.581642+00:00",
+  "updated": "2026-09-03T18:11:46.923948+00:00",
   "news": [
     {
       "title": "IA pratique : cinq manières d’utiliser ChatGPT Work dans votre business pour vous faire gagner du temps et faire des économies",
@@ -42,10 +42,18 @@
       "sources_count": 3
     },
     {
-      "title": "stillOS offre l'une des meilleures expériences d'initiation à Linux que j'aie jamais vues.",
-      "link": "https://www.zdnet.fr/guide-achat/stillos-offre-lune-des-meilleures-experiences-dinitiation-a-linux-que-jaie-jamais-vues-501007.htm#xtor=123456",
-      "date": "mar, 01 Sep 2026 18:21:28 +0200",
+      "title": "IA pratique : comment profiter gratuitement jusqu’à 12 mois de Google AI Pro",
+      "link": "https://www.zdnet.fr/pratique/ia-pratique-comment-profiter-gratuitement-jusqua-12-mois-de-google-ai-pro-501084.htm#xtor=123456",
+      "date": "jeu, 03 Sep 2026 18:00:59 +0200",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "IBM retente un processeur hybride, mais pour les mainframes",
+      "link": "https://www.silicon.fr/business-1367/ibm-arm-mainframe-processeur-228956",
+      "date": "Thu, 03 Sep 2026 16:23:10 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Microsoft lève enfin le voile sur les revenus d’Azure",
       "link": "https://www.silicon.fr/cloud-1370/microsoft-leve-enfin-le-voile-sur-les-revenus-dazure-228937",
       "date": "Thu, 03 Sep 2026 11:46:33 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Sécurité de l’IA : l’OSAA bascule sous la Linux Foundation",
-      "link": "https://www.silicon.fr/cybersecurite-1371/securite-de-lia-losaa-bascule-sous-la-linux-foundation-228931",
-      "date": "Thu, 03 Sep 2026 10:07:01 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
