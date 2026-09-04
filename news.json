@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-04T15:21:11.464033+00:00",
+  "updated": "2026-09-04T18:39:57.634436+00:00",
   "news": [
+    {
+      "title": "IA pratique : comment débuter avec ChatGPT Work",
+      "link": "https://www.zdnet.fr/pratique/ia-pratique-comment-debuter-avec-chatgpt-work-501171.htm#xtor=123456",
+      "date": "ven, 04 Sep 2026 18:00:14 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "IA pratique : cinq manières d’utiliser ChatGPT Work dans votre business pour vous faire gagner du temps et faire des économies",
       "link": "https://www.zdnet.fr/pratique/ia-pratique-cinq-manieres-dutiliser-chatgpt-work-dans-votre-business-pour-vous-faire-gagner-du-temps-et-faire-des-economies-501017.htm#xtor=123456",
@@ -21,14 +29,6 @@
       "title": "Gemini Notebook peut désormais analyser vos livres du Google Play : voici trois façons dont j'utilise cette fonctionnalité",
       "link": "https://www.zdnet.fr/pratique/gemini-notebook-peut-desormais-analyser-vos-livres-fdu-google-play-voici-trois-facons-dont-jutilise-cette-fonctionnalite-501077.htm#xtor=123456",
       "date": "mer, 02 Sep 2026 18:36:56 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "J'ai utilisé l'agent IA de Perplexity sous Windows pour mener à bien 5 tâches complexes : voici ce qui m'a le plus impressionné",
-      "link": "https://www.zdnet.fr/pratique/jai-utilise-lagent-ia-de-perplexity-sous-windows-pour-mener-a-bien-5-taches-complexes-voici-ce-qui-ma-le-plus-impressionne-501074.htm#xtor=123456",
-      "date": "mer, 02 Sep 2026 18:27:26 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -74,9 +74,9 @@
       "sources_count": 3
     },
     {
-      "title": "Bouygues Telecom : Catherine Voisin prend la tête de la nouvelle Direction Business Entreprises",
-      "link": "https://www.silicon.fr/emploi-formation-1373/bouygues-telecom-catherine-voisin-prend-la-tete-de-la-nouvelle-direction-business-entreprises-228945",
-      "date": "Thu, 03 Sep 2026 13:47:06 +0000",
+      "title": "GPT-5.6 Astra, un modèle qui pose problème à OpenAI",
+      "link": "https://www.silicon.fr/data-ia-1372/gpt-6-astra-228973",
+      "date": "Fri, 04 Sep 2026 16:50:48 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
