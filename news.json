@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T11:00:17.627342+00:00",
+  "updated": "2026-09-05T14:08:49.943182+00:00",
   "news": [
     {
       "title": "Test Asus ProArt KD300 : un outil de productivité excellent, en particulier pour les utilisateurs de Mac et de PC",
@@ -18,6 +18,22 @@
       "sources_count": 3
     },
     {
+      "title": "J'ai réussi à donner à Linux l'apparence de Windows 11 gratuitement, grâce à quelques modifications simples apportées à Zorin OS",
+      "link": "https://www.zdnet.fr/pratique/jai-reussi-a-donner-a-linux-lapparence-de-windows-11-gratuitement-grace-a-quelques-modifications-simples-apportees-a-zorin-os-502809.htm#xtor=123456",
+      "date": "sam, 05 Sep 2026 15:01:25 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Améliorez la précision des couleurs de votre télé grâce à ces quelques réglages simples",
+      "link": "https://www.zdnet.fr/pratique/ameliorez-la-precision-des-couleurs-de-votre-tele-grace-a-ces-quelques-reglages-simples-501160.htm#xtor=123456",
+      "date": "sam, 05 Sep 2026 14:01:33 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Les 13 paramètres de Google Photos que je modifie systématiquement sur chaque nouvel appareil – et pourquoi",
       "link": "https://www.zdnet.fr/pratique/les-13-parametres-de-google-photos-que-je-modifie-systematiquement-sur-chaque-nouvel-appareil-et-pourquoi-502806.htm#xtor=123456",
       "date": "sam, 05 Sep 2026 11:45:24 +0200",
@@ -29,22 +45,6 @@
       "title": "Le raccourci iMessage que la plupart des utilisateurs d'iPhone ignorent encore",
       "link": "https://www.zdnet.fr/pratique/le-raccourci-imessage-que-la-plupart-des-utilisateurs-diphone-ignorent-encore-501127.htm#xtor=123456",
       "date": "sam, 05 Sep 2026 09:01:11 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Samsung Galaxy Z Fold8 vs Google Pixel 11 Pro Fold : lequel fait de meilleures photos ?",
-      "link": "https://www.zdnet.fr/guide-achat/samsung-galaxy-z-fold8-vs-google-pixel-11-pro-fold-lequel-fait-de-meilleures-photos-501032.htm#xtor=123456",
-      "date": "jeu, 03 Sep 2026 22:00:20 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA pratique : comment profiter gratuitement jusqu’à 12 mois de Google AI Pro",
-      "link": "https://www.zdnet.fr/pratique/ia-pratique-comment-profiter-gratuitement-jusqua-12-mois-de-google-ai-pro-501084.htm#xtor=123456",
-      "date": "jeu, 03 Sep 2026 18:00:59 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
