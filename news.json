@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-06T05:15:47.419032+00:00",
+  "updated": "2026-09-06T09:50:54.690456+00:00",
   "news": [
-    {
-      "title": "Test Asus ProArt KD300 : un outil de productivité excellent, en particulier pour les utilisateurs de Mac et de PC",
-      "link": "https://www.zdnet.fr/guide-achat/test-asus-proart-kd300-un-outil-de-productivite-excellent-en-particulier-pour-les-utilisateurs-de-mac-et-de-pc-501113.htm#xtor=123456",
-      "date": "ven, 04 Sep 2026 22:00:22 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA pratique : comment débuter avec ChatGPT Work",
-      "link": "https://www.zdnet.fr/pratique/ia-pratique-comment-debuter-avec-chatgpt-work-501171.htm#xtor=123456",
-      "date": "ven, 04 Sep 2026 18:00:14 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
     {
       "title": "J'ai réussi à donner à Linux l'apparence de Windows 11 gratuitement, grâce à quelques modifications simples apportées à Zorin OS",
       "link": "https://www.zdnet.fr/pratique/jai-reussi-a-donner-a-linux-lapparence-de-windows-11-gratuitement-grace-a-quelques-modifications-simples-apportees-a-zorin-os-502809.htm#xtor=123456",
@@ -45,6 +29,22 @@
       "title": "Le raccourci iMessage que la plupart des utilisateurs d'iPhone ignorent encore",
       "link": "https://www.zdnet.fr/pratique/le-raccourci-imessage-que-la-plupart-des-utilisateurs-diphone-ignorent-encore-501127.htm#xtor=123456",
       "date": "sam, 05 Sep 2026 09:01:11 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Les 16 paramètres d'Apple Messages que je modifie sur chaque iPhone – et pourquoi",
+      "link": "https://www.zdnet.fr/pratique/les-16-parametres-dapple-messages-que-je-modifie-sur-chaque-iphone-et-pourquoi-502818.htm#xtor=123456",
+      "date": "dim, 06 Sep 2026 10:10:22 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Dell XPS 13 : le PC Windows abordable qui tient tête au MacBook Neo",
+      "link": "https://www.zdnet.fr/guide-achat/dell-xps-13-le-pc-windows-abordable-qui-tient-tete-au-macbook-neo-502762.htm#xtor=123456",
+      "date": "dim, 06 Sep 2026 09:01:06 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
