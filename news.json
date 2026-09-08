@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-08T19:05:57.922297+00:00",
+  "updated": "2026-09-08T22:07:40.562577+00:00",
   "news": [
+    {
+      "title": "Point tech : comment fonctionne l'audio spatial avec un casque ou des enceintes et comment en profiter au mieux",
+      "link": "https://www.zdnet.fr/pratique/point-tech-comment-fonctionne-laudio-spatial-avec-un-casque-ou-des-enceintes-et-comment-en-profiter-au-mieux-502972.htm#xtor=123456",
+      "date": "mar, 08 Sep 2026 22:04:40 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Linux pratique : testez ClamUI, un outil antivirus simple d'utilisation",
       "link": "https://www.zdnet.fr/guide-achat/linux-pratique-testez-clamui-un-outil-antivirus-simple-dutilisation-502897.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "J'ai demandé à Gemini et à Claude de rédiger mes réponses par e-mail. Mais il n'y en a qu'un qui écrit vraiment comme moi",
       "link": "https://www.zdnet.fr/pratique/jai-demande-a-gemini-et-a-claude-de-rediger-mes-reponses-par-e-mail-mais-il-ny-en-a-quun-qui-ecrit-vraiment-comme-moi-502812.htm#xtor=123456",
       "date": "dim, 06 Sep 2026 15:35:09 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Les 16 paramètres d'Apple Messages que je modifie sur chaque iPhone – et pourquoi",
-      "link": "https://www.zdnet.fr/pratique/les-16-parametres-dapple-messages-que-je-modifie-sur-chaque-iphone-et-pourquoi-502818.htm#xtor=123456",
-      "date": "dim, 06 Sep 2026 10:10:22 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
