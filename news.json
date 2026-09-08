@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-08T15:35:06.863176+00:00",
+  "updated": "2026-09-08T19:05:57.922297+00:00",
   "news": [
+    {
+      "title": "Linux pratique : testez ClamUI, un outil antivirus simple d'utilisation",
+      "link": "https://www.zdnet.fr/guide-achat/linux-pratique-testez-clamui-un-outil-antivirus-simple-dutilisation-502897.htm#xtor=123456",
+      "date": "mar, 08 Sep 2026 18:08:43 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Migrer son site vers un nouvel hébergeur : le guide complet pour une transition sans perte de données",
       "link": "https://www.zdnet.fr/guide-achat/migrer-son-site-vers-un-nouvel-hebergeur-le-guide-complet-pour-une-transition-sans-perte-de-donnees-500901.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "Les 16 paramètres d'Apple Messages que je modifie sur chaque iPhone – et pourquoi",
       "link": "https://www.zdnet.fr/pratique/les-16-parametres-dapple-messages-que-je-modifie-sur-chaque-iphone-et-pourquoi-502818.htm#xtor=123456",
       "date": "dim, 06 Sep 2026 10:10:22 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Dell XPS 13 : le PC Windows abordable qui tient tête au MacBook Neo",
-      "link": "https://www.zdnet.fr/guide-achat/dell-xps-13-le-pc-windows-abordable-qui-tient-tete-au-macbook-neo-502762.htm#xtor=123456",
-      "date": "dim, 06 Sep 2026 09:01:06 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
