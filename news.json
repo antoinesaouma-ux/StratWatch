@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T06:41:52.605679+00:00",
+  "updated": "2026-09-08T11:51:56.939690+00:00",
   "news": [
     {
       "title": "J'ai réussi à donner à Linux l'apparence de Windows 11 gratuitement, grâce à quelques modifications simples apportées à Zorin OS",
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "BlueSecure lève 1 million € pour développer ses serious games de cybersécurité",
+      "link": "https://www.silicon.fr/business-1367/bluesecure-leve-1-million-e-pour-developper-ses-serious-games-de-cybersecurite-229011",
+      "date": "Tue, 08 Sep 2026 10:30:55 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Mistral AI lève 3 milliards € pour armer sa stratégie de souveraineté",
+      "link": "https://www.silicon.fr/business-1367/mistral-ai-leve-3-milliards-e-pour-armer-sa-strategie-de-souverainete-229007",
+      "date": "Tue, 08 Sep 2026 10:15:26 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Vis-à-vis des ministères, l’ANSSI accroît son assistance… et son autorité",
+      "link": "https://www.silicon.fr/cybersecurite-1371/anssi-reactiv-229004",
+      "date": "Tue, 08 Sep 2026 08:15:19 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Après « l’affaire du wiki », OpenAI poussé à plus de transparence",
       "link": "https://www.silicon.fr/data-ia-1372/openai-dsewiki-228991",
       "date": "Mon, 07 Sep 2026 15:41:20 +0000",
@@ -69,30 +93,6 @@
       "title": "La CNIL durcit le contrôle des briques de cybersécurité",
       "link": "https://www.silicon.fr/cybersecurite-1371/la-cnil-durcit-le-controle-des-briques-de-cybersecurite-228989",
       "date": "Mon, 07 Sep 2026 13:46:52 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Workday nomme Noémie Sadik Directrice Générale pour la France",
-      "link": "https://www.silicon.fr/emploi-formation-1373/workday-nomme-noemie-sadik-directrice-generale-pour-la-france-228986",
-      "date": "Mon, 07 Sep 2026 11:20:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Stockage d’entreprise : les disques durs en phase de regain",
-      "link": "https://www.silicon.fr/data-ia-1372/stockage-entreprise-magic-quadrant-2026-228983",
-      "date": "Mon, 07 Sep 2026 10:16:27 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "GPT-6 Astra, un modèle qui pose problème à OpenAI",
-      "link": "https://www.silicon.fr/data-ia-1372/gpt-6-astra-228973",
-      "date": "Fri, 04 Sep 2026 16:50:48 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
