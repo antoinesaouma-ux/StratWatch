@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-08T11:51:56.939690+00:00",
+  "updated": "2026-09-08T15:35:06.863176+00:00",
   "news": [
     {
-      "title": "J'ai réussi à donner à Linux l'apparence de Windows 11 gratuitement, grâce à quelques modifications simples apportées à Zorin OS",
-      "link": "https://www.zdnet.fr/pratique/jai-reussi-a-donner-a-linux-lapparence-de-windows-11-gratuitement-grace-a-quelques-modifications-simples-apportees-a-zorin-os-502809.htm#xtor=123456",
-      "date": "sam, 05 Sep 2026 15:01:25 +0200",
+      "title": "Migrer son site vers un nouvel hébergeur : le guide complet pour une transition sans perte de données",
+      "link": "https://www.zdnet.fr/guide-achat/migrer-son-site-vers-un-nouvel-hebergeur-le-guide-complet-pour-une-transition-sans-perte-de-donnees-500901.htm#xtor=123456",
+      "date": "mar, 08 Sep 2026 14:30:13 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Accenture et Google Cloud créent une entité dédiée aux « forward deployed engineers »",
+      "link": "https://www.silicon.fr/business-1367/accenture-et-google-cloud-creent-une-entite-dediee-aux-forward-deployed-engineers-229025",
+      "date": "Tue, 08 Sep 2026 15:13:37 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Microsoft tente le PC IA « spécial développeurs » : ce qu’il y aura dedans",
+      "link": "https://www.silicon.fr/workspace-1376/microsoft-pc-ia-developpeurs-229013",
+      "date": "Tue, 08 Sep 2026 12:21:38 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "BlueSecure lève 1 million € pour développer ses serious games de cybersécurité",
       "link": "https://www.silicon.fr/business-1367/bluesecure-leve-1-million-e-pour-developper-ses-serious-games-de-cybersecurite-229011",
       "date": "Tue, 08 Sep 2026 10:30:55 +0000",
@@ -77,22 +93,6 @@
       "title": "Après « l’affaire du wiki », OpenAI poussé à plus de transparence",
       "link": "https://www.silicon.fr/data-ia-1372/openai-dsewiki-228991",
       "date": "Mon, 07 Sep 2026 15:41:20 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "OpenAI dévoile ce que lui coûtent ses agents de code",
-      "link": "https://www.silicon.fr/data-ia-1372/openai-devoile-ce-que-lui-coutent-ses-agents-de-code-228993",
-      "date": "Mon, 07 Sep 2026 15:03:51 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La CNIL durcit le contrôle des briques de cybersécurité",
-      "link": "https://www.silicon.fr/cybersecurite-1371/la-cnil-durcit-le-controle-des-briques-de-cybersecurite-228989",
-      "date": "Mon, 07 Sep 2026 13:46:52 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
