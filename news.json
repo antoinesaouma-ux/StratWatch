@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-09T10:18:29.121147+00:00",
+  "updated": "2026-09-09T14:52:40.501219+00:00",
   "news": [
+    {
+      "title": "Comment négocier plus efficacement vos contrats SaaS, selon 5 dirigeants d'entreprise",
+      "link": "https://www.zdnet.fr/pratique/comment-negocier-plus-efficacement-vos-contrats-saas-selon-5-dirigeants-dentreprise-503162.htm#xtor=123456",
+      "date": "mer, 09 Sep 2026 15:34:06 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Point tech : comment fonctionne l'audio spatial avec un casque ou des enceintes et comment en profiter au mieux",
       "link": "https://www.zdnet.fr/pratique/point-tech-comment-fonctionne-laudio-spatial-avec-un-casque-ou-des-enceintes-et-comment-en-profiter-au-mieux-502972.htm#xtor=123456",
@@ -42,10 +50,34 @@
       "sources_count": 3
     },
     {
-      "title": "J'ai demandé à Gemini et à Claude de rédiger mes réponses par e-mail. Mais il n'y en a qu'un qui écrit vraiment comme moi",
-      "link": "https://www.zdnet.fr/pratique/jai-demande-a-gemini-et-a-claude-de-rediger-mes-reponses-par-e-mail-mais-il-ny-en-a-quun-qui-ecrit-vraiment-comme-moi-502812.htm#xtor=123456",
-      "date": "dim, 06 Sep 2026 15:35:09 +0200",
-      "source": "ZDNet FR",
+      "title": "Cegid et Silae s’associent pour bâtir un géant européen du logiciel de gestion",
+      "link": "https://www.silicon.fr/business-1367/cegid-et-silae-sassocient-pour-batir-un-geant-europeen-du-logiciel-de-gestion-229047",
+      "date": "Wed, 09 Sep 2026 14:30:04 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Suno lance une IA musicale « sous licence »",
+      "link": "https://www.silicon.fr/business-1367/suno-lance-une-ia-musicale-sous-licence-229041",
+      "date": "Wed, 09 Sep 2026 13:47:19 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Cloud public : dans la foule des « stacks IA », IBM s’efface",
+      "link": "https://www.silicon.fr/cloud-1370/cloud-public-magic-quadrant-2026-229034",
+      "date": "Wed, 09 Sep 2026 12:45:32 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Benjamin Revcolevschi, nouveau Managing Director d’AWS France",
+      "link": "https://www.silicon.fr/emploi-formation-1373/benjamin-revcolevschi-nouveau-managing-director-daws-france-229035",
+      "date": "Wed, 09 Sep 2026 10:29:06 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -61,38 +93,6 @@
       "title": "Accenture et Google Cloud créent une entité dédiée aux « forward deployed engineers »",
       "link": "https://www.silicon.fr/business-1367/accenture-et-google-cloud-creent-une-entite-dediee-aux-forward-deployed-engineers-229025",
       "date": "Tue, 08 Sep 2026 15:13:37 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Microsoft tente le PC IA « spécial développeurs » : ce qu’il y aura dedans",
-      "link": "https://www.silicon.fr/workspace-1376/microsoft-pc-ia-developpeurs-229013",
-      "date": "Tue, 08 Sep 2026 12:21:38 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "BlueSecure lève 1 million € pour développer ses serious games de cybersécurité",
-      "link": "https://www.silicon.fr/business-1367/bluesecure-leve-1-million-e-pour-developper-ses-serious-games-de-cybersecurite-229011",
-      "date": "Tue, 08 Sep 2026 10:30:55 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Mistral AI lève 3 milliards € pour armer sa stratégie de souveraineté",
-      "link": "https://www.silicon.fr/business-1367/mistral-ai-leve-3-milliards-e-pour-armer-sa-strategie-de-souverainete-229007",
-      "date": "Tue, 08 Sep 2026 10:15:26 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Vis-à-vis des ministères, l’ANSSI accroît son assistance… et son autorité",
-      "link": "https://www.silicon.fr/cybersecurite-1371/anssi-reactiv-229004",
-      "date": "Tue, 08 Sep 2026 08:15:19 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
