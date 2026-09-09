@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T05:29:42.730123+00:00",
+  "updated": "2026-09-09T10:18:29.121147+00:00",
   "news": [
     {
       "title": "Point tech : comment fonctionne l'audio spatial avec un casque ou des enceintes et comment en profiter au mieux",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Cursor s’appuie sur S3 pour repenser Git… et concurrencer GitHub",
+      "link": "https://www.silicon.fr/data-ia-1372/cursor-origin-github-229031",
+      "date": "Wed, 09 Sep 2026 08:33:29 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Accenture et Google Cloud créent une entité dédiée aux « forward deployed engineers »",
       "link": "https://www.silicon.fr/business-1367/accenture-et-google-cloud-creent-une-entite-dediee-aux-forward-deployed-engineers-229025",
       "date": "Tue, 08 Sep 2026 15:13:37 +0000",
@@ -85,14 +93,6 @@
       "title": "Vis-à-vis des ministères, l’ANSSI accroît son assistance… et son autorité",
       "link": "https://www.silicon.fr/cybersecurite-1371/anssi-reactiv-229004",
       "date": "Tue, 08 Sep 2026 08:15:19 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Après « l’affaire du wiki », OpenAI poussé à plus de transparence",
-      "link": "https://www.silicon.fr/data-ia-1372/openai-dsewiki-228991",
-      "date": "Mon, 07 Sep 2026 15:41:20 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
