@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-11T06:47:03.420324+00:00",
+  "updated": "2026-09-11T11:55:13.036724+00:00",
   "news": [
+    {
+      "title": "Meilleures eSIM 2026 : Ubigi, Airalo, GoMoWorld, Saily et Holafly comparées",
+      "link": "https://www.zdnet.fr/guide-achat/meilleures-esim-2026-ubigi-airalo-gomoworld-saily-et-holafly-comparees-501162.htm#xtor=123456",
+      "date": "ven, 11 Sep 2026 11:00:14 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Android pratique : installez l’appli Snowflake Volunteer, vous contribuerez à la lutte contre la censure",
       "link": "https://www.zdnet.fr/guide-achat/android-pratique-installez-lappli-snowflake-volunteer-vous-contribuerez-a-la-lutte-contre-la-censure-503107.htm#xtor=123456",
@@ -13,14 +21,6 @@
       "title": "Prise en main RugOne Xsnap 7 Pro : un smartphone avec un module photo détachable ingénieux !",
       "link": "https://www.zdnet.fr/guide-achat/prise-en-main-rugone-xsnap-7-pro-un-smartphone-avec-un-module-photo-detachable-ingenieux-503033.htm#xtor=123456",
       "date": "mer, 09 Sep 2026 18:24:51 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "45 % des professionnels utilisent des outils d’IA « parallèles » : voici comment gérer les risques du Shadow AI",
-      "link": "https://www.zdnet.fr/pratique/45-des-professionnels-utilisent-des-outils-dia-paralleles-voici-comment-gerer-les-risques-du-shadow-ai-503166.htm#xtor=123456",
-      "date": "mer, 09 Sep 2026 17:56:05 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Cegid et Silae s’associent pour bâtir un géant européen du logiciel de gestion",
-      "link": "https://www.silicon.fr/business-1367/cegid-et-silae-sassocient-pour-batir-un-geant-europeen-du-logiciel-de-gestion-229047",
-      "date": "Wed, 09 Sep 2026 14:30:04 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Broadcom complique la tâche pour les outils de migration VMware",
       "link": "https://www.silicon.fr/cloud-1370/broadcom-vddk-vmware-229072",
       "date": "Thu, 10 Sep 2026 15:17:16 +0000",
@@ -74,25 +66,33 @@
       "sources_count": 3
     },
     {
-      "title": "AI Gateway : la prochaine bataille des infrastructures IA",
-      "link": "https://www.silicon.fr/data-ia-1372/ai-gateway-la-prochaine-bataille-des-infrastructures-ia-228784",
-      "date": "Thu, 10 Sep 2026 13:20:38 +0000",
+      "title": "Cloud, IA, cybersécurité : l’État fait un (petit) pas vers la filière française",
+      "link": "https://www.silicon.fr/business-1367/cloud-ia-cybersecurite-letat-fait-un-petit-pas-vers-la-filiere-francaise-229093",
+      "date": "Fri, 11 Sep 2026 10:21:09 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "10 choses que n’a pas l’iPhone Duo",
-      "link": "https://www.silicon.fr/workspace-1376/iphone-duo-229049",
-      "date": "Thu, 10 Sep 2026 10:50:19 +0000",
+      "title": "EU Score et EU Tech 300 : que sont ces initiatives origine France ?",
+      "link": "https://www.silicon.fr/business-1367/eu-score-eu-tech-300-229086",
+      "date": "Fri, 11 Sep 2026 10:20:31 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Directive NIS2 : la France face au défi de sa maturité cyber",
-      "link": "https://www.silicon.fr/cybersecurite-1371/directive-nis2-la-france-face-au-defi-de-sa-maturite-cyber-229054",
-      "date": "Thu, 10 Sep 2026 10:39:52 +0000",
+      "title": "Thomas Fillaud, nouveau RSSI de Salesforce France",
+      "link": "https://www.silicon.fr/emploi-formation-1373/thomas-fillaud-nouveau-rssi-de-salesforce-france-229087",
+      "date": "Fri, 11 Sep 2026 09:11:09 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’IA agentique impose de repenser toute la pile de calcul",
+      "link": "https://www.silicon.fr/data-ia-1372/ia-agentique-impose-de-repenser-toute-la-pile-de-calcul-229079",
+      "date": "Fri, 11 Sep 2026 08:02:10 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
