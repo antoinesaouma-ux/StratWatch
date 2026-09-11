@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T15:26:55.568719+00:00",
+  "updated": "2026-09-11T18:50:47.074544+00:00",
   "news": [
     {
       "title": "Nom de domaine : comment bien le choisir et où l’enregistrer en 2026",
@@ -58,6 +58,14 @@
       "sources_count": 3
     },
     {
+      "title": "Comment les prompts système des modèles Claude ont évolué en deux ans",
+      "link": "https://www.silicon.fr/data-ia-1372/claude-prompts-systeme-229108",
+      "date": "Fri, 11 Sep 2026 16:45:51 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Qui est Jacob Coxon, le chercheur qui accuse l’IA de vouloir nous tuer ?",
       "link": "https://www.silicon.fr/data-ia-1372/qui-est-jacob-coxon-le-chercheur-qui-accuse-lia-de-vouloir-nous-tuer-229102",
       "date": "Fri, 11 Sep 2026 13:14:13 +0000",
@@ -85,14 +93,6 @@
       "title": "Thomas Fillaud, nouveau RSSI de Salesforce France",
       "link": "https://www.silicon.fr/emploi-formation-1373/thomas-fillaud-nouveau-rssi-de-salesforce-france-229087",
       "date": "Fri, 11 Sep 2026 09:11:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’IA agentique impose de repenser toute la pile de calcul",
-      "link": "https://www.silicon.fr/data-ia-1372/ia-agentique-impose-de-repenser-toute-la-pile-de-calcul-229079",
-      "date": "Fri, 11 Sep 2026 08:02:10 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
