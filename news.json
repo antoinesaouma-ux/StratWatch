@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T08:13:43.014260+00:00",
+  "updated": "2026-09-14T15:22:17.432736+00:00",
   "news": [
     {
       "title": "Autonomie record, écran OLED éclatant : pourquoi l'OmniBook Ultra 14 séduit tant",
@@ -10,17 +10,17 @@
       "sources_count": 3
     },
     {
-      "title": "Analyse Apple iPhone Duo : ses qualités photo ne peuvent pas rivaliser avec les modèles Pro de la marque",
-      "link": "https://www.zdnet.fr/smartphone/analyse-apple-iphone-duo-ses-qualites-photo-ne-peuvent-pas-rivaliser-avec-les-modeles-pro-de-la-marque-503314.htm#xtor=123456",
-      "date": "sam, 12 Sep 2026 12:14:16 +0200",
+      "title": "Vous pouvez désormais griffonner dans ChatGPT, qui transformera vos croquis en images abouties – comment l'essayer",
+      "link": "https://www.zdnet.fr/pratique/vous-pouvez-desormais-griffonner-dans-chatgpt-qui-transformera-vos-croquis-en-images-abouties-comment-lessayer-503467.htm#xtor=123456",
+      "date": "lun, 14 Sep 2026 17:09:52 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Simplicité avant tout : notre verdict sur le Synology BeeStation Plus 8 To",
-      "link": "https://www.zdnet.fr/guide-achat/simplicite-avant-tout-notre-verdict-sur-le-synology-beestation-plus-8-to-503247.htm#xtor=123456",
-      "date": "sam, 12 Sep 2026 09:03:52 +0200",
+      "title": "iPhone Duo ou iPhone 18 Pro ? 8 raisons pour lesquelles je passe mon tour sur le premier smartphone pliable d’Apple",
+      "link": "https://www.zdnet.fr/guide-achat/iphone-duo-ou-iphone-18-pro-8-raisons-pour-lesquelles-je-passe-mon-tour-sur-le-premier-smartphone-pliable-dapple-503459.htm#xtor=123456",
+      "date": "lun, 14 Sep 2026 16:09:52 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,9 +50,41 @@
       "sources_count": 3
     },
     {
-      "title": "Broadcom complique la tâche pour les outils de migration VMware",
-      "link": "https://www.silicon.fr/cloud-1370/broadcom-vddk-vmware-229072",
-      "date": "Thu, 10 Sep 2026 15:17:16 +0000",
+      "title": "Microsoft dégaine (aussi) son « Code de conduite » pour l’IA",
+      "link": "https://www.silicon.fr/data-ia-1372/microsoft-degaine-son-code-de-conduite-pour-ia-229139",
+      "date": "Mon, 14 Sep 2026 14:58:08 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Thomas Julien, nouveau DSI de France Galop",
+      "link": "https://www.silicon.fr/emploi-formation-1373/thomas-julien-nouveau-dsi-de-france-galop-229134",
+      "date": "Mon, 14 Sep 2026 13:18:07 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Comment OpenAI s’est installé au cœur des logiciels d’entreprise",
+      "link": "https://www.silicon.fr/business-1367/comment-openai-sest-installe-au-coeur-des-logiciels-dentreprise-229128",
+      "date": "Mon, 14 Sep 2026 12:42:57 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "En « investisseur informé », NVIDIA réfute tout financement circulaire",
+      "link": "https://www.silicon.fr/business-1367/nvidia-investissements-circulaires-229121",
+      "date": "Mon, 14 Sep 2026 12:24:08 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "IA : les 3 propositions de Dario Amodei pour reprendre la main sur les modèles",
+      "link": "https://www.silicon.fr/data-ia-1372/ia-les-3-propositions-de-dario-amodei-pour-reprendre-la-main-sur-les-modeles-229124",
+      "date": "Mon, 14 Sep 2026 11:23:12 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -61,38 +93,6 @@
       "title": "Comment les prompts système des modèles Claude ont évolué en deux ans",
       "link": "https://www.silicon.fr/data-ia-1372/claude-prompts-systeme-229108",
       "date": "Fri, 11 Sep 2026 16:45:51 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Qui est Jacob Coxon, le chercheur qui accuse l’IA de vouloir nous tuer ?",
-      "link": "https://www.silicon.fr/data-ia-1372/qui-est-jacob-coxon-le-chercheur-qui-accuse-lia-de-vouloir-nous-tuer-229102",
-      "date": "Fri, 11 Sep 2026 13:14:13 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cloud, IA, cybersécurité : l’État fait un (petit) pas vers la filière française",
-      "link": "https://www.silicon.fr/business-1367/cloud-ia-cybersecurite-letat-fait-un-petit-pas-vers-la-filiere-francaise-229093",
-      "date": "Fri, 11 Sep 2026 10:21:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "EU Score et EU Tech 300 : que sont ces initiatives origine France ?",
-      "link": "https://www.silicon.fr/business-1367/eu-score-eu-tech-300-229086",
-      "date": "Fri, 11 Sep 2026 10:20:31 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Thomas Fillaud, nouveau RSSI de Salesforce France",
-      "link": "https://www.silicon.fr/emploi-formation-1373/thomas-fillaud-nouveau-rssi-de-salesforce-france-229087",
-      "date": "Fri, 11 Sep 2026 09:11:09 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
