@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-14T15:22:17.432736+00:00",
+  "updated": "2026-09-14T20:00:10.512122+00:00",
   "news": [
     {
-      "title": "Autonomie record, écran OLED éclatant : pourquoi l'OmniBook Ultra 14 séduit tant",
-      "link": "https://www.zdnet.fr/guide-achat/autonomie-record-ecran-oled-eclatant-pourquoi-lomnibook-ultra-14-seduit-tant-503259.htm#xtor=123456",
-      "date": "sam, 12 Sep 2026 14:01:45 +0200",
+      "title": "Analyse Apple AirPods 5 : quand les écouteurs de base disposent de l’ANC",
+      "link": "https://www.zdnet.fr/guide-achat/analyse-apple-airpods-5-quand-les-ecouteurs-de-base-disposent-de-lanc-503445.htm#xtor=123456",
+      "date": "lun, 14 Sep 2026 19:00:18 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Gestion des conteneurs : l’effet de lock-in demeure",
+      "link": "https://www.silicon.fr/cloud-1370/gestion-conteneurs-magic-quadrant-2026-229130",
+      "date": "Mon, 14 Sep 2026 16:05:43 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Microsoft dégaine (aussi) son « Code de conduite » pour l’IA",
       "link": "https://www.silicon.fr/data-ia-1372/microsoft-degaine-son-code-de-conduite-pour-ia-229139",
       "date": "Mon, 14 Sep 2026 14:58:08 +0000",
@@ -85,14 +93,6 @@
       "title": "IA : les 3 propositions de Dario Amodei pour reprendre la main sur les modèles",
       "link": "https://www.silicon.fr/data-ia-1372/ia-les-3-propositions-de-dario-amodei-pour-reprendre-la-main-sur-les-modeles-229124",
       "date": "Mon, 14 Sep 2026 11:23:12 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment les prompts système des modèles Claude ont évolué en deux ans",
-      "link": "https://www.silicon.fr/data-ia-1372/claude-prompts-systeme-229108",
-      "date": "Fri, 11 Sep 2026 16:45:51 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
