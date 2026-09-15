@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-15T06:55:07.201418+00:00",
+  "updated": "2026-09-15T12:20:21.740023+00:00",
   "news": [
+    {
+      "title": "Vous en avez assez des résultats bidons générés par l’IA ? Comment j’ai forcé Google à me fournir à nouveau des résultats fiables",
+      "link": "https://www.zdnet.fr/pratique/vous-en-avez-assez-des-resultats-bidons-generes-par-lia-comment-jai-force-google-a-me-fournir-a-nouveau-des-resultats-fiables-503537.htm#xtor=123456",
+      "date": "mar, 15 Sep 2026 13:51:56 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "3840 € pour un iPhone Duo de 2 To ? Comparons-le aux modèles pliables de Samsung et de Google",
+      "link": "https://www.zdnet.fr/guide-achat/3840-e-pour-un-iphone-duo-de-2-to-comparons-le-aux-modeles-pliables-de-samsung-et-de-google-503525.htm#xtor=123456",
+      "date": "mar, 15 Sep 2026 13:16:24 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Web pratique : remplacez Firefox par Brave comme navigateur par défaut sur votre mobile Android",
       "link": "https://www.zdnet.fr/pratique/web-pratique-remplacez-firefox-par-brave-comme-navigateur-par-defaut-sur-votre-mobile-android-503454.htm#xtor=123456",
@@ -34,18 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "La règle 3-2-1 : la stratégie de sauvegarde simple qui pourrait vous sauver la mise",
-      "link": "https://www.zdnet.fr/pratique/la-regle-3-2-1-la-strategie-de-sauvegarde-simple-qui-pourrait-vous-sauver-la-mise-503334.htm#xtor=123456",
-      "date": "dim, 13 Sep 2026 14:03:08 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Garmin Forerunner 170 vs Coros Pace 4 : ultralégères et excellentes, l’une d’elles surpasse l’autre sur un point",
-      "link": "https://www.zdnet.fr/guide-achat/garmin-forerunner-170-vs-coros-pace-4-ultralegeres-et-excellentes-lune-delles-surpasse-lautre-sur-un-point-503190.htm#xtor=123456",
-      "date": "dim, 13 Sep 2026 12:14:18 +0200",
-      "source": "ZDNet FR",
+      "title": "TotalEnergies et Mistral AI signent un contrat de 100 millions € pour l’exploration pétrolière et gazière",
+      "link": "https://www.silicon.fr/business-1367/totalenergies-et-mistral-ai-scellent-un-partenariat-de-100-millions-e-pour-lexploration-petroliere-et-gaziere-229150",
+      "date": "Tue, 15 Sep 2026 11:40:28 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "En « investisseur informé », NVIDIA réfute tout financement circulaire",
       "link": "https://www.silicon.fr/business-1367/nvidia-investissements-circulaires-229121",
       "date": "Mon, 14 Sep 2026 12:24:08 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA : les 3 propositions de Dario Amodei pour reprendre la main sur les modèles",
-      "link": "https://www.silicon.fr/data-ia-1372/ia-les-3-propositions-de-dario-amodei-pour-reprendre-la-main-sur-les-modeles-229124",
-      "date": "Mon, 14 Sep 2026 11:23:12 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
