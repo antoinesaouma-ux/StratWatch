@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-15T12:20:21.740023+00:00",
+  "updated": "2026-09-15T17:23:07.429926+00:00",
   "news": [
+    {
+      "title": "IA en entreprise : ne poussez pas sur la spécialisation, dans un environnement de travail où les agents sont omniprésents",
+      "link": "https://www.zdnet.fr/pratique/ia-en-entreprise-ne-poussez-pas-sur-la-specialisation-dans-un-environnement-de-travail-ou-les-agents-sont-omnipresents-503544.htm#xtor=123456",
+      "date": "mar, 15 Sep 2026 18:00:13 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Vous en avez assez des résultats bidons générés par l’IA ? Comment j’ai forcé Google à me fournir à nouveau des résultats fiables",
       "link": "https://www.zdnet.fr/pratique/vous-en-avez-assez-des-resultats-bidons-generes-par-lia-comment-jai-force-google-a-me-fournir-a-nouveau-des-resultats-fiables-503537.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "iPhone Duo ou iPhone 18 Pro ? 8 raisons pour lesquelles je passe mon tour sur le premier smartphone pliable d’Apple",
-      "link": "https://www.zdnet.fr/guide-achat/iphone-duo-ou-iphone-18-pro-8-raisons-pour-lesquelles-je-passe-mon-tour-sur-le-premier-smartphone-pliable-dapple-503459.htm#xtor=123456",
-      "date": "lun, 14 Sep 2026 16:09:52 +0200",
-      "source": "ZDNet FR",
+      "title": "Les TPE et PME françaises tournent le dos à l’assurance cyber",
+      "link": "https://www.silicon.fr/cybersecurite-1371/les-tpe-et-pme-francaises-tournent-le-dos-a-lassurance-cyber-229156",
+      "date": "Tue, 15 Sep 2026 14:06:28 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Comment OpenAI s’est installé au cœur des logiciels d’entreprise",
       "link": "https://www.silicon.fr/business-1367/comment-openai-sest-installe-au-coeur-des-logiciels-dentreprise-229128",
       "date": "Mon, 14 Sep 2026 12:42:57 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "En « investisseur informé », NVIDIA réfute tout financement circulaire",
-      "link": "https://www.silicon.fr/business-1367/nvidia-investissements-circulaires-229121",
-      "date": "Mon, 14 Sep 2026 12:24:08 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
