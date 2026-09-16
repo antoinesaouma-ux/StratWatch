@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T08:00:14.927775+00:00",
+  "updated": "2026-09-16T13:49:13.698326+00:00",
   "news": [
     {
       "title": "Apple iPhone Duo vs. Google Pixel 11 Pro Fold : un choix pas si évident que cela !",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Java 27 : en attendant l’API Vector, des avancées cryptographiques",
+      "link": "https://www.silicon.fr/open-source-1375/java-27-229164",
+      "date": "Wed, 16 Sep 2026 13:35:06 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Moins d’Agentforce, plus d’AIforce : Salesforce change-t-il de paradigme ?",
+      "link": "https://www.silicon.fr/cloud-1370/salesforce-aiforce-229161",
+      "date": "Wed, 16 Sep 2026 09:38:34 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Les TPE et PME françaises tournent le dos à l’assurance cyber",
       "link": "https://www.silicon.fr/cybersecurite-1371/les-tpe-et-pme-francaises-tournent-le-dos-a-lassurance-cyber-229156",
       "date": "Tue, 15 Sep 2026 14:06:28 +0000",
@@ -77,22 +93,6 @@
       "title": "Microsoft dégaine (aussi) son « Code de conduite » pour l’IA",
       "link": "https://www.silicon.fr/data-ia-1372/microsoft-degaine-son-code-de-conduite-pour-ia-229139",
       "date": "Mon, 14 Sep 2026 14:58:08 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Thomas Julien, nouveau DSI de France Galop",
-      "link": "https://www.silicon.fr/emploi-formation-1373/thomas-julien-nouveau-dsi-de-france-galop-229134",
-      "date": "Mon, 14 Sep 2026 13:18:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment OpenAI s’est installé au cœur des logiciels d’entreprise",
-      "link": "https://www.silicon.fr/business-1367/comment-openai-sest-installe-au-coeur-des-logiciels-dentreprise-229128",
-      "date": "Mon, 14 Sep 2026 12:42:57 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
