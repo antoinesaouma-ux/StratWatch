@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T07:41:34.153939+00:00",
+  "updated": "2026-09-18T12:26:31.150989+00:00",
   "news": [
     {
       "title": "Apple iPhone 18 Pro vs. Apple iPhone Duo : comment choisir entre le smartphone phare et le smartphone pliable ?",
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Java 27 : en attendant l’API Vector, des avancées cryptographiques",
-      "link": "https://www.silicon.fr/open-source-1375/java-27-229164",
-      "date": "Wed, 16 Sep 2026 13:35:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Alice & Bob s’allie au CEA pour rapprocher calcul quantique et supercalculateurs",
       "link": "https://www.silicon.fr/business-1367/alice-bob-sallie-au-cea-pour-rapprocher-calcul-quantique-et-supercalculateurs-229181",
       "date": "Thu, 17 Sep 2026 16:22:39 +0000",
@@ -93,6 +85,14 @@
       "title": "Les RSSI sommés d’arbitrer entre IA, conformité et dépendances fournisseurs",
       "link": "https://www.silicon.fr/cybersecurite-1371/les-rssi-sommes-darbitrer-entre-ia-conformite-et-dependances-fournisseurs-229170",
       "date": "Thu, 17 Sep 2026 10:59:17 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Perplexity l’emporte en appel contre Amazon",
+      "link": "https://www.silicon.fr/business-1367/amazon-perplexity-appel-229197",
+      "date": "Fri, 18 Sep 2026 11:17:07 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
