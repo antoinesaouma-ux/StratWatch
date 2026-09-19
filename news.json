@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-19T09:52:48.956098+00:00",
+  "updated": "2026-09-19T13:32:33.181399+00:00",
   "news": [
+    {
+      "title": "PocketPal AI : l'IA 100 % locale et gratuite qui protège vraiment votre vie privée sur mobile",
+      "link": "https://www.zdnet.fr/pratique/pocketpal-ai-lia-100-locale-et-gratuite-qui-protege-vraiment-votre-vie-privee-sur-mobile-503675.htm#xtor=123456",
+      "date": "sam, 19 Sep 2026 14:00:55 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "pearOS, c'est le macOS de Linux, et sa dernière version est meilleure que jamais",
+      "link": "https://www.zdnet.fr/guide-achat/pearos-cest-le-macos-de-linux-et-sa-derniere-version-est-meilleure-que-jamais-503816.htm#xtor=123456",
+      "date": "sam, 19 Sep 2026 12:31:30 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "J'ai testé les deux modèles d'iPhone 18 Pro : voici ce qui les différencie vraiment",
       "link": "https://www.zdnet.fr/guide-achat/jai-teste-les-deux-modeles-diphone-18-pro-voici-ce-qui-les-differencie-vraiment-503819.htm#xtor=123456",
@@ -18,14 +34,6 @@
       "sources_count": 3
     },
     {
-      "title": "Apple iPhone 18 Pro vs. Apple iPhone Duo : comment choisir entre le smartphone phare et le smartphone pliable ?",
-      "link": "https://www.zdnet.fr/guide-achat/apple-iphone-18-pro-vs-apple-iphone-duo-comment-choisir-entre-le-smartphone-phare-et-le-smartphone-pliable-503620.htm#xtor=123456",
-      "date": "mer, 16 Sep 2026 22:50:23 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Énergie pratique : ne branchez pas ces appareils sur votre centrale électrique",
       "link": "https://www.zdnet.fr/pratique/energie-pratique-ne-branchez-pas-ces-appareils-sur-votre-centrale-electrique-503726.htm#xtor=123456",
       "date": "jeu, 17 Sep 2026 22:00:15 +0200",
@@ -37,14 +45,6 @@
       "title": "Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra : les deux coûtent très cher, mais l'un est plus séduisant",
       "link": "https://www.zdnet.fr/smartphone/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-les-deux-coutent-tres-cher-mais-lun-est-plus-seduisant-503715.htm#xtor=123456",
       "date": "jeu, 17 Sep 2026 18:54:15 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Linux pratique : installez l’outil de reconnaissance vocale Speech Note",
-      "link": "https://www.zdnet.fr/guide-achat/linux-pratique-installez-loutil-de-reconnaissance-vocale-speech-note-503630.htm#xtor=123456",
-      "date": "jeu, 17 Sep 2026 09:30:52 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
