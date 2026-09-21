@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-21T11:20:11.624631+00:00",
+  "updated": "2026-09-21T17:20:27.946480+00:00",
   "news": [
     {
-      "title": "PocketPal AI : l'IA 100 % locale et gratuite qui protège vraiment votre vie privée sur mobile",
-      "link": "https://www.zdnet.fr/pratique/pocketpal-ai-lia-100-locale-et-gratuite-qui-protege-vraiment-votre-vie-privee-sur-mobile-503675.htm#xtor=123456",
-      "date": "sam, 19 Sep 2026 14:00:55 +0200",
+      "title": "Test Ugreen Nexode 240W : un câble USB-C avec écran indiquant la vitesse de recharge",
+      "link": "https://www.zdnet.fr/guide-achat/test-ugreen-nexode-240w-un-cable-usb-c-avec-ecran-indiquant-la-vitesse-de-recharge-503855.htm#xtor=123456",
+      "date": "lun, 21 Sep 2026 18:12:58 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "pearOS, c'est le macOS de Linux, et sa dernière version est meilleure que jamais",
-      "link": "https://www.zdnet.fr/guide-achat/pearos-cest-le-macos-de-linux-et-sa-derniere-version-est-meilleure-que-jamais-503816.htm#xtor=123456",
-      "date": "sam, 19 Sep 2026 12:31:30 +0200",
+      "title": "Au cœur de Linux-AI OS : j'ai testé une distribution dotée d'une IA locale intégrée à l'OS",
+      "link": "https://www.zdnet.fr/guide-achat/au-coeur-de-linux-ai-os-jai-teste-une-distribution-dotee-dune-ia-locale-integree-a-los-503916.htm#xtor=123456",
+      "date": "lun, 21 Sep 2026 15:51:05 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "Google admet que Gemini a piraté trois entreprises lors d’un test de sécurité",
+      "link": "https://www.silicon.fr/cybersecurite-1371/google-admet-que-gemini-a-pirate-trois-entreprises-lors-dun-test-de-securite-229235",
+      "date": "Mon, 21 Sep 2026 13:53:30 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Bruxelles veut noter les centres de données sur leur empreinte énergétique",
+      "link": "https://www.silicon.fr/green-it-1374/bruxelles-veut-noter-les-centres-de-donnees-sur-leur-empreinte-energetique-229231",
+      "date": "Mon, 21 Sep 2026 13:05:22 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Assistants IA d’entreprise : ce qui rend l’offre hétéroclite",
+      "link": "https://www.silicon.fr/data-ia-1372/assistants-ia-entreprise-magic-quadrant-2026-229224",
+      "date": "Mon, 21 Sep 2026 13:02:16 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Automobile : l’IA face au coût de la complexité industrielle",
       "link": "https://www.silicon.fr/data-ia-1372/automobile-lia-face-au-cout-de-la-complexite-industrielle-229225",
       "date": "Mon, 21 Sep 2026 10:09:59 +0000",
@@ -69,30 +93,6 @@
       "title": "L’IA rebat les cartes du pricing des services IT en Inde",
       "link": "https://www.silicon.fr/business-1367/ia-rebat-les-cartes-du-pricing-des-services-it-en-inde-229075",
       "date": "Fri, 18 Sep 2026 16:07:26 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment Microsoft articule le « code de conduite » qui va gouverner ses IA",
-      "link": "https://www.silicon.fr/uncategorized/microsoft-code-conduite-ia-229200",
-      "date": "Fri, 18 Sep 2026 14:35:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic et OpenAI accélèrent leur course aux « workbenches » scientifiques",
-      "link": "https://www.silicon.fr/uncategorized/anthropic-et-openai-accelerent-leur-course-aux-workbenches-scientifiques-229203",
-      "date": "Fri, 18 Sep 2026 14:12:30 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Perplexity l’emporte en appel contre Amazon",
-      "link": "https://www.silicon.fr/business-1367/amazon-perplexity-appel-229197",
-      "date": "Fri, 18 Sep 2026 11:17:07 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
