@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:37:04.473528+00:00",
+  "updated": "2026-09-21T11:20:11.624631+00:00",
   "news": [
     {
       "title": "PocketPal AI : l'IA 100 % locale et gratuite qui protège vraiment votre vie privée sur mobile",
@@ -50,17 +50,17 @@
       "sources_count": 3
     },
     {
-      "title": "Alice & Bob s’allie au CEA pour rapprocher calcul quantique et supercalculateurs",
-      "link": "https://www.silicon.fr/business-1367/alice-bob-sallie-au-cea-pour-rapprocher-calcul-quantique-et-supercalculateurs-229181",
-      "date": "Thu, 17 Sep 2026 16:22:39 +0000",
+      "title": "Automobile : l’IA face au coût de la complexité industrielle",
+      "link": "https://www.silicon.fr/data-ia-1372/automobile-lia-face-au-cout-de-la-complexite-industrielle-229225",
+      "date": "Mon, 21 Sep 2026 10:09:59 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "BPCE construit son benchmark IA : « Un coût choisi contre des coûts subis »",
-      "link": "https://www.silicon.fr/data-ia-1372/bpce-benchmark-ia-229169",
-      "date": "Thu, 17 Sep 2026 14:42:59 +0000",
+      "title": "Pourquoi Michelin a coupé le mode Auto de GitHub Copilot",
+      "link": "https://www.silicon.fr/data-ia-1372/michelin-github-copilot-mode-auto-229220",
+      "date": "Mon, 21 Sep 2026 09:50:01 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -74,7 +74,7 @@
       "sources_count": 3
     },
     {
-      "title": "Comment Microsoft articule la « code de conduite » qui va gouverner ses IA",
+      "title": "Comment Microsoft articule le « code de conduite » qui va gouverner ses IA",
       "link": "https://www.silicon.fr/uncategorized/microsoft-code-conduite-ia-229200",
       "date": "Fri, 18 Sep 2026 14:35:07 +0000",
       "source": "Silicon.fr",
