@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:30:20.074654+00:00",
+  "updated": "2026-09-22T15:13:28.940846+00:00",
   "news": [
     {
       "title": "Énergie pratique : est-ce que le solaire est la solution à la flambée de vos factures énergétiques ?",
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "Du Chromebook au Googlebook, Google ne change pas tout",
+      "link": "https://www.silicon.fr/workspace-1376/googlebook-229241",
+      "date": "Tue, 22 Sep 2026 12:55:46 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Cybersécurité : comment l’IA accélère les menaces… et aide les cyber-défenseurs",
+      "link": "https://www.silicon.fr/cybersecurite-1371/cybersecurite-comment-lia-accelere-les-menaces-et-aide-les-cyber-defenseurs-229271",
+      "date": "Tue, 22 Sep 2026 12:52:17 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "IA souveraine : Atos se dote d’un comité scientifique",
+      "link": "https://www.silicon.fr/data-ia-1372/ia-souveraine-atos-se-dote-dun-comite-scientifique-229247",
+      "date": "Tue, 22 Sep 2026 10:58:16 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Google admet que Gemini a piraté trois entreprises lors d’un test de sécurité",
       "link": "https://www.silicon.fr/cybersecurite-1371/google-admet-que-gemini-a-pirate-trois-entreprises-lors-dun-test-de-securite-229235",
       "date": "Mon, 21 Sep 2026 13:53:30 +0000",
@@ -69,30 +93,6 @@
       "title": "Assistants IA d’entreprise : ce qui rend l’offre hétéroclite",
       "link": "https://www.silicon.fr/data-ia-1372/assistants-ia-entreprise-magic-quadrant-2026-229224",
       "date": "Mon, 21 Sep 2026 13:02:16 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Automobile : l’IA face au coût de la complexité industrielle",
-      "link": "https://www.silicon.fr/data-ia-1372/automobile-lia-face-au-cout-de-la-complexite-industrielle-229225",
-      "date": "Mon, 21 Sep 2026 10:09:59 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Pourquoi Michelin a coupé le mode Auto de GitHub Copilot",
-      "link": "https://www.silicon.fr/data-ia-1372/michelin-github-copilot-mode-auto-229220",
-      "date": "Mon, 21 Sep 2026 09:50:01 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’IA rebat les cartes du pricing des services IT en Inde",
-      "link": "https://www.silicon.fr/business-1367/ia-rebat-les-cartes-du-pricing-des-services-it-en-inde-229075",
-      "date": "Fri, 18 Sep 2026 16:07:26 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
