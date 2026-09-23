@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T06:54:00.476957+00:00",
+  "updated": "2026-09-23T12:24:17.644082+00:00",
   "news": [
     {
       "title": "Énergie pratique : comment choisir la bonne centrale électrique selon vos besoins",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Nutanix rachète la start-up française Ryax Technologies",
+      "link": "https://www.silicon.fr/data-ia-1372/nutanix-rachete-la-start-up-francaise-ryax-technologies-229303",
+      "date": "Wed, 23 Sep 2026 11:39:47 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "VAST Data s’approprie le calcul confidentiel sur GPU NVIDIA",
+      "link": "https://www.silicon.fr/data-ia-1372/vast-data-informatique-confidentielle-229295",
+      "date": "Wed, 23 Sep 2026 10:08:44 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Dassault Aviation teste deux algorithmes d’IA souveraine sur le Rafale",
       "link": "https://www.silicon.fr/business-1367/dassault-aviation-teste-deux-algorithmes-dia-souveraine-sur-le-rafale-229289",
       "date": "Tue, 22 Sep 2026 15:54:29 +0000",
@@ -77,22 +93,6 @@
       "title": "Du Chromebook au Googlebook, Google ne change pas tout",
       "link": "https://www.silicon.fr/workspace-1376/googlebook-229241",
       "date": "Tue, 22 Sep 2026 12:55:46 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cybersécurité : comment l’IA accélère les menaces… et aide les cyber-défenseurs",
-      "link": "https://www.silicon.fr/cybersecurite-1371/cybersecurite-comment-lia-accelere-les-menaces-et-aide-les-cyber-defenseurs-229271",
-      "date": "Tue, 22 Sep 2026 12:52:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IA souveraine : Atos se dote d’un comité scientifique",
-      "link": "https://www.silicon.fr/data-ia-1372/ia-souveraine-atos-se-dote-dun-comite-scientifique-229247",
-      "date": "Tue, 22 Sep 2026 10:58:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
