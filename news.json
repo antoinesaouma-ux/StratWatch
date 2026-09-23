@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:24:17.644082+00:00",
+  "updated": "2026-09-23T17:32:30.258757+00:00",
   "news": [
     {
       "title": "Énergie pratique : comment choisir la bonne centrale électrique selon vos besoins",
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "Phocea DC investit 120 millions € dans ses datacenters marseillais",
+      "link": "https://www.silicon.fr/business-1367/phocea-dc-investit-120-millions-e-dans-ses-datacenters-marseillais-229310",
+      "date": "Wed, 23 Sep 2026 13:42:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Cybersécurité : la coopération européenne peine à se structurer",
+      "link": "https://www.silicon.fr/cybersecurite-1371/union-europeenne-cybersecurite-229304",
+      "date": "Wed, 23 Sep 2026 13:42:12 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Les modèles ouverts s’emparent de la majorité du trafic d’IA en production, selon Vercel",
+      "link": "https://www.silicon.fr/data-ia-1372/les-modeles-ouverts-semparent-de-la-majorite-du-trafic-dia-en-production-selon-vercel-229308",
+      "date": "Wed, 23 Sep 2026 13:00:09 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Nutanix rachète la start-up française Ryax Technologies",
       "link": "https://www.silicon.fr/data-ia-1372/nutanix-rachete-la-start-up-francaise-ryax-technologies-229303",
       "date": "Wed, 23 Sep 2026 11:39:47 +0000",
@@ -69,30 +93,6 @@
       "title": "Dassault Aviation teste deux algorithmes d’IA souveraine sur le Rafale",
       "link": "https://www.silicon.fr/business-1367/dassault-aviation-teste-deux-algorithmes-dia-souveraine-sur-le-rafale-229289",
       "date": "Tue, 22 Sep 2026 15:54:29 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cloudflare, un CDN omniprésent aussi en Europe",
-      "link": "https://www.silicon.fr/business-1367/cloudflare-europe-229283",
-      "date": "Tue, 22 Sep 2026 15:36:46 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AMD franchit le cap des 1 000 milliards $ de capitalisation",
-      "link": "https://www.silicon.fr/business-1367/amd-franchit-le-cap-des-1-000-milliards-de-capitalisation-229284",
-      "date": "Tue, 22 Sep 2026 15:13:35 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Du Chromebook au Googlebook, Google ne change pas tout",
-      "link": "https://www.silicon.fr/workspace-1376/googlebook-229241",
-      "date": "Tue, 22 Sep 2026 12:55:46 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
