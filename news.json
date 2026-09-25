@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-25T19:00:24.871441+00:00",
+  "updated": "2026-09-25T22:54:52.080740+00:00",
   "news": [
+    {
+      "title": "Android pratique : Adobe Premiere enfin disponible sur le Play Store",
+      "link": "https://www.zdnet.fr/guide-achat/android-pratique-adobe-premiere-enfin-disponible-sur-le-play-store-504519.htm#xtor=123456",
+      "date": "ven, 25 Sep 2026 22:00:57 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "iPhone pratique : créez des cartes personnalisées dans Wallet sous iOS 27",
       "link": "https://www.zdnet.fr/pratique/iphone-pratique-creez-des-cartes-personnalisees-dans-wallet-sous-ios-27-504481.htm#xtor=123456",
@@ -29,14 +37,6 @@
       "title": "iPhone pratique : commencez par faire ces 4 choses après la mise à jour vers iOS 27",
       "link": "https://www.zdnet.fr/smartphone/iphone-pratique-commencez-par-faire-ces-4-choses-apres-la-mise-a-jour-vers-ios-27-503860.htm#xtor=123456",
       "date": "mar, 22 Sep 2026 18:00:20 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Énergie pratique : est-ce que le solaire est la solution à la flambée de vos factures énergétiques ?",
-      "link": "https://www.zdnet.fr/pratique/energie-pratique-est-ce-que-le-solaire-est-la-solution-a-la-flambee-de-vos-factures-energetiques-503842.htm#xtor=123456",
-      "date": "lun, 21 Sep 2026 22:00:54 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
