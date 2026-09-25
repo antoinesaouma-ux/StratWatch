@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T02:19:29.739215+00:00",
+  "updated": "2026-09-25T08:17:17.628142+00:00",
   "news": [
     {
       "title": "Test Coros Pace 4 Pro : impressionnante à plus d’un titre",
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Phocea DC investit 120 millions € dans ses datacenters marseillais",
-      "link": "https://www.silicon.fr/business-1367/phocea-dc-investit-120-millions-e-dans-ses-datacenters-marseillais-229310",
-      "date": "Wed, 23 Sep 2026 13:42:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Le Barreau de Paris veut former ses avocats à l’IA",
       "link": "https://www.silicon.fr/emploi-formation-1373/le-barreau-de-paris-veut-former-ses-avocats-a-lia-229339",
       "date": "Thu, 24 Sep 2026 14:44:21 +0000",
@@ -93,6 +85,14 @@
       "title": "Au niveau de l’UE, un suivi douteux des actions pour la cybersécurité",
       "link": "https://www.silicon.fr/cybersecurite-1371/ue-suivi-actions-cybersecurite-229315",
       "date": "Thu, 24 Sep 2026 06:26:00 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Après son vote en faveur de l’IA, Debian ouvre un portail d’inférence",
+      "link": "https://www.silicon.fr/open-source-1375/debian-inference-scaleway-229344",
+      "date": "Fri, 25 Sep 2026 07:41:46 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
