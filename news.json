@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T01:16:18.942514+00:00",
+  "updated": "2026-09-28T07:52:45.265820+00:00",
   "news": [
     {
       "title": "Linux pratique : testez ces 5 distributions pour l'IA",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "L’ESA confie à OVHcloud et CGI le futur socle numérique de l’observation de la Terre",
+      "link": "https://www.silicon.fr/business-1367/lesa-confie-a-ovhcloud-et-cgi-le-futur-socle-numerique-de-lobservation-de-la-terre-229395",
+      "date": "Mon, 28 Sep 2026 07:33:13 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Virtualisation : comment la concurrence s’est rapprochée de VMware",
       "link": "https://www.silicon.fr/cloud-1370/virtualisation-magic-quadrant-2026-229379",
       "date": "Fri, 25 Sep 2026 16:41:16 +0000",
@@ -85,14 +93,6 @@
       "title": "Résilience multicloud : tout est une question d’orchestration, pas du nombre de clouds",
       "link": "https://www.silicon.fr/cloud-1370/resilience-multicloud-tout-est-une-question-dorchestration-pas-du-nombre-de-clouds-229360",
       "date": "Fri, 25 Sep 2026 09:52:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "À l’ONU, OpenAI et Anthropic réclament des règles communes pour l’IA",
-      "link": "https://www.silicon.fr/data-ia-1372/a-lonu-openai-et-anthropic-reclament-des-regles-communes-pour-lia-229356",
-      "date": "Fri, 25 Sep 2026 09:36:29 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
