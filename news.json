@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T07:52:45.265820+00:00",
+  "updated": "2026-09-28T16:11:36.302127+00:00",
   "news": [
     {
       "title": "Linux pratique : testez ces 5 distributions pour l'IA",
@@ -50,49 +50,49 @@
       "sources_count": 3
     },
     {
+      "title": "Agents IA : NVIDIA veut imposer les règles au silicium",
+      "link": "https://www.silicon.fr/cybersecurite-1371/agents-ia-nvidia-veut-imposer-les-regles-au-silicium-229421",
+      "date": "Mon, 28 Sep 2026 14:18:25 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Dans sa course à l’infra, Anthropic embarque Akamai",
+      "link": "https://www.silicon.fr/data-ia-1372/akamai-anthropic-229415",
+      "date": "Mon, 28 Sep 2026 12:54:12 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Recrutement : l’IA fait exploser les candidatures et allonge les embauches",
+      "link": "https://www.silicon.fr/emploi-formation-1373/recrutement-lia-fait-exploser-les-candidatures-et-allonge-les-embauches-229404",
+      "date": "Mon, 28 Sep 2026 09:39:18 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Microsoft renonce aux PC Copilot+ : la fin d’un cycle chaotique",
+      "link": "https://www.silicon.fr/workspace-1376/pc-copilot-plus-229397",
+      "date": "Mon, 28 Sep 2026 09:32:10 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Cyber Resilience Act : la conformité ne protégera pas les entreprises françaises",
+      "link": "https://www.silicon.fr/cybersecurite-1371/cyber-resilience-act-la-conformite-ne-protegera-pas-les-entreprises-francaises-229399",
+      "date": "Mon, 28 Sep 2026 08:17:48 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "L’ESA confie à OVHcloud et CGI le futur socle numérique de l’observation de la Terre",
       "link": "https://www.silicon.fr/business-1367/lesa-confie-a-ovhcloud-et-cgi-le-futur-socle-numerique-de-lobservation-de-la-terre-229395",
       "date": "Mon, 28 Sep 2026 07:33:13 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Virtualisation : comment la concurrence s’est rapprochée de VMware",
-      "link": "https://www.silicon.fr/cloud-1370/virtualisation-magic-quadrant-2026-229379",
-      "date": "Fri, 25 Sep 2026 16:41:16 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Gigafactories IA : pourquoi Octave Klaba ne rejoindra pas les consortiums français",
-      "link": "https://www.silicon.fr/cloud-1370/gigafactories-ia-pourquoi-octave-klaba-ne-rejoindra-pas-les-consortiums-francais-229378",
-      "date": "Fri, 25 Sep 2026 14:03:10 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Crédit, trading, recherche : BNP Paribas mise sur Gemini pour automatiser ses métiers CIB",
-      "link": "https://www.silicon.fr/data-ia-1372/credit-trading-recherche-bnp-paribas-mise-sur-gemini-pour-automatiser-ses-metiers-cib-229374",
-      "date": "Fri, 25 Sep 2026 10:57:57 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Tokenomics : les chiffres d’une discipline FinOps en construction",
-      "link": "https://www.silicon.fr/data-ia-1372/state-of-tokenomics-229351",
-      "date": "Fri, 25 Sep 2026 10:36:13 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Résilience multicloud : tout est une question d’orchestration, pas du nombre de clouds",
-      "link": "https://www.silicon.fr/cloud-1370/resilience-multicloud-tout-est-une-question-dorchestration-pas-du-nombre-de-clouds-229360",
-      "date": "Fri, 25 Sep 2026 09:52:21 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
