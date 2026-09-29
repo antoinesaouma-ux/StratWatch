@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:12:49.203086+00:00",
+  "updated": "2026-09-29T16:11:56.585961+00:00",
   "news": [
     {
       "title": "Test transmetteur USB-C et récepteur HDMI sans fil magnétique UGreen : enfin du HDMI sans fil facile",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "AMD mise 8,2 milliards $ sur World Labs pour s’ancrer dans l’IA physique",
+      "link": "https://www.silicon.fr/business-1367/amd-mise-82-milliards-sur-world-labs-pour-sancrer-dans-lia-physique-229430",
+      "date": "Tue, 29 Sep 2026 10:48:27 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "La trajectoire financière d’Anthropic se dessine avant l’IPO",
       "link": "https://www.silicon.fr/business-1367/anthropic-trajectoire-financiere-229423",
       "date": "Tue, 29 Sep 2026 08:38:07 +0000",
@@ -85,14 +93,6 @@
       "title": "Microsoft renonce aux PC Copilot+ : la fin d’un cycle chaotique",
       "link": "https://www.silicon.fr/workspace-1376/pc-copilot-plus-229397",
       "date": "Mon, 28 Sep 2026 09:32:10 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cyber Resilience Act : la conformité ne protégera pas les entreprises françaises",
-      "link": "https://www.silicon.fr/cybersecurite-1371/cyber-resilience-act-la-conformite-ne-protegera-pas-les-entreprises-francaises-229399",
-      "date": "Mon, 28 Sep 2026 08:17:48 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
