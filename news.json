@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T06:06:42.521885+00:00",
+  "updated": "2026-09-30T13:07:47.613089+00:00",
   "news": [
     {
       "title": "Android pratique : Google Wallet s'enrichit de nombreuses nouvelles fonctionnalités en 2026",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Vol de données fiscales : l’ANSSI confirme les mauvaises pratiques cyber de Bercy",
+      "link": "https://www.silicon.fr/cybersecurite-1371/vol-de-donnees-fiscales-lanssi-confirme-les-mauvaises-pratiques-cyber-de-bercy-229447",
+      "date": "Wed, 30 Sep 2026 11:01:26 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "15 outils open source à mettre dans sa toolbox IA",
+      "link": "https://www.silicon.fr/data-ia-1372/outils-open-source-ia-229426",
+      "date": "Wed, 30 Sep 2026 10:59:23 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "AMD mise 8,2 milliards $ sur World Labs pour s’ancrer dans l’IA physique",
       "link": "https://www.silicon.fr/business-1367/amd-mise-82-milliards-sur-world-labs-pour-sancrer-dans-lia-physique-229430",
       "date": "Tue, 29 Sep 2026 10:48:27 +0000",
@@ -77,22 +93,6 @@
       "title": "Dans sa course à l’infra, Anthropic embarque Akamai",
       "link": "https://www.silicon.fr/data-ia-1372/akamai-anthropic-229415",
       "date": "Mon, 28 Sep 2026 12:54:12 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Recrutement : l’IA fait exploser les candidatures et allonge les embauches",
-      "link": "https://www.silicon.fr/emploi-formation-1373/recrutement-lia-fait-exploser-les-candidatures-et-allonge-les-embauches-229404",
-      "date": "Mon, 28 Sep 2026 09:39:18 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Microsoft renonce aux PC Copilot+ : la fin d’un cycle chaotique",
-      "link": "https://www.silicon.fr/workspace-1376/pc-copilot-plus-229397",
-      "date": "Mon, 28 Sep 2026 09:32:10 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
