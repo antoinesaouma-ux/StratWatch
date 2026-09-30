@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-30T13:07:47.613089+00:00",
+  "updated": "2026-09-30T18:40:04.093330+00:00",
   "news": [
+    {
+      "title": "IA en entreprise : pourquoi il faut mettre l’humain dans la boucle",
+      "link": "https://www.zdnet.fr/pratique/ia-en-entreprise-pourquoi-il-faut-mettre-lhumain-dans-la-boucle-504369.htm#xtor=123456",
+      "date": "mer, 30 Sep 2026 18:03:19 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Android pratique : Google Wallet s'enrichit de nombreuses nouvelles fonctionnalités en 2026",
       "link": "https://www.zdnet.fr/pratique/android-pratique-google-wallet-senrichit-de-nombreuses-nouvelles-fonctionnalites-en-2026-504602.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "ThinkPad X1 Carbon Gen 14 : le PC portable pro qui ose enfin la réparabilité",
-      "link": "https://www.zdnet.fr/guide-achat/thinkpad-x1-carbon-gen-14-le-pc-portable-pro-qui-ose-enfin-la-reparabilite-504499.htm#xtor=123456",
-      "date": "dim, 27 Sep 2026 14:01:57 +0200",
-      "source": "ZDNet FR",
+      "title": "Cloudflare se projette en Let’s Encrypt post-quantique",
+      "link": "https://www.silicon.fr/cybersecurite-1371/cloudflare-autorite-certification-229461",
+      "date": "Wed, 30 Sep 2026 14:45:41 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Agents IA : NVIDIA veut imposer les règles au silicium",
       "link": "https://www.silicon.fr/cybersecurite-1371/agents-ia-nvidia-veut-imposer-les-regles-au-silicium-229421",
       "date": "Mon, 28 Sep 2026 14:18:25 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Dans sa course à l’infra, Anthropic embarque Akamai",
-      "link": "https://www.silicon.fr/data-ia-1372/akamai-anthropic-229415",
-      "date": "Mon, 28 Sep 2026 12:54:12 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
