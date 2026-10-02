@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T06:23:44.099953+00:00",
+  "updated": "2026-10-02T13:18:36.021399+00:00",
   "news": [
     {
       "title": "Test Garmin fēnix 9 Pro : laissez votre smartphone à la maison !",
@@ -50,30 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Cloudflare se projette en Let’s Encrypt post-quantique",
-      "link": "https://www.silicon.fr/cybersecurite-1371/cloudflare-autorite-certification-229461",
-      "date": "Wed, 30 Sep 2026 14:45:41 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Vol de données fiscales : l’ANSSI confirme les mauvaises pratiques cyber de Bercy",
-      "link": "https://www.silicon.fr/cybersecurite-1371/vol-de-donnees-fiscales-lanssi-confirme-les-mauvaises-pratiques-cyber-de-bercy-229447",
-      "date": "Wed, 30 Sep 2026 11:01:26 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "15 outils open source à mettre dans sa toolbox IA",
-      "link": "https://www.silicon.fr/data-ia-1372/outils-open-source-ia-229426",
-      "date": "Wed, 30 Sep 2026 10:59:23 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "NetApp a choisi son camp pour investir les « usines IA »",
       "link": "https://www.silicon.fr/data-ia-1372/netapp-novus-229472",
       "date": "Thu, 01 Oct 2026 16:28:07 +0000",
@@ -93,6 +69,30 @@
       "title": "Docker Compose, chaînon manquant des conteneurs WSL",
       "link": "https://www.silicon.fr/open-source-1375/wsl-containers-229469",
       "date": "Thu, 01 Oct 2026 08:50:48 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Supercalculateurs : Bull double sa production à Angers",
+      "link": "https://www.silicon.fr/business-1367/supercalculateurs-bull-double-sa-production-a-angers-229486",
+      "date": "Fri, 02 Oct 2026 10:39:36 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Qu’est-ce que Jev, la nouvelle marotte des concepteurs de modèles d’IA ?",
+      "link": "https://www.silicon.fr/data-ia-1372/jev-labos-ia-229476",
+      "date": "Fri, 02 Oct 2026 10:05:40 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "OpenAI alerte plus de 100 organisations sur les compromissions de ses agents IA",
+      "link": "https://www.silicon.fr/cybersecurite-1371/openai-alerte-plus-de-100-organisations-sur-les-compromissions-de-ses-agents-ia-229477",
+      "date": "Fri, 02 Oct 2026 09:22:18 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
