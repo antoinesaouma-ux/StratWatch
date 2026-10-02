@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-02T13:18:36.021399+00:00",
+  "updated": "2026-10-02T18:46:26.009941+00:00",
   "news": [
+    {
+      "title": "Android pratique : activez ces 4 paramètres pour protéger d'avantage Google Wallet",
+      "link": "https://www.zdnet.fr/pratique/android-pratique-activez-ces-4-parametres-pour-proteger-davantage-google-wallet-504995.htm#xtor=123456",
+      "date": "ven, 02 Oct 2026 19:47:29 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test Garmin fēnix 9 Pro : laissez votre smartphone à la maison !",
       "link": "https://www.zdnet.fr/guide-achat/test-garmin-fenix-9-pro-laissez-votre-smartphone-a-la-maison-504817.htm#xtor=123456",
@@ -13,14 +21,6 @@
       "title": "IA en entreprise : pourquoi il faut mettre l’humain dans la boucle",
       "link": "https://www.zdnet.fr/pratique/ia-en-entreprise-pourquoi-il-faut-mettre-lhumain-dans-la-boucle-504369.htm#xtor=123456",
       "date": "mer, 30 Sep 2026 18:03:19 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Android pratique : Google Wallet s'enrichit de nombreuses nouvelles fonctionnalités en 2026",
-      "link": "https://www.zdnet.fr/pratique/android-pratique-google-wallet-senrichit-de-nombreuses-nouvelles-fonctionnalites-en-2026-504602.htm#xtor=123456",
-      "date": "mar, 29 Sep 2026 22:00:54 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -58,17 +58,17 @@
       "sources_count": 3
     },
     {
-      "title": "Agents IA : la FTC ouvre une enquête au lendemain de l’accord de la Maison-Blanche",
-      "link": "https://www.silicon.fr/business-1367/agents-ia-la-ftc-ouvre-une-enquete-au-lendemain-de-laccord-de-la-maison-blanche-229465",
-      "date": "Thu, 01 Oct 2026 09:29:51 +0000",
+      "title": "La DGFiP… et bien d’autres : un été riche en vols de données dans le secteur public",
+      "link": "https://www.silicon.fr/cybersecurite-1371/vols-donnees-secteur-public-229502",
+      "date": "Fri, 02 Oct 2026 17:27:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Docker Compose, chaînon manquant des conteneurs WSL",
-      "link": "https://www.silicon.fr/open-source-1375/wsl-containers-229469",
-      "date": "Thu, 01 Oct 2026 08:50:48 +0000",
+      "title": "ChatGPT, suite collaborative : OpenAI s’en approche",
+      "link": "https://www.silicon.fr/workspace-1376/chatgpt-suite-collaborative-229492",
+      "date": "Fri, 02 Oct 2026 14:55:34 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
