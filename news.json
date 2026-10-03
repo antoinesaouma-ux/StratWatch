@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T12:49:04.923092+00:00",
+  "updated": "2026-10-03T16:50:38.782807+00:00",
   "news": [
     {
       "title": "Test Suunto Run 2 : un rêve pour les coureurs qui devrait plaire aussi au-delà",
@@ -13,6 +13,14 @@
       "title": "Android pratique : activez ces 4 paramètres pour protéger d'avantage Google Wallet",
       "link": "https://www.zdnet.fr/pratique/android-pratique-activez-ces-4-parametres-pour-proteger-davantage-google-wallet-504995.htm#xtor=123456",
       "date": "ven, 02 Oct 2026 19:47:29 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Choisir un PC portable pour sa petite entreprise : le guide complet d'un testeur professionnel",
+      "link": "https://www.zdnet.fr/pratique/choisir-un-pc-portable-pour-sa-petite-entreprise-le-guide-complet-dun-testeur-professionnel-504895.htm#xtor=123456",
+      "date": "sam, 03 Oct 2026 14:01:55 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -37,14 +45,6 @@
       "title": "Linux pratique : soyez curieux, testez d’autres distributions",
       "link": "https://www.zdnet.fr/pratique/linux-pratique-soyez-curieux-testez-dautres-distributions-504971.htm#xtor=123456",
       "date": "jeu, 01 Oct 2026 19:57:26 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Votre iPhone vient de bénéficier d'une mise à jour anti-arnaques cachée dans iOS 27 : comment l'activer",
-      "link": "https://www.zdnet.fr/pratique/votre-iphone-vient-de-beneficier-dune-mise-a-jour-anti-arnaques-cachee-dans-ios-27-comment-lactiver-504917.htm#xtor=123456",
-      "date": "jeu, 01 Oct 2026 12:14:04 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
