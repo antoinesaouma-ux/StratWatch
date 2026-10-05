@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:51:26.108460+00:00",
+  "updated": "2026-10-05T16:32:44.954953+00:00",
   "news": [
     {
       "title": "Test Suunto Run 2 : un rêve pour les coureurs qui devrait plaire aussi au-delà",
@@ -50,9 +50,41 @@
       "sources_count": 3
     },
     {
-      "title": "NetApp a choisi son camp pour investir les « usines IA »",
-      "link": "https://www.silicon.fr/data-ia-1372/netapp-novus-229472",
-      "date": "Thu, 01 Oct 2026 16:28:07 +0000",
+      "title": "OpenAI signe avec Synopsys : l’effet Jalapeño ?",
+      "link": "https://www.silicon.fr/data-ia-1372/openai-synopsys-229519",
+      "date": "Mon, 05 Oct 2026 13:06:20 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "NIS2 : ce qu’il faut attendre du projet de loi examiné à l’Assemblée nationale",
+      "link": "https://www.silicon.fr/cybersecurite-1371/nis2-ce-quil-faut-attendre-du-projet-de-loi-examine-a-lassemblee-nationale-229520",
+      "date": "Mon, 05 Oct 2026 12:56:17 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Fleuret AI lève 4 M€ pour automatiser les tests d’intrusion avec l’IA",
+      "link": "https://www.silicon.fr/cybersecurite-1371/fleuret-ai-leve-4-me-pour-automatiser-les-tests-dintrusion-avec-lia-229514",
+      "date": "Mon, 05 Oct 2026 09:36:07 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Face à l’IA, les bug bountys se remettent diversement en question",
+      "link": "https://www.silicon.fr/cybersecurite-1371/ia-bug-bountys-229510",
+      "date": "Mon, 05 Oct 2026 09:17:39 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Schneider Electric mise 22,6 milliards $ sur PTC pour accélérer son virage logiciel",
+      "link": "https://www.silicon.fr/business-1367/schneider-electric-mise-226-milliards-sur-ptc-pour-accelerer-son-virage-logiciel-229511",
+      "date": "Mon, 05 Oct 2026 09:02:47 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -61,38 +93,6 @@
       "title": "La DGFiP… et bien d’autres : un été riche en vols de données dans le secteur public",
       "link": "https://www.silicon.fr/cybersecurite-1371/vols-donnees-secteur-public-229502",
       "date": "Fri, 02 Oct 2026 17:27:16 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "ChatGPT, suite collaborative : OpenAI s’en approche",
-      "link": "https://www.silicon.fr/workspace-1376/chatgpt-suite-collaborative-229492",
-      "date": "Fri, 02 Oct 2026 14:55:34 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Supercalculateurs : Bull double sa production à Angers",
-      "link": "https://www.silicon.fr/business-1367/supercalculateurs-bull-double-sa-production-a-angers-229486",
-      "date": "Fri, 02 Oct 2026 10:39:36 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Qu’est-ce que Jev, la nouvelle marotte des concepteurs de modèles d’IA ?",
-      "link": "https://www.silicon.fr/data-ia-1372/jev-labos-ia-229476",
-      "date": "Fri, 02 Oct 2026 10:05:40 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "OpenAI alerte plus de 100 organisations sur les compromissions de ses agents IA",
-      "link": "https://www.silicon.fr/cybersecurite-1371/openai-alerte-plus-de-100-organisations-sur-les-compromissions-de-ses-agents-ia-229477",
-      "date": "Fri, 02 Oct 2026 09:22:18 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
