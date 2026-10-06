@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:32:55.242199+00:00",
+  "updated": "2026-10-06T16:21:18.865385+00:00",
   "news": [
     {
       "title": "Choisir un PC portable pour sa petite entreprise : le guide complet d'un testeur professionnel",
@@ -10,9 +10,9 @@
       "sources_count": 3
     },
     {
-      "title": "J'ai testé Apple CarPlay pendant un mois, et voici ce qu'Android Auto devrait vraiment lui emprunter",
-      "link": "https://www.zdnet.fr/pratique/jai-teste-apple-carplay-pendant-un-mois-et-voici-ce-quandroid-auto-devrait-vraiment-lui-emprunter-504876.htm#xtor=123456",
-      "date": "sam, 03 Oct 2026 09:00:14 +0200",
+      "title": "Comment j'ai créé en deux heures et gratuitement l'application dont j'avais besoin, avec Ollama et VS Code",
+      "link": "https://www.zdnet.fr/pratique/comment-jai-cree-en-deux-heures-et-gratuitement-lapplication-dont-javais-besoin-avec-ollama-et-vs-code-505211.htm#xtor=123456",
+      "date": "mar, 06 Oct 2026 12:56:31 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Christophe Canguilhem, nouveau CEO de Stormshield",
+      "link": "https://www.silicon.fr/emploi-formation-1373/christophe-canguilhem-nouveau-ceo-de-stormshield-229541",
+      "date": "Tue, 06 Oct 2026 15:23:15 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Vates lève 30 M€ pour bâtir un acteur européen de la virtualisation",
+      "link": "https://www.silicon.fr/business-1367/vates-leve-30-me-pour-batir-un-acteur-europeen-de-la-virtualisation-229536",
+      "date": "Tue, 06 Oct 2026 14:44:13 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "OpenAI signe avec Synopsys : l’effet Jalapeño ?",
       "link": "https://www.silicon.fr/data-ia-1372/openai-synopsys-229519",
       "date": "Mon, 05 Oct 2026 13:06:20 +0000",
@@ -77,22 +93,6 @@
       "title": "Face à l’IA, les bug bountys se remettent diversement en question",
       "link": "https://www.silicon.fr/cybersecurite-1371/ia-bug-bountys-229510",
       "date": "Mon, 05 Oct 2026 09:17:39 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Schneider Electric mise 22,6 milliards $ sur PTC pour accélérer son virage logiciel",
-      "link": "https://www.silicon.fr/business-1367/schneider-electric-mise-226-milliards-sur-ptc-pour-accelerer-son-virage-logiciel-229511",
-      "date": "Mon, 05 Oct 2026 09:02:47 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La DGFiP… et bien d’autres : un été riche en vols de données dans le secteur public",
-      "link": "https://www.silicon.fr/cybersecurite-1371/vols-donnees-secteur-public-229502",
-      "date": "Fri, 02 Oct 2026 17:27:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
