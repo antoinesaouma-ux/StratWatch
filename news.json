@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T01:05:42.967350+00:00",
+  "updated": "2026-10-07T07:51:20.584967+00:00",
   "news": [
     {
       "title": "Prise en main Microsoft Surface : le modèle Pro est particulièrement intéressant, voici pourquoi",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Quand les agents IA agissent en notre nom, qui est responsable ?",
+      "link": "https://www.silicon.fr/data-ia-1372/quand-les-agents-ia-agissent-en-notre-nom-qui-est-responsable-229548",
+      "date": "Wed, 07 Oct 2026 07:37:52 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Christophe Canguilhem, nouveau CEO de Stormshield",
       "link": "https://www.silicon.fr/emploi-formation-1373/christophe-canguilhem-nouveau-ceo-de-stormshield-229541",
       "date": "Tue, 06 Oct 2026 15:23:15 +0000",
@@ -85,14 +93,6 @@
       "title": "Fleuret AI lève 4 M€ pour automatiser les tests d’intrusion avec l’IA",
       "link": "https://www.silicon.fr/cybersecurite-1371/fleuret-ai-leve-4-me-pour-automatiser-les-tests-dintrusion-avec-lia-229514",
       "date": "Mon, 05 Oct 2026 09:36:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Face à l’IA, les bug bountys se remettent diversement en question",
-      "link": "https://www.silicon.fr/cybersecurite-1371/ia-bug-bountys-229510",
-      "date": "Mon, 05 Oct 2026 09:17:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
