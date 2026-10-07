@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-07T07:51:20.584967+00:00",
+  "updated": "2026-10-07T14:51:24.666674+00:00",
   "news": [
+    {
+      "title": "Comment choisir sa version de Gemini selon vos besoins et maîtriser vos quotas",
+      "link": "https://www.zdnet.fr/pratique/comment-choisir-sa-version-de-gemini-selon-vos-besoins-et-maitriser-vos-quotas-505298.htm#xtor=123456",
+      "date": "mer, 07 Oct 2026 14:49:15 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Prise en main Microsoft Surface : le modèle Pro est particulièrement intéressant, voici pourquoi",
       "link": "https://www.zdnet.fr/guide-achat/prise-en-main-microsoft-surface-le-modele-pro-est-particulierement-interessant-voici-pourquoi-505143.htm#xtor=123456",
@@ -42,10 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "Zoom, autonomie, Dynamic Island : pourquoi je ne regrette pas d'être passé à l'iPhone 18 Pro",
-      "link": "https://www.zdnet.fr/guide-achat/zoom-autonomie-dynamic-island-pourquoi-je-ne-regrette-pas-detre-passe-a-liphone-18-pro-504957.htm#xtor=123456",
-      "date": "dim, 04 Oct 2026 14:01:05 +0200",
-      "source": "ZDNet FR",
+      "title": "Supply chain open source : corriger devient le vrai défi",
+      "link": "https://www.silicon.fr/cybersecurite-1371/supply-chain-open-source-corriger-devient-le-vrai-defi-229555",
+      "date": "Wed, 07 Oct 2026 10:47:54 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Mistral Large 4 mise sur la souveraineté plutôt que sur la course aux records",
+      "link": "https://www.silicon.fr/data-ia-1372/mistral-large-4-mise-sur-la-souverainete-plutot-que-sur-la-course-aux-records-229551",
+      "date": "Wed, 07 Oct 2026 09:39:54 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "OpenAI signe avec Synopsys : l’effet Jalapeño ?",
       "link": "https://www.silicon.fr/data-ia-1372/openai-synopsys-229519",
       "date": "Mon, 05 Oct 2026 13:06:20 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "NIS2 : ce qu’il faut attendre du projet de loi examiné à l’Assemblée nationale",
-      "link": "https://www.silicon.fr/cybersecurite-1371/nis2-ce-quil-faut-attendre-du-projet-de-loi-examine-a-lassemblee-nationale-229520",
-      "date": "Mon, 05 Oct 2026 12:56:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Fleuret AI lève 4 M€ pour automatiser les tests d’intrusion avec l’IA",
-      "link": "https://www.silicon.fr/cybersecurite-1371/fleuret-ai-leve-4-me-pour-automatiser-les-tests-dintrusion-avec-lia-229514",
-      "date": "Mon, 05 Oct 2026 09:36:07 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
