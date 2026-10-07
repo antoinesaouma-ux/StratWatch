@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-07T14:51:24.666674+00:00",
+  "updated": "2026-10-07T20:16:33.299796+00:00",
   "news": [
+    {
+      "title": "Test Apple iPhone 18 Pro : le modèle Pro Max n'est plus (si) indispensable",
+      "link": "https://www.zdnet.fr/smartphone/test-apple-iphone-18-pro-le-modele-pro-max-nest-plus-si-indispensable-505257.htm#xtor=123456",
+      "date": "mer, 07 Oct 2026 22:00:17 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Retour d’expérience : comment j'ai créé une appli Mac payante en 11 jours avec Claude, sans écrire une seule ligne de code !",
+      "link": "https://www.zdnet.fr/pratique/retour-dexperience-comment-jai-cree-une-appli-mac-payante-en-11-jours-avec-claude-sans-ecrire-une-seule-ligne-de-code-505186.htm#xtor=123456",
+      "date": "mer, 07 Oct 2026 18:30:16 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Comment choisir sa version de Gemini selon vos besoins et maîtriser vos quotas",
       "link": "https://www.zdnet.fr/pratique/comment-choisir-sa-version-de-gemini-selon-vos-besoins-et-maitriser-vos-quotas-505298.htm#xtor=123456",
@@ -29,22 +45,6 @@
       "title": "Comment j'ai créé en deux heures et gratuitement l'application dont j'avais besoin, avec Ollama et VS Code",
       "link": "https://www.zdnet.fr/pratique/comment-jai-cree-en-deux-heures-et-gratuitement-lapplication-dont-javais-besoin-avec-ollama-et-vs-code-505211.htm#xtor=123456",
       "date": "mar, 06 Oct 2026 12:56:31 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Motorola Razr 70 Ultra vs. Samsung Galaxy Z Flip8 : le vainqueur en qualité photo est inattendu",
-      "link": "https://www.zdnet.fr/guide-achat/motorola-razr-70-ultra-vs-samsung-galaxy-z-flip8-le-vainqueur-en-qualite-photo-est-inattendu-505074.htm#xtor=123456",
-      "date": "lun, 05 Oct 2026 22:00:36 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test photo Apple iPhone 18 Pro : la meilleure fonctionnalité de son appareil photo n'est pas l’ouverture variable",
-      "link": "https://www.zdnet.fr/smartphone/test-photo-apple-iphone-18-pro-la-meilleure-fonctionnalite-de-son-appareil-photo-nest-pas-louverture-variable-505059.htm#xtor=123456",
-      "date": "lun, 05 Oct 2026 18:30:29 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
