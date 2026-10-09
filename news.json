@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-09T19:13:39.868876+00:00",
+  "updated": "2026-10-09T23:39:30.374887+00:00",
   "news": [
+    {
+      "title": "Linux pratique : les meilleurs programmes de dictée avec une IA locale",
+      "link": "https://www.zdnet.fr/guide-achat/linux-pratique-les-meilleurs-programmes-de-dictee-avec-une-ia-locale-505427.htm#xtor=123456",
+      "date": "ven, 09 Oct 2026 22:00:55 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test TDM. Neo : le casque et enceinte 2-en-1 mérite-t-il son buzz ?",
       "link": "https://www.zdnet.fr/guide-achat/test-tdm-neo-le-casque-et-enceinte-2-en-1-merite-t-il-son-buzz-505396.htm#xtor=123456",
@@ -21,14 +29,6 @@
       "title": "Retour d’expérience : comment j'ai créé une appli Mac payante en 11 jours avec Claude, sans écrire une seule ligne de code !",
       "link": "https://www.zdnet.fr/pratique/retour-dexperience-comment-jai-cree-une-appli-mac-payante-en-11-jours-avec-claude-sans-ecrire-une-seule-ligne-de-code-505186.htm#xtor=123456",
       "date": "mer, 07 Oct 2026 18:30:16 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment choisir sa version de Gemini selon vos besoins et maîtriser vos quotas",
-      "link": "https://www.zdnet.fr/pratique/comment-choisir-sa-version-de-gemini-selon-vos-besoins-et-maitriser-vos-quotas-505298.htm#xtor=123456",
-      "date": "mer, 07 Oct 2026 14:49:15 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
