@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T06:54:55.948564+00:00",
+  "updated": "2026-10-09T13:57:50.225490+00:00",
   "news": [
     {
       "title": "Test Apple iPhone 18 Pro : le modèle Pro Max n'est plus (si) indispensable",
@@ -50,41 +50,41 @@
       "sources_count": 3
     },
     {
-      "title": "Supply chain open source : corriger devient le vrai défi",
-      "link": "https://www.silicon.fr/cybersecurite-1371/supply-chain-open-source-corriger-devient-le-vrai-defi-229555",
-      "date": "Wed, 07 Oct 2026 10:47:54 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Mistral Large 4 mise sur la souveraineté plutôt que sur la course aux records",
-      "link": "https://www.silicon.fr/data-ia-1372/mistral-large-4-mise-sur-la-souverainete-plutot-que-sur-la-course-aux-records-229551",
-      "date": "Wed, 07 Oct 2026 09:39:54 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Quand les agents IA agissent en notre nom, qui est responsable ?",
-      "link": "https://www.silicon.fr/data-ia-1372/quand-les-agents-ia-agissent-en-notre-nom-qui-est-responsable-229548",
-      "date": "Wed, 07 Oct 2026 07:37:52 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Christophe Canguilhem, nouveau CEO de Stormshield",
-      "link": "https://www.silicon.fr/emploi-formation-1373/christophe-canguilhem-nouveau-ceo-de-stormshield-229541",
-      "date": "Tue, 06 Oct 2026 15:23:15 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Les Assises 2026 : pour NIS 2, petits mots, grands travaux",
       "link": "https://www.silicon.fr/cybersecurite-1371/les-assises-2026-nis-2-229563",
       "date": "Thu, 08 Oct 2026 03:23:01 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Wikipédia dans le viseur des agents d’OpenAI",
+      "link": "https://www.silicon.fr/data-ia-1372/wikipedia-dans-le-viseur-des-agents-dopenai-229584",
+      "date": "Fri, 09 Oct 2026 13:31:40 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "En France, l’IA générative fermerait d’abord la porte aux débutants",
+      "link": "https://www.silicon.fr/emploi-formation-1373/en-france-lia-generative-fermerait-dabord-la-porte-aux-debutants-229582",
+      "date": "Fri, 09 Oct 2026 13:08:08 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "DGFiP : les six failles que l’ANSSI invite à corriger après le scraping",
+      "link": "https://www.silicon.fr/cybersecurite-1371/dgfip-les-six-failles-que-lanssi-invite-a-corriger-apres-le-scraping-229579",
+      "date": "Fri, 09 Oct 2026 11:14:20 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Gestion des API : l’IA ne lève pas (tous) les irritants",
+      "link": "https://www.silicon.fr/cloud-1370/gestion-api-magic-quadrant-2026-229527",
+      "date": "Fri, 09 Oct 2026 10:40:07 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
