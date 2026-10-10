@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:12:06.943526+00:00",
+  "updated": "2026-10-10T15:58:53.040480+00:00",
   "news": [
     {
       "title": "Linux pratique : les meilleurs programmes de dictée avec une IA locale",
@@ -13,6 +13,14 @@
       "title": "Test TDM. Neo : le casque et enceinte 2-en-1 mérite-t-il son buzz ?",
       "link": "https://www.zdnet.fr/guide-achat/test-tdm-neo-le-casque-et-enceinte-2-en-1-merite-t-il-son-buzz-505396.htm#xtor=123456",
       "date": "ven, 09 Oct 2026 18:00:00 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test de l'Apple Mac Mini M5 Pro : une puissance impressionnante, pour les utilisateurs qui en ont besoin",
+      "link": "https://www.zdnet.fr/guide-achat/test-de-lapple-mac-mini-m5-pro-une-puissance-impressionnante-pour-les-utilisateurs-qui-en-ont-besoin-505367.htm#xtor=123456",
+      "date": "sam, 10 Oct 2026 14:03:19 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -37,14 +45,6 @@
       "title": "Mes 6 alternatives préférées à Microsoft Office pour Linux",
       "link": "https://www.zdnet.fr/pratique/mes-6-alternatives-preferees-a-microsoft-office-pour-linux-505358.htm#xtor=123456",
       "date": "sam, 10 Oct 2026 09:01:58 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Web pratique : 4 navigateurs à retenir en 2026",
-      "link": "https://www.zdnet.fr/pratique/web-pratique-4-navigateurs-a-retenir-en-2026-505288.htm#xtor=123456",
-      "date": "jeu, 08 Oct 2026 22:00:12 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
