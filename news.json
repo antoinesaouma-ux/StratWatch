@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-11T02:42:43.107127+00:00",
+  "updated": "2026-10-11T09:25:59.915884+00:00",
   "news": [
-    {
-      "title": "Linux pratique : les meilleurs programmes de dictée avec une IA locale",
-      "link": "https://www.zdnet.fr/guide-achat/linux-pratique-les-meilleurs-programmes-de-dictee-avec-une-ia-locale-505427.htm#xtor=123456",
-      "date": "ven, 09 Oct 2026 22:00:55 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test TDM. Neo : le casque et enceinte 2-en-1 mérite-t-il son buzz ?",
-      "link": "https://www.zdnet.fr/guide-achat/test-tdm-neo-le-casque-et-enceinte-2-en-1-merite-t-il-son-buzz-505396.htm#xtor=123456",
-      "date": "ven, 09 Oct 2026 18:00:00 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
     {
       "title": "Test de l'Apple Mac Mini M5 Pro : une puissance impressionnante, pour les utilisateurs qui en ont besoin",
       "link": "https://www.zdnet.fr/guide-achat/test-de-lapple-mac-mini-m5-pro-une-puissance-impressionnante-pour-les-utilisateurs-qui-en-ont-besoin-505367.htm#xtor=123456",
@@ -45,6 +29,22 @@
       "title": "Mes 6 alternatives préférées à Microsoft Office pour Linux",
       "link": "https://www.zdnet.fr/pratique/mes-6-alternatives-preferees-a-microsoft-office-pour-linux-505358.htm#xtor=123456",
       "date": "sam, 10 Oct 2026 09:01:58 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Ray-Ban Meta Gen 3 ou Audio ? Comment je fais mon choix face à ce sentiment de « malaise » qui ne cesse de grandir",
+      "link": "https://www.zdnet.fr/pratique/ray-ban-meta-gen-3-ou-audio-comment-je-fais-mon-choix-face-a-ce-sentiment-de-malaise-qui-ne-cesse-de-grandir-505520.htm#xtor=123456",
+      "date": "dim, 11 Oct 2026 10:30:44 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "HDMI sans fil ou filaire : ce qu'il faut savoir pour configurer votre téléviseur",
+      "link": "https://www.zdnet.fr/guide-achat/hdmi-filaire-ou-sans-fil-les-elements-a-prendre-en-compte-pour-linstallation-de-votre-televiseur-505412.htm#xtor=123456",
+      "date": "dim, 11 Oct 2026 09:01:59 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
