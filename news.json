@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T12:17:02.008494+00:00",
+  "updated": "2026-10-13T19:36:41.011502+00:00",
   "news": [
+    {
+      "title": "Vous utilisez ChatGPT Plus ? Passer à Gemini pourrait vous faire économiser sur votre facture",
+      "link": "https://www.zdnet.fr/pratique/vous-utilisez-chatgpt-plus-passer-a-gemini-pourrait-vous-faire-economiser-sur-votre-facture-505687.htm#xtor=123456",
+      "date": "mar, 13 Oct 2026 16:24:44 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Données mobiles à l'étranger : comment je reste connecté à moindre coût",
+      "link": "https://www.zdnet.fr/pratique/donnees-mobiles-a-letranger-comment-je-reste-connecte-a-moindre-cout-505684.htm#xtor=123456",
+      "date": "mar, 13 Oct 2026 15:47:16 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Smartphone pratique : là où Google Maps domine Apple Plans",
       "link": "https://www.zdnet.fr/pratique/smartphone-pratique-la-ou-google-maps-domine-apple-plans-505532.htm#xtor=123456",
@@ -34,18 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "Ray-Ban Meta Gen 3 ou Audio ? Comment je fais mon choix face à ce sentiment de « malaise » qui ne cesse de grandir",
-      "link": "https://www.zdnet.fr/pratique/ray-ban-meta-gen-3-ou-audio-comment-je-fais-mon-choix-face-a-ce-sentiment-de-malaise-qui-ne-cesse-de-grandir-505520.htm#xtor=123456",
-      "date": "dim, 11 Oct 2026 10:30:44 +0200",
-      "source": "ZDNet FR",
+      "title": "10 milliards € de potentiel d’économies sur les achats logiciels : d’où vient ce chiffre ?",
+      "link": "https://www.silicon.fr/business-1367/achats-logiciels-economies-229645",
+      "date": "Tue, 13 Oct 2026 16:40:27 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "HDMI sans fil ou filaire : ce qu'il faut savoir pour configurer votre téléviseur",
-      "link": "https://www.zdnet.fr/guide-achat/hdmi-filaire-ou-sans-fil-les-elements-a-prendre-en-compte-pour-linstallation-de-votre-televiseur-505412.htm#xtor=123456",
-      "date": "dim, 11 Oct 2026 09:01:59 +0200",
-      "source": "ZDNet FR",
+      "title": "Anthropic avertit que de petits modèles d’IA pourraient se répliquer sur des objets connectés",
+      "link": "https://www.silicon.fr/data-ia-1372/anthropic-avertit-que-de-petits-modeles-dia-pourraient-se-repliquer-sur-des-objets-connectes-229632",
+      "date": "Tue, 13 Oct 2026 12:56:36 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Ces éditeurs qui jouent la carte du « sans IA »",
       "link": "https://www.silicon.fr/data-ia-1372/logiciels-sans-ia-229599",
       "date": "Mon, 12 Oct 2026 13:31:41 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Intermarché, Système U, E.Leclerc…une cyberattaque paralyse le froid de centaines de magasins",
-      "link": "https://www.silicon.fr/cybersecurite-1371/intermarche-systeme-u-e-leclerc-une-cyberattaque-paralyse-le-froid-de-centaines-de-magasins-229600",
-      "date": "Mon, 12 Oct 2026 13:26:18 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cloud Temple fédère Thales, Bull, Vates et le CEA pour un cloud de confiance européen",
-      "link": "https://www.silicon.fr/cloud-1370/cloud-temple-federe-thales-bull-vates-et-le-cea-pour-un-cloud-de-confiance-europeen-229594",
-      "date": "Mon, 12 Oct 2026 10:10:58 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
