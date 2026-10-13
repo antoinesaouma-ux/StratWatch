@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T19:36:41.011502+00:00",
+  "updated": "2026-10-13T23:29:15.529630+00:00",
   "news": [
+    {
+      "title": "Test Geekom A7 : voici des tâches IA que ce mini PC est capable de mener",
+      "link": "https://www.zdnet.fr/informatique/test-geekom-a7-voici-des-taches-ia-que-ce-mini-pc-est-capable-de-mener-505625.htm#xtor=123456",
+      "date": "mar, 13 Oct 2026 22:27:04 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Sennheiser Momentum True Wireless 5 vs. Bowers & Wilkins Pi8 : deux paires d’écouteurs haut de gamme, laquelle choisir ?",
+      "link": "https://www.zdnet.fr/guide-achat/sennheiser-momentum-true-wireless-5-vs-bowers-wilkins-pi8-deux-paires-decouteurs-haut-de-gamme-laquelle-choisir-505661.htm#xtor=123456",
+      "date": "mar, 13 Oct 2026 22:16:15 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Vous utilisez ChatGPT Plus ? Passer à Gemini pourrait vous faire économiser sur votre facture",
       "link": "https://www.zdnet.fr/pratique/vous-utilisez-chatgpt-plus-passer-a-gemini-pourrait-vous-faire-economiser-sur-votre-facture-505687.htm#xtor=123456",
@@ -29,22 +45,6 @@
       "title": "Test Gemini Spark : un nouvel échec de Google en matière d’intelligence artificielle, ou un outil prochainement très efficace?",
       "link": "https://www.zdnet.fr/guide-achat/test-gemini-spark-un-nouvel-echec-de-google-en-matiere-dintelligence-artificielle-ou-un-outil-prochainement-tres-efficace-505535.htm#xtor=123456",
       "date": "lun, 12 Oct 2026 18:19:33 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "8, 12 ou 16 Go de RAM : combien en faut-il vraiment sur un smartphone ?",
-      "link": "https://www.zdnet.fr/pratique/8-12-ou-16-go-de-ram-combien-en-faut-il-vraiment-sur-un-smartphone-505455.htm#xtor=123456",
-      "date": "dim, 11 Oct 2026 14:01:18 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test Mini PC AX9 Max : je doutais qu'il puisse prendre en charge mes tâches d'IA en local, mais il m'a vraiment impressionné",
-      "link": "https://www.zdnet.fr/guide-achat/test-mini-pc-ax9-max-je-doutais-quil-puisse-prendre-en-charge-mes-taches-dia-en-local-mais-il-ma-vraiment-impressionne-505529.htm#xtor=123456",
-      "date": "dim, 11 Oct 2026 13:58:32 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
