@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:22:16.407183+00:00",
+  "updated": "2026-10-13T12:17:02.008494+00:00",
   "news": [
     {
       "title": "Smartphone pratique : là où Google Maps domine Apple Plans",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "NIS2 : la loi attend, les attaquants non",
+      "link": "https://www.silicon.fr/cybersecurite-1371/nis2-la-loi-attend-les-attaquants-non-229628",
+      "date": "Tue, 13 Oct 2026 11:17:51 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Mozilla lance Firefox Enterprise",
+      "link": "https://www.silicon.fr/workspace-1376/mozilla-lance-firefox-enterprise-229615",
+      "date": "Tue, 13 Oct 2026 09:22:44 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Groupe Bel simule La Vache qui rit avec un jumeau numérique",
       "link": "https://www.silicon.fr/data-ia-1372/groupe-bel-simule-la-vache-qui-rit-avec-un-jumeau-numerique-229596",
       "date": "Mon, 12 Oct 2026 14:12:13 +0000",
@@ -77,22 +93,6 @@
       "title": "Cloud Temple fédère Thales, Bull, Vates et le CEA pour un cloud de confiance européen",
       "link": "https://www.silicon.fr/cloud-1370/cloud-temple-federe-thales-bull-vates-et-le-cea-pour-un-cloud-de-confiance-europeen-229594",
       "date": "Mon, 12 Oct 2026 10:10:58 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’expérience GoogleBook, plombée par le logiciel",
-      "link": "https://www.silicon.fr/workspace-1376/googlebook-software-229588",
-      "date": "Mon, 12 Oct 2026 09:12:59 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Keyrus nomme Nicolas Bouffard Directeur Général France",
-      "link": "https://www.silicon.fr/emploi-formation-1373/keyrus-nomme-nicolas-bouffard-directeur-general-france-229590",
-      "date": "Mon, 12 Oct 2026 09:06:07 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
