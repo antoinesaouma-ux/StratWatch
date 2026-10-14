@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T08:07:34.700227+00:00",
+  "updated": "2026-10-14T14:08:12.389372+00:00",
   "news": [
     {
       "title": "Test Geekom A7 : voici des tâches IA que ce mini PC est capable de mener",
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "En Europe, une approche de moins en moins « carriériste » de l’open source",
+      "link": "https://www.silicon.fr/open-source-1375/open-source-europe-contributions-229655",
+      "date": "Wed, 14 Oct 2026 13:27:43 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "OVHcloud prend du galon au sein de la CNCF",
+      "link": "https://www.silicon.fr/cloud-1370/ovhcloud-prend-du-galon-au-sein-de-la-cncf-229660",
+      "date": "Wed, 14 Oct 2026 13:17:17 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Open source et réduction des coûts : l’Europe fait de moins en moins le parallèle",
+      "link": "https://www.silicon.fr/open-source-1375/usage-open-source-europe-229648",
+      "date": "Wed, 14 Oct 2026 10:31:29 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "10 milliards € de potentiel d’économies sur les achats logiciels : d’où vient ce chiffre ?",
       "link": "https://www.silicon.fr/business-1367/achats-logiciels-economies-229645",
       "date": "Tue, 13 Oct 2026 16:40:27 +0000",
@@ -69,30 +93,6 @@
       "title": "NIS2 : la loi attend, les attaquants non",
       "link": "https://www.silicon.fr/cybersecurite-1371/nis2-la-loi-attend-les-attaquants-non-229628",
       "date": "Tue, 13 Oct 2026 11:17:51 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Mozilla lance Firefox Enterprise",
-      "link": "https://www.silicon.fr/workspace-1376/mozilla-lance-firefox-enterprise-229615",
-      "date": "Tue, 13 Oct 2026 09:22:44 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Groupe Bel simule La Vache qui rit avec un jumeau numérique",
-      "link": "https://www.silicon.fr/data-ia-1372/groupe-bel-simule-la-vache-qui-rit-avec-un-jumeau-numerique-229596",
-      "date": "Mon, 12 Oct 2026 14:12:13 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Ces éditeurs qui jouent la carte du « sans IA »",
-      "link": "https://www.silicon.fr/data-ia-1372/logiciels-sans-ia-229599",
-      "date": "Mon, 12 Oct 2026 13:31:41 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
