@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T07:36:55.298153+00:00",
+  "updated": "2026-10-16T12:48:28.283776+00:00",
   "news": [
     {
       "title": "Énergie pratique : trois façons d'utiliser son enceinte Bluetooth en cas de coupure de courant",
@@ -50,22 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "En Europe, une approche de moins en moins « carriériste » de l’open source",
-      "link": "https://www.silicon.fr/open-source-1375/open-source-europe-contributions-229655",
-      "date": "Wed, 14 Oct 2026 13:27:43 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "OVHcloud prend du galon au sein de la CNCF",
-      "link": "https://www.silicon.fr/cloud-1370/ovhcloud-prend-du-galon-au-sein-de-la-cncf-229660",
-      "date": "Wed, 14 Oct 2026 13:17:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Comment le Crédit Agricole amorce sa mue post-quantique",
       "link": "https://www.silicon.fr/cybersecurite-1371/credit-agricole-post-quantique-229675",
       "date": "Thu, 15 Oct 2026 15:25:09 +0000",
@@ -90,9 +74,25 @@
       "sources_count": 3
     },
     {
-      "title": "Sekoia pousse son SOC agentique : ce que SPIE a constaté en le testant",
-      "link": "https://www.silicon.fr/cybersecurite-1371/sekoia-spie-soc-agentique-229665",
-      "date": "Thu, 15 Oct 2026 09:02:08 +0000",
+      "title": "Scaleway étend ses capacités de calcul pour l’IA en Europe du Nord",
+      "link": "https://www.silicon.fr/cloud-1370/scaleway-etend-ses-capacites-de-calcul-pour-lia-en-europe-du-nord-229716",
+      "date": "Fri, 16 Oct 2026 12:30:00 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "« Produire ou subir » : Arthur Mensch défend le développement de modèles d’IA en Europe",
+      "link": "https://www.silicon.fr/data-ia-1372/produire-ou-subir-arthur-mensch-defend-le-developpement-de-modeles-dia-en-europe-229708",
+      "date": "Fri, 16 Oct 2026 11:06:38 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Avec Varonis, Proofpoint élargit son rayon d’action sur la couche data",
+      "link": "https://www.silicon.fr/data-ia-1372/proofpoint-varonis-229705",
+      "date": "Fri, 16 Oct 2026 09:32:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
