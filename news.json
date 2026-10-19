@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T08:13:29.249039+00:00",
+  "updated": "2026-10-19T15:58:59.023648+00:00",
   "news": [
     {
       "title": "Test des Ray-Ban Meta Audio : plus légères, plus endurantes, moins « creepy »",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Hexatrust ouvre les candidatures de son Accélérateur 2027",
+      "link": "https://www.silicon.fr/cybersecurite-1371/hexatrust-ouvre-les-candidatures-de-son-accelerateur-2027-229758",
+      "date": "Mon, 19 Oct 2026 15:36:44 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Cloud, IA, S/4HANA… Les coûts, problème transversal pour les clients SAP",
+      "link": "https://www.silicon.fr/cloud-1370/sap-couts-usf-enquete-229733",
+      "date": "Mon, 19 Oct 2026 09:20:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Futurs du numérique : 5 ans après, le Cigref voit les choses différemment pour l’Europe",
       "link": "https://www.silicon.fr/business-1367/cigref-scenarios-prospectifs-229724",
       "date": "Fri, 16 Oct 2026 17:26:07 +0000",
@@ -77,22 +93,6 @@
       "title": "Scaleway étend ses capacités de calcul pour l’IA en Europe du Nord",
       "link": "https://www.silicon.fr/cloud-1370/scaleway-etend-ses-capacites-de-calcul-pour-lia-en-europe-du-nord-229716",
       "date": "Fri, 16 Oct 2026 12:30:00 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "« Produire ou subir » : Arthur Mensch défend le développement de modèles d’IA en Europe",
-      "link": "https://www.silicon.fr/data-ia-1372/produire-ou-subir-arthur-mensch-defend-le-developpement-de-modeles-dia-en-europe-229708",
-      "date": "Fri, 16 Oct 2026 11:06:38 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Avec Varonis, Proofpoint élargit son rayon d’action sur la couche data",
-      "link": "https://www.silicon.fr/data-ia-1372/proofpoint-varonis-229705",
-      "date": "Fri, 16 Oct 2026 09:32:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
