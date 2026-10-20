@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T10:34:17.280207+00:00",
+  "updated": "2026-10-20T15:25:50.646793+00:00",
   "news": [
     {
       "title": "Test des Ray-Ban Meta Audio : plus légères, plus endurantes, moins « creepy »",
@@ -50,6 +50,38 @@
       "sources_count": 3
     },
     {
+      "title": "Apple veut élargir son marché dans la maison connectée",
+      "link": "https://www.silicon.fr/business-1367/apple-veut-elargir-son-marche-dans-la-maison-connectee-229786",
+      "date": "Tue, 20 Oct 2026 15:18:26 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "En attendant Bleu, qui est allé chez S3NS ?",
+      "link": "https://www.silicon.fr/cloud-1370/s3ns-clients-229762",
+      "date": "Tue, 20 Oct 2026 14:30:50 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Services numériques : comment réinventer les modèles à l’ère de l’IA",
+      "link": "https://www.silicon.fr/data-ia-1372/services-numeriques-reinventer-les-modeles-a-ere-de-ia-229777",
+      "date": "Tue, 20 Oct 2026 12:21:54 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Pour faire de l’IA une coéquipière, mieux vaut une défense personnalisée",
+      "link": "https://www.silicon.fr/cybersecurite-1371/pour-faire-ia-une-coequipiere-mieux-vaut-une-defense-personnalisee-229771",
+      "date": "Tue, 20 Oct 2026 11:15:55 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Plates-formes low-code : l’IA n’a pas tant bousculé la hiérarchie",
       "link": "https://www.silicon.fr/data-ia-1372/low-code-magic-quadrant-2026-229741",
       "date": "Tue, 20 Oct 2026 06:17:50 +0000",
@@ -61,38 +93,6 @@
       "title": "Hexatrust ouvre les candidatures de son Accélérateur 2027",
       "link": "https://www.silicon.fr/cybersecurite-1371/hexatrust-ouvre-les-candidatures-de-son-accelerateur-2027-229758",
       "date": "Mon, 19 Oct 2026 15:36:44 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cloud, IA, S/4HANA… Les coûts, problème transversal pour les clients SAP",
-      "link": "https://www.silicon.fr/cloud-1370/sap-couts-usf-enquete-229733",
-      "date": "Mon, 19 Oct 2026 09:20:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Futurs du numérique : 5 ans après, le Cigref voit les choses différemment pour l’Europe",
-      "link": "https://www.silicon.fr/business-1367/cigref-scenarios-prospectifs-229724",
-      "date": "Fri, 16 Oct 2026 17:26:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Infra, ROI et dette : les trois failles qui menacent l’économie de l’IA",
-      "link": "https://www.silicon.fr/business-1367/infra-roi-et-dette-les-trois-failles-qui-menacent-leconomie-de-lia-229723",
-      "date": "Fri, 16 Oct 2026 15:02:51 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Reconstitution d’emails professionnels : ce que la CNIL autorise et interdit",
-      "link": "https://www.silicon.fr/business-1367/reconstitution-demails-professionnels-ce-que-la-cnil-autorise-et-interdit-229718",
-      "date": "Fri, 16 Oct 2026 13:25:10 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
