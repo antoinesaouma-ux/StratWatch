@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-21T12:31:56.464087+00:00",
+  "updated": "2026-10-21T17:44:33.079194+00:00",
   "news": [
+    {
+      "title": "Wifi pratique : comment transformer votre ancien routeur en répéteur",
+      "link": "https://www.zdnet.fr/pratique/wifi-pratique-comment-transformer-votre-ancien-routeur-en-repeteur-506174.htm#xtor=123456",
+      "date": "mer, 21 Oct 2026 18:00:40 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Wifi pratique : comment remédier aux zones sans couverture à l'aide du câblage électrique",
       "link": "https://www.zdnet.fr/pratique/wifi-pratique-comment-remedier-aux-zones-sans-couverture-a-laide-du-cablage-electrique-506093.htm#xtor=123456",
@@ -42,10 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "ChatGPT Voice m'a aidé à réparer mon PC de jeu endommagé, et à éviter une erreur qui m'aurait coûté cher",
-      "link": "https://www.zdnet.fr/pratique/chatgpt-voice-ma-aide-a-reparer-mon-pc-de-jeu-endommage-et-a-eviter-une-erreur-qui-maurait-coute-cher-506012.htm#xtor=123456",
-      "date": "dim, 18 Oct 2026 11:38:05 +0200",
-      "source": "ZDNet FR",
+      "title": "OpenAI : des agents IA ont désactivé leur système de surveillance",
+      "link": "https://www.silicon.fr/cybersecurite-1371/openai-des-agents-ia-ont-desactive-leur-systeme-de-surveillance-229838",
+      "date": "Wed, 21 Oct 2026 15:45:48 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Biomemory lance la conservation de données sur ADN",
+      "link": "https://www.silicon.fr/data-ia-1372/biomemory-lance-service-conservation-donnees-sur-adn-synthetique-229833",
+      "date": "Wed, 21 Oct 2026 13:46:24 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Workday connecte Claude à ses processus RH et finance",
       "link": "https://www.silicon.fr/workspace-1376/workday-connecte-claude-a-ses-processus-rh-et-finance-229805",
       "date": "Wed, 21 Oct 2026 08:51:15 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "5 ans après l’IPO d’OVHcloud, une trajectoire financière se dessine",
-      "link": "https://www.silicon.fr/uncategorized/5-ans-apres-lipo-dovhcloud-une-trajectoire-financiere-se-dessine-229788",
-      "date": "Wed, 21 Oct 2026 07:40:14 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Apple veut élargir son marché dans la maison connectée",
-      "link": "https://www.silicon.fr/business-1367/apple-veut-elargir-son-marche-dans-la-maison-connectee-229786",
-      "date": "Tue, 20 Oct 2026 15:18:26 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
