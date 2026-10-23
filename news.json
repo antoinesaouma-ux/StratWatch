@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T05:32:17.223559+00:00",
+  "updated": "2026-10-23T10:39:37.097308+00:00",
   "news": [
     {
       "title": "Apple pratique : peut-on utiliser un vieil iPad comme HomeView ?",
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "OpenAI : des agents IA ont désactivé leur système de surveillance",
-      "link": "https://www.silicon.fr/cybersecurite-1371/openai-des-agents-ia-ont-desactive-leur-systeme-de-surveillance-229838",
-      "date": "Wed, 21 Oct 2026 15:45:48 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Cambridge Analytica : Meta écope de 25 milliards $ d’amende au Nouveau-Mexique",
       "link": "https://www.silicon.fr/business-1367/cambridge-analytica-meta-ecope-de-25-milliards-damende-au-nouveau-mexique-229870",
       "date": "Thu, 22 Oct 2026 16:20:08 +0000",
@@ -66,7 +58,7 @@
       "sources_count": 3
     },
     {
-      "title": "PHP2Shell : la situation à J+1",
+      "title": "PHP2Shell : les correctifs arrivent, mais pas au même rythme",
       "link": "https://www.silicon.fr/cybersecurite-1371/php2shell-vulnerabilites-php-229863",
       "date": "Thu, 22 Oct 2026 16:19:07 +0000",
       "source": "Silicon.fr",
@@ -93,6 +85,14 @@
       "title": "Salesforce engloutit son concurrent Braze pour près de 6 milliards $",
       "link": "https://www.silicon.fr/business-1367/salesforce-braze-229848",
       "date": "Thu, 22 Oct 2026 08:20:59 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Agents IA : la surveillance interne d’OpenAI passée au crible",
+      "link": "https://www.silicon.fr/cybersecurite-1371/agents-ia-la-surveillance-interne-dopenai-passee-au-crible-229881",
+      "date": "Fri, 23 Oct 2026 10:20:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
