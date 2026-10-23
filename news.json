@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-23T15:31:14.500099+00:00",
+  "updated": "2026-10-23T19:37:11.683412+00:00",
   "news": [
+    {
+      "title": "Linux pratique : comment vider vos dossiers « corbeille » cachés pour libérer de l'espace",
+      "link": "https://www.zdnet.fr/pratique/linux-pratique-comment-vider-vos-dossiers-corbeille-caches-pour-liberer-de-lespace-506355.htm#xtor=123456",
+      "date": "ven, 23 Oct 2026 17:59:08 +0200",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Apple pratique : peut-on utiliser un vieil iPad comme HomeView ?",
       "link": "https://www.zdnet.fr/pratique/apple-pratique-peut-on-utiliser-un-vieil-ipad-comme-homeview-506218.htm#xtor=123456",
@@ -21,14 +29,6 @@
       "title": "Wifi pratique : comment remédier aux zones sans couverture à l'aide du câblage électrique",
       "link": "https://www.zdnet.fr/pratique/wifi-pratique-comment-remedier-aux-zones-sans-couverture-a-laide-du-cablage-electrique-506093.htm#xtor=123456",
       "date": "mar, 20 Oct 2026 22:00:57 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test Una Watch : une montre connectée modulaire et réparable !",
-      "link": "https://www.zdnet.fr/guide-achat/test-una-watch-une-montre-connectee-modulaire-et-reparable-506130.htm#xtor=123456",
-      "date": "mar, 20 Oct 2026 18:30:43 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -66,9 +66,9 @@
       "sources_count": 3
     },
     {
-      "title": "Bureautique de l’État : la Cour des comptes plaide pour le logiciel libre",
-      "link": "https://www.silicon.fr/workspace-1376/bureautique-etat-la-cour-des-comptes-plaide-pour-le-logiciel-libre-229860",
-      "date": "Thu, 22 Oct 2026 13:38:39 +0000",
+      "title": "Failles PHP : après l’électrochoc, la crainte du « killer PoC »",
+      "link": "https://www.silicon.fr/uncategorized/failles-php-229890",
+      "date": "Fri, 23 Oct 2026 15:34:30 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
