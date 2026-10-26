@@ -1,18 +1,10 @@
 {
-  "updated": "2026-10-26T11:46:59.293327+00:00",
+  "updated": "2026-10-26T17:49:12.864929+00:00",
   "news": [
     {
       "title": "Sonos Ace Ultra vs. Sennheiser Momentum 5 : deux casques haut de gamme concurrents, des différences qui guideront votre choix",
       "link": "https://www.zdnet.fr/guide-achat/sonos-ace-ultra-vs-sennheiser-momentum-5-deux-casques-haut-de-gamme-concurrents-des-differences-qui-guideront-votre-choix-506377.htm#xtor=123456",
       "date": "ven, 23 Oct 2026 22:03:36 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Linux pratique : comment vider vos dossiers « corbeille » cachés pour libérer de l'espace",
-      "link": "https://www.zdnet.fr/pratique/linux-pratique-comment-vider-vos-dossiers-corbeille-caches-pour-liberer-de-lespace-506355.htm#xtor=123456",
-      "date": "ven, 23 Oct 2026 17:59:08 +0200",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -34,6 +26,14 @@
       "sources_count": 3
     },
     {
+      "title": "Google Maps ne vous convainc pas ? Faites de Waze votre application par défaut sur votre Pixel — voici comment faire",
+      "link": "https://www.zdnet.fr/pratique/google-maps-ne-vous-convainc-pas-faites-de-waze-votre-application-par-defaut-sur-votre-pixel-voici-comment-faire-506491.htm#xtor=123456",
+      "date": "lun, 26 Oct 2026 13:02:16 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Un AirTag vous piste ? Comment le repérer et le désactiver, sur iPhone comme sur Android",
       "link": "https://www.zdnet.fr/pratique/un-airtag-vous-piste-comment-le-reperer-et-le-desactiver-sur-iphone-comme-sur-android-506318.htm#xtor=123456",
       "date": "dim, 25 Oct 2026 14:01:03 +0100",
@@ -46,6 +46,22 @@
       "link": "https://www.zdnet.fr/pratique/hdmi-displayport-thunderbolt-quelle-connexion-choisir-pour-vos-ecrans-506295.htm#xtor=123456",
       "date": "dim, 25 Oct 2026 09:01:31 +0100",
       "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "WhatsApp a-t-il laissé traîner des instructions LLM « anti-RGPD » ?",
+      "link": "https://www.silicon.fr/data-ia-1372/whatsapp-instructions-llm-cachees-229939",
+      "date": "Mon, 26 Oct 2026 14:44:18 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Anthropic lance son IPO : croissance record et pertes abyssales",
+      "link": "https://www.silicon.fr/business-1367/anthropic-lance-son-ipo-croissance-record-et-pertes-abyssales-229940",
+      "date": "Mon, 26 Oct 2026 14:20:21 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Failles PHP : après l’électrochoc, la crainte du « killer PoC »",
       "link": "https://www.silicon.fr/uncategorized/failles-php-229890",
       "date": "Fri, 23 Oct 2026 15:34:30 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Transfert de technologie : la France 2e pour les spin-offs",
-      "link": "https://www.silicon.fr/business-1367/transfert-de-technologie-la-france-2e-pour-les-spin-offs-229901",
-      "date": "Fri, 23 Oct 2026 13:43:34 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "RGPD : plus de 5 milliards $ de sanctions en Europe",
-      "link": "https://www.silicon.fr/business-1367/rgpd-plus-de-5-milliards-de-sanctions-en-europe-229897",
-      "date": "Fri, 23 Oct 2026 12:53:07 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
