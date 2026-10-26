@@ -1,14 +1,6 @@
 {
-  "updated": "2026-10-26T17:49:12.864929+00:00",
+  "updated": "2026-10-26T22:01:38.832159+00:00",
   "news": [
-    {
-      "title": "Sonos Ace Ultra vs. Sennheiser Momentum 5 : deux casques haut de gamme concurrents, des différences qui guideront votre choix",
-      "link": "https://www.zdnet.fr/guide-achat/sonos-ace-ultra-vs-sennheiser-momentum-5-deux-casques-haut-de-gamme-concurrents-des-differences-qui-guideront-votre-choix-506377.htm#xtor=123456",
-      "date": "ven, 23 Oct 2026 22:03:36 +0200",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
     {
       "title": "Défragmenter son disque : pourquoi ce réflexe d’hier est (presque) devenu inutile",
       "link": "https://www.zdnet.fr/pratique/defragmenter-son-disque-pourquoi-ce-reflexe-dhier-est-presque-devenu-inutile-506287.htm#xtor=123456",
@@ -18,9 +10,17 @@
       "sources_count": 3
     },
     {
-      "title": "Comment chiffrer vos courriels dans Gmail, Outlook et ailleurs : 6 étapes simples",
-      "link": "https://www.zdnet.fr/pratique/comment-chiffrer-vos-courriels-dans-gmail-outlook-et-ailleurs-6-etapes-simples-506271.htm#xtor=123456",
-      "date": "sam, 24 Oct 2026 09:03:20 +0200",
+      "title": "Test Snap Specs : des lunettes AR à réserver aux early adopters",
+      "link": "https://www.zdnet.fr/guide-achat/test-snap-specs-des-lunettes-ar-a-reserver-aux-early-adopters-506384.htm#xtor=123456",
+      "date": "lun, 26 Oct 2026 21:58:46 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Retour d’expérience : j’ai essayé de faire exploser un traqueur de portefeuille afin de tester sa sécurité",
+      "link": "https://www.zdnet.fr/pratique/retour-dexperience-jai-essaye-de-faire-exploser-un-traqueur-de-portefeuille-afin-de-tester-sa-securite-506413.htm#xtor=123456",
+      "date": "lun, 26 Oct 2026 18:13:19 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
