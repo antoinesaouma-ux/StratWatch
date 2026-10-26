@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T05:32:52.784846+00:00",
+  "updated": "2026-10-26T11:46:59.293327+00:00",
   "news": [
     {
       "title": "Sonos Ace Ultra vs. Sennheiser Momentum 5 : deux casques haut de gamme concurrents, des différences qui guideront votre choix",
@@ -50,17 +50,25 @@
       "sources_count": 3
     },
     {
-      "title": "Cambridge Analytica : Meta écope de 25 milliards $ d’amende au Nouveau-Mexique",
-      "link": "https://www.silicon.fr/business-1367/cambridge-analytica-meta-ecope-de-25-milliards-damende-au-nouveau-mexique-229870",
-      "date": "Thu, 22 Oct 2026 16:20:08 +0000",
+      "title": "Cloudflare secoué, Quad9 dit stop : les DNS sous pression judiciaire en France",
+      "link": "https://www.silicon.fr/business-1367/dns-justice-france-229919",
+      "date": "Mon, 26 Oct 2026 10:44:52 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "PHP2Shell : les correctifs arrivent, mais pas au même rythme",
-      "link": "https://www.silicon.fr/cybersecurite-1371/php2shell-vulnerabilites-php-229863",
-      "date": "Thu, 22 Oct 2026 16:19:07 +0000",
+      "title": "Dette technique et cybersécurité : le coût croissant de l’inaction",
+      "link": "https://www.silicon.fr/cybersecurite-1371/dette-technique-et-cybersecurite-le-cout-croissant-de-linaction-229891",
+      "date": "Mon, 26 Oct 2026 10:03:45 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "PGP2shell : Ondřej Surý, le mainteneur qui a acheminé les correctifs vers Debian et Ubuntu",
+      "link": "https://www.silicon.fr/cybersecurite-1371/pgp2shell-ondrej-sury-le-mainteneur-qui-a-achemine-les-correctifs-vers-debian-et-ubuntu-229923",
+      "date": "Mon, 26 Oct 2026 09:58:46 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "RGPD : plus de 5 milliards $ de sanctions en Europe",
       "link": "https://www.silicon.fr/business-1367/rgpd-plus-de-5-milliards-de-sanctions-en-europe-229897",
       "date": "Fri, 23 Oct 2026 12:53:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Agents IA : la surveillance interne d’OpenAI passée au crible",
-      "link": "https://www.silicon.fr/cybersecurite-1371/agents-ia-la-surveillance-interne-dopenai-passee-au-crible-229881",
-      "date": "Fri, 23 Oct 2026 10:20:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
