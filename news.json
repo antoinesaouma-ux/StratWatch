@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-27T12:58:14.072946+00:00",
+  "updated": "2026-10-27T18:31:52.480146+00:00",
   "news": [
     {
-      "title": "Défragmenter son disque : pourquoi ce réflexe d’hier est (presque) devenu inutile",
-      "link": "https://www.zdnet.fr/pratique/defragmenter-son-disque-pourquoi-ce-reflexe-dhier-est-presque-devenu-inutile-506287.htm#xtor=123456",
-      "date": "sam, 24 Oct 2026 14:03:10 +0200",
+      "title": "Test espresso Pro : un écran portable 15’’ qualitatif et commode",
+      "link": "https://www.zdnet.fr/guide-achat/test-espresso-pro-un-ecran-portable-15-qualitatif-et-commode-506530.htm#xtor=123456",
+      "date": "mar, 27 Oct 2026 18:30:45 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "Intel se renforce sur le logiciel quantique en rachetant Classiq",
+      "link": "https://www.silicon.fr/business-1367/intel-se-renforce-sur-le-logiciel-quantique-en-rachetant-classiq-229965",
+      "date": "Tue, 27 Oct 2026 17:08:40 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Dans l’ombre de PHP2Shell, une autre faille mémoire fait parler",
+      "link": "https://www.silicon.fr/cybersecurite-1371/brotli2shell-faille-brotli-229955",
+      "date": "Tue, 27 Oct 2026 15:14:17 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Microsoft propose un plan de départs volontaires à environ 60 000 salariés",
+      "link": "https://www.silicon.fr/business-1367/microsoft-propose-un-plan-de-departs-volontaires-a-environ-60-000-salaries-229957",
+      "date": "Tue, 27 Oct 2026 15:14:17 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Sécurité des applications web : le constats de terrain du CERT-FR",
       "link": "https://www.silicon.fr/cybersecurite-1371/anssi-cert-fr-retex-applications-web-229950",
       "date": "Tue, 27 Oct 2026 08:56:34 +0000",
@@ -69,30 +93,6 @@
       "title": "Anthropic lance son IPO : croissance record et pertes abyssales",
       "link": "https://www.silicon.fr/business-1367/anthropic-lance-son-ipo-croissance-record-et-pertes-abyssales-229940",
       "date": "Mon, 26 Oct 2026 14:20:21 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cloudflare secoué, Quad9 dit stop : les DNS sous pression judiciaire en France",
-      "link": "https://www.silicon.fr/business-1367/dns-justice-france-229919",
-      "date": "Mon, 26 Oct 2026 10:44:52 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Dette technique et cybersécurité : le coût croissant de l’inaction",
-      "link": "https://www.silicon.fr/cybersecurite-1371/dette-technique-et-cybersecurite-le-cout-croissant-de-linaction-229891",
-      "date": "Mon, 26 Oct 2026 10:03:45 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "PGP2shell : Ondřej Surý, le mainteneur qui a acheminé les correctifs vers Debian et Ubuntu",
-      "link": "https://www.silicon.fr/cybersecurite-1371/pgp2shell-ondrej-sury-le-mainteneur-qui-a-achemine-les-correctifs-vers-debian-et-ubuntu-229923",
-      "date": "Mon, 26 Oct 2026 09:58:46 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
