@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T06:58:33.689221+00:00",
+  "updated": "2026-10-27T12:58:14.072946+00:00",
   "news": [
     {
       "title": "Défragmenter son disque : pourquoi ce réflexe d’hier est (presque) devenu inutile",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Sécurité des applications web : le constats de terrain du CERT-FR",
+      "link": "https://www.silicon.fr/cybersecurite-1371/anssi-cert-fr-retex-applications-web-229950",
+      "date": "Tue, 27 Oct 2026 08:56:34 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "WhatsApp a-t-il laissé traîner des instructions LLM « anti-RGPD » ?",
       "link": "https://www.silicon.fr/data-ia-1372/whatsapp-instructions-llm-cachees-229939",
       "date": "Mon, 26 Oct 2026 14:44:18 +0000",
@@ -85,14 +93,6 @@
       "title": "PGP2shell : Ondřej Surý, le mainteneur qui a acheminé les correctifs vers Debian et Ubuntu",
       "link": "https://www.silicon.fr/cybersecurite-1371/pgp2shell-ondrej-sury-le-mainteneur-qui-a-achemine-les-correctifs-vers-debian-et-ubuntu-229923",
       "date": "Mon, 26 Oct 2026 09:58:46 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Failles PHP : après l’électrochoc, la crainte du « killer PoC »",
-      "link": "https://www.silicon.fr/uncategorized/failles-php-229890",
-      "date": "Fri, 23 Oct 2026 15:34:30 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
