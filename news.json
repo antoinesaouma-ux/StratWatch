@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:41:04.505108+00:00",
+  "updated": "2026-10-28T14:39:06.382616+00:00",
   "news": [
     {
       "title": "Premier avis Brick Night : bien trop cher",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Accusé d’acculer les clouders européens, Broadcom garde le cap",
+      "link": "https://www.silicon.fr/cloud-1370/broadcom-clouders-229976",
+      "date": "Wed, 28 Oct 2026 12:32:32 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "PHP2Shell tourne à la course à l’échalote",
       "link": "https://www.silicon.fr/cybersecurite-1371/php2shell-course-echalote-229964",
       "date": "Wed, 28 Oct 2026 07:19:32 +0000",
@@ -85,14 +93,6 @@
       "title": "Sécurité des applications web : le constats de terrain du CERT-FR",
       "link": "https://www.silicon.fr/cybersecurite-1371/anssi-cert-fr-retex-applications-web-229950",
       "date": "Tue, 27 Oct 2026 08:56:34 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "WhatsApp a-t-il laissé traîner des instructions LLM « anti-RGPD » ?",
-      "link": "https://www.silicon.fr/data-ia-1372/whatsapp-instructions-llm-cachees-229939",
-      "date": "Mon, 26 Oct 2026 14:44:18 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
