@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-28T14:39:06.382616+00:00",
+  "updated": "2026-10-28T19:57:54.887762+00:00",
   "news": [
+    {
+      "title": "Linux pratique : essayez Linksy, il est destiné au partage de fichiers, à la synchronisation du presse-papiers et à l'accès distant",
+      "link": "https://www.zdnet.fr/guide-achat/linux-pratique-essayez-linksy-il-est-destine-au-partage-de-fichiers-a-la-synchronisation-du-presse-papiers-et-a-lacces-distant-506647.htm#xtor=123456",
+      "date": "mer, 28 Oct 2026 18:00:38 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "iOS 27 organise désormais vos onglets Safari ouverts, et vous permet de créer vos propres extensions",
+      "link": "https://www.zdnet.fr/pratique/ios-27-organise-desormais-vos-onglets-safari-ouverts-et-vous-permet-de-creer-vos-propres-extensions-506702.htm#xtor=123456",
+      "date": "mer, 28 Oct 2026 15:59:48 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Premier avis Brick Night : bien trop cher",
       "link": "https://www.zdnet.fr/guide-achat/premier-avis-brick-night-bien-trop-cher-506533.htm#xtor=123456",
@@ -34,18 +50,18 @@
       "sources_count": 3
     },
     {
-      "title": "Google Maps ne vous convainc pas ? Faites de Waze votre application par défaut sur votre Pixel — voici comment faire",
-      "link": "https://www.zdnet.fr/pratique/google-maps-ne-vous-convainc-pas-faites-de-waze-votre-application-par-defaut-sur-votre-pixel-voici-comment-faire-506491.htm#xtor=123456",
-      "date": "lun, 26 Oct 2026 13:02:16 +0100",
-      "source": "ZDNet FR",
+      "title": "Oracle cherche à centraliser le contrôle des accès dans la base de données",
+      "link": "https://www.silicon.fr/data-ia-1372/oracle-deep-trust-data-architecture-229985",
+      "date": "Wed, 28 Oct 2026 17:41:46 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Un AirTag vous piste ? Comment le repérer et le désactiver, sur iPhone comme sur Android",
-      "link": "https://www.zdnet.fr/pratique/un-airtag-vous-piste-comment-le-reperer-et-le-desactiver-sur-iphone-comme-sur-android-506318.htm#xtor=123456",
-      "date": "dim, 25 Oct 2026 14:01:03 +0100",
-      "source": "ZDNet FR",
+      "title": "Oracle accueillera les TPU de Google dès 2027",
+      "link": "https://www.silicon.fr/cloud-1370/oracle-accueillera-les-tpu-de-google-des-2027-229981",
+      "date": "Wed, 28 Oct 2026 15:04:48 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -77,22 +93,6 @@
       "title": "Dans l’ombre de PHP2Shell, une autre faille mémoire fait parler",
       "link": "https://www.silicon.fr/cybersecurite-1371/brotli2shell-faille-brotli-229955",
       "date": "Tue, 27 Oct 2026 15:14:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Microsoft propose un plan de départs volontaires à environ 60 000 salariés",
-      "link": "https://www.silicon.fr/business-1367/microsoft-propose-un-plan-de-departs-volontaires-a-environ-60-000-salaries-229957",
-      "date": "Tue, 27 Oct 2026 15:14:17 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Sécurité des applications web : le constats de terrain du CERT-FR",
-      "link": "https://www.silicon.fr/cybersecurite-1371/anssi-cert-fr-retex-applications-web-229950",
-      "date": "Tue, 27 Oct 2026 08:56:34 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
