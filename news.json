@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:15:11.630007+00:00",
+  "updated": "2026-10-30T09:13:38.414623+00:00",
   "news": [
     {
       "title": "Premier avis Apple MacBook Pro M6 : l’ordinateur portable à recommander à la plupart des gens",
@@ -50,14 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Oracle cherche à centraliser le contrôle des accès dans la base de données",
-      "link": "https://www.silicon.fr/data-ia-1372/oracle-deep-trust-data-architecture-229985",
-      "date": "Wed, 28 Oct 2026 17:41:46 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Orange Cyberdefense intègre une version cyber de Mistral Large 4 à ses offres",
       "link": "https://www.silicon.fr/cybersecurite-1371/orange-cyberdefense-integre-une-version-cyber-de-mistral-large-4-a-ses-offres-230021",
       "date": "Thu, 29 Oct 2026 15:01:43 +0000",
@@ -93,6 +85,14 @@
       "title": "Cohere détecte un comportement non sollicité d’un modèle Qwen d’Alibaba",
       "link": "https://www.silicon.fr/cybersecurite-1371/cohere-detecte-un-comportement-non-sollicite-dun-modele-qwen-dalibaba-229992",
       "date": "Thu, 29 Oct 2026 11:24:18 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Combiné à d’autres failles, PHP2Shell devient plus concret",
+      "link": "https://www.silicon.fr/cybersecurite-1371/php2shell-firewalls-230011",
+      "date": "Fri, 30 Oct 2026 08:57:34 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
