@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-30T16:20:52.778056+00:00",
+  "updated": "2026-10-30T21:13:03.206442+00:00",
   "news": [
+    {
+      "title": "Retour d’expérience Apple Watch : pourquoi je n'utilise pas la fonction cellulaire malgré quatre avantages mis en avant par d'autres",
+      "link": "https://www.zdnet.fr/guide-achat/retour-dexperience-apple-watch-pourquoi-je-nutilise-pas-la-fonction-cellulaire-malgre-quatre-avantages-mis-en-avant-par-dautres-506879.htm#xtor=123456",
+      "date": "ven, 30 Oct 2026 22:00:27 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test Apple iPhone Duo : une œuvre d'art en cours de construction",
+      "link": "https://www.zdnet.fr/guide-achat/test-apple-iphone-duo-une-oeuvre-dart-en-cours-de-construction-506876.htm#xtor=123456",
+      "date": "ven, 30 Oct 2026 18:26:09 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Premier avis Apple MacBook Pro M6 : l’ordinateur portable à recommander à la plupart des gens",
       "link": "https://www.zdnet.fr/guide-achat/premier-avis-apple-macbook-pro-m6-lordinateur-portable-a-recommander-a-la-plupart-des-gens-506644.htm#xtor=123456",
       "date": "mer, 28 Oct 2026 22:00:55 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Linux pratique : essayez Linksy, il est destiné au partage de fichiers, à la synchronisation du presse-papiers et à l'accès distant",
-      "link": "https://www.zdnet.fr/guide-achat/linux-pratique-essayez-linksy-il-est-destine-au-partage-de-fichiers-a-la-synchronisation-du-presse-papiers-et-a-lacces-distant-506647.htm#xtor=123456",
-      "date": "mer, 28 Oct 2026 18:00:38 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "iOS 27 organise désormais vos onglets Safari ouverts, et vous permet de créer vos propres extensions",
-      "link": "https://www.zdnet.fr/pratique/ios-27-organise-desormais-vos-onglets-safari-ouverts-et-vous-permet-de-creer-vos-propres-extensions-506702.htm#xtor=123456",
-      "date": "mer, 28 Oct 2026 15:59:48 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -66,9 +66,9 @@
       "sources_count": 3
     },
     {
-      "title": "Yannis Daubin, nouveau patron de Google Cloud pour l’Europe du sud",
-      "link": "https://www.silicon.fr/emploi-formation-1373/yannis-daubin-nouveau-patron-de-google-cloud-pour-leurope-du-sud-230010",
-      "date": "Thu, 29 Oct 2026 14:18:21 +0000",
+      "title": "GitHub Copilot fusionne finalement routeur et orchestrateur",
+      "link": "https://www.silicon.fr/data-ia-1372/github-copilot-routeur-orchestrateur-230036",
+      "date": "Fri, 30 Oct 2026 16:40:26 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
