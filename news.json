@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T03:11:21.703324+00:00",
+  "updated": "2026-11-02T11:46:29.890597+00:00",
   "news": [
     {
       "title": "Le Framework 12 est le PC idéal pour les passionnés de bricolage, et un vrai bonheur pour les utilisateurs de Linux",
@@ -50,17 +50,25 @@
       "sources_count": 3
     },
     {
-      "title": "Orange Cyberdefense intègre une version cyber de Mistral Large 4 à ses offres",
-      "link": "https://www.silicon.fr/cybersecurite-1371/orange-cyberdefense-integre-une-version-cyber-de-mistral-large-4-a-ses-offres-230021",
-      "date": "Thu, 29 Oct 2026 15:01:43 +0000",
+      "title": "AI Overviews et AI Mode : les éditeurs français portent la bataille à Bruxelles",
+      "link": "https://www.silicon.fr/business-1367/ai-overviews-et-ai-mode-les-editeurs-francais-portent-la-bataille-a-bruxelles-230049",
+      "date": "Mon, 02 Nov 2026 10:26:09 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "AI factories : Dassault Systèmes et Vertiv passent au jumeau virtuel",
-      "link": "https://www.silicon.fr/business-1367/ai-factories-dassault-systemes-et-vertiv-passent-au-jumeau-virtuel-230018",
-      "date": "Thu, 29 Oct 2026 14:40:34 +0000",
+      "title": "SecOps : l’IA exigera plus d’expertise humaine, pas moins",
+      "link": "https://www.silicon.fr/cybersecurite-1371/secops-lia-exigera-plus-dexpertise-humaine-pas-moins-230045",
+      "date": "Mon, 02 Nov 2026 09:57:47 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Comment Qonto a basculé du text-to-SQL à l’analyse agentique",
+      "link": "https://www.silicon.fr/data-ia-1372/qonto-analyse-agentique-230039",
+      "date": "Mon, 02 Nov 2026 09:07:13 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "IBM se signale dans la course au « plan de contrôle agentique »",
       "link": "https://www.silicon.fr/data-ia-1372/ibm-plan-controle-agentique-230027",
       "date": "Fri, 30 Oct 2026 12:51:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Combiné à d’autres failles, PHP2Shell devient plus concret",
-      "link": "https://www.silicon.fr/cybersecurite-1371/php2shell-firewalls-230011",
-      "date": "Fri, 30 Oct 2026 08:57:34 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
