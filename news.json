@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T11:46:29.890597+00:00",
+  "updated": "2026-11-02T20:59:12.716266+00:00",
   "news": [
     {
       "title": "Le Framework 12 est le PC idéal pour les passionnés de bricolage, et un vrai bonheur pour les utilisateurs de Linux",
@@ -10,9 +10,9 @@
       "sources_count": 3
     },
     {
-      "title": "Le nouveau MX Keypad de Logitech est un bon assistant, à condition d’y consacrer du temps",
-      "link": "https://www.zdnet.fr/guide-achat/le-nouveau-mx-keypad-de-logitech-est-un-bon-assistant-a-condition-dy-consacrer-du-temps-506753.htm#xtor=123456",
-      "date": "sam, 31 Oct 2026 14:02:47 +0100",
+      "title": "Informatique pratique : mettez en place votre propre réseau sécurisé d’accès distant gratuit sur vos ordinateurs personnels",
+      "link": "https://www.zdnet.fr/guide-achat/informatique-pratique-mettez-en-place-votre-propre-reseau-securise-dacces-distant-gratuit-sur-vos-ordinateurs-personnels-507066.htm#xtor=123456",
+      "date": "lun, 02 Nov 2026 18:00:47 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "Binance piraté : ce qu’on sait sur l’origine de l’attaque et ses conséquences",
+      "link": "https://www.silicon.fr/cybersecurite-1371/binance-hack-230058",
+      "date": "Mon, 02 Nov 2026 18:29:33 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "France 2030 : un pilotage handicapé par l’outil informatique",
+      "link": "https://www.silicon.fr/business-1367/france-2030-pilotage-outil-informatique-230044",
+      "date": "Mon, 02 Nov 2026 12:33:54 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "« Super Intelligence » : Washington rebaptise l’IA, la tech ne suit pas d’un seul pas",
+      "link": "https://www.silicon.fr/business-1367/super-intelligence-washington-rebaptise-lia-la-tech-ne-suit-pas-dun-seul-pas-230051",
+      "date": "Mon, 02 Nov 2026 12:23:24 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "AI Overviews et AI Mode : les éditeurs français portent la bataille à Bruxelles",
       "link": "https://www.silicon.fr/business-1367/ai-overviews-et-ai-mode-les-editeurs-francais-portent-la-bataille-a-bruxelles-230049",
       "date": "Mon, 02 Nov 2026 10:26:09 +0000",
@@ -69,30 +93,6 @@
       "title": "Comment Qonto a basculé du text-to-SQL à l’analyse agentique",
       "link": "https://www.silicon.fr/data-ia-1372/qonto-analyse-agentique-230039",
       "date": "Mon, 02 Nov 2026 09:07:13 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "GitHub Copilot fusionne finalement routeur et orchestrateur",
-      "link": "https://www.silicon.fr/data-ia-1372/github-copilot-routeur-orchestrateur-230036",
-      "date": "Fri, 30 Oct 2026 16:40:26 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Les députés adoptent une taxe sur la bande passante",
-      "link": "https://www.silicon.fr/business-1367/taxe-bande-passante-230030",
-      "date": "Fri, 30 Oct 2026 14:12:33 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "IBM se signale dans la course au « plan de contrôle agentique »",
-      "link": "https://www.silicon.fr/data-ia-1372/ibm-plan-controle-agentique-230027",
-      "date": "Fri, 30 Oct 2026 12:51:49 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
