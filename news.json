@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T18:08:19.938077+00:00",
+  "updated": "2026-11-03T23:45:17.089840+00:00",
   "news": [
+    {
+      "title": "Web pratique : la nouvelle fonctionnalité « Mini-fenêtre » de Firefox est le rêve de tout utilisateur multitâche",
+      "link": "https://www.zdnet.fr/pratique/web-pratique-la-nouvelle-fonctionnalite-mini-fenetre-de-firefox-est-le-reve-de-tout-utilisateur-multitache-507142.htm#xtor=123456",
+      "date": "mar, 03 Nov 2026 22:00:19 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test StarTech Dual-monitor USB-C Docking Station : ce hub peut être géré à distance",
+      "link": "https://www.zdnet.fr/guide-achat/test-startech-dual-monitor-usb-c-docking-station-ce-hub-peut-etre-gere-a-distance-507139.htm#xtor=123456",
+      "date": "mar, 03 Nov 2026 19:15:21 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Linux pratique : essayez Spotifast, une alternative à Spotify",
       "link": "https://www.zdnet.fr/guide-achat/linux-pratique-essayez-spotifast-une-alternative-a-spotify-507052.htm#xtor=123456",
@@ -29,22 +45,6 @@
       "title": "Les nouveaux Galaxy Buds On de Samsung, de type « clip », présentent un avantage majeur par rapport aux modèles de Sony et de Bose",
       "link": "https://www.zdnet.fr/guide-achat/les-nouveaux-galaxy-buds-on-de-samsung-de-type-clip-presentent-un-avantage-majeur-par-rapport-aux-modeles-de-sony-et-de-bose-506785.htm#xtor=123456",
       "date": "dim, 01 Nov 2026 14:00:07 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment utiliser deux PC sur un seul écran, quelle que soit la marque de vos appareils",
-      "link": "https://www.zdnet.fr/pratique/comment-utiliser-deux-pc-sur-un-seul-ecran-quelle-que-soit-la-marque-de-vos-appareils-507022.htm#xtor=123456",
-      "date": "dim, 01 Nov 2026 11:48:06 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "9 applications Windows gratuites dont je ne peux plus me passer au quotidien ni au travail",
-      "link": "https://www.zdnet.fr/pratique/9-applications-windows-gratuites-dont-je-ne-peux-plus-me-passer-au-quotidien-ni-au-travail-506761.htm#xtor=123456",
-      "date": "dim, 01 Nov 2026 09:01:56 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
