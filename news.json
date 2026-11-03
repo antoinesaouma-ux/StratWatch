@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T10:14:18.933379+00:00",
+  "updated": "2026-11-03T18:08:19.938077+00:00",
   "news": [
     {
       "title": "Linux pratique : essayez Spotifast, une alternative à Spotify",
@@ -50,6 +50,30 @@
       "sources_count": 3
     },
     {
+      "title": "Intranets : avec l’IA, le marché s’ouvre… et se segmente",
+      "link": "https://www.silicon.fr/workspace-1376/magic-quadrant-intranets-2026-230085",
+      "date": "Tue, 03 Nov 2026 16:06:36 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Bull et Schwarz Digits se rapprochent sur un cloud IA souverain",
+      "link": "https://www.silicon.fr/cloud-1370/bull-et-schwarz-digits-se-rapprochent-sur-un-cloud-ia-souverain-230089",
+      "date": "Tue, 03 Nov 2026 14:36:46 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Nouvelle attaque sur la chaîne du froid : une leçon d’hygiène cyber en temps contraint",
+      "link": "https://www.silicon.fr/cybersecurite-1371/attaque-chaine-froid-hygiene-cyber-230062",
+      "date": "Tue, 03 Nov 2026 10:49:52 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Binance piraté : ce qu’on sait sur l’origine de l’attaque et ses conséquences",
       "link": "https://www.silicon.fr/cybersecurite-1371/binance-hack-230058",
       "date": "Mon, 02 Nov 2026 18:29:33 +0000",
@@ -69,30 +93,6 @@
       "title": "« Super Intelligence » : Washington rebaptise l’IA, la tech ne suit pas d’un seul pas",
       "link": "https://www.silicon.fr/business-1367/super-intelligence-washington-rebaptise-lia-la-tech-ne-suit-pas-dun-seul-pas-230051",
       "date": "Mon, 02 Nov 2026 12:23:24 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "AI Overviews et AI Mode : les éditeurs français portent la bataille à Bruxelles",
-      "link": "https://www.silicon.fr/business-1367/ai-overviews-et-ai-mode-les-editeurs-francais-portent-la-bataille-a-bruxelles-230049",
-      "date": "Mon, 02 Nov 2026 10:26:09 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "SecOps : l’IA exigera plus d’expertise humaine, pas moins",
-      "link": "https://www.silicon.fr/cybersecurite-1371/secops-lia-exigera-plus-dexpertise-humaine-pas-moins-230045",
-      "date": "Mon, 02 Nov 2026 09:57:47 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment Qonto a basculé du text-to-SQL à l’analyse agentique",
-      "link": "https://www.silicon.fr/data-ia-1372/qonto-analyse-agentique-230039",
-      "date": "Mon, 02 Nov 2026 09:07:13 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
