@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:45:23.279979+00:00",
+  "updated": "2026-11-04T11:42:08.271192+00:00",
   "news": [
     {
       "title": "Web pratique : la nouvelle fonctionnalité « Mini-fenêtre » de Firefox est le rêve de tout utilisateur multitâche",
@@ -50,6 +50,22 @@
       "sources_count": 3
     },
     {
+      "title": "Crédit Mutuel Arkéa victime d’une cyberattaque : ce que l’on sait du détournement présumé de 118 millions €",
+      "link": "https://www.silicon.fr/cybersecurite-1371/credit-mutuel-arkea-victime-dune-cyberattaque-ce-que-lon-sait-du-detournement-presume-de-118-millions-e-230100",
+      "date": "Wed, 04 Nov 2026 10:31:55 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "LLMJacking : comment les pirates détournent les accès aux modèles d’IA",
+      "link": "https://www.silicon.fr/cybersecurite-1371/llmjacking-comment-les-pirates-detournent-les-acces-aux-modeles-ia-230098",
+      "date": "Wed, 04 Nov 2026 09:53:31 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Intranets : avec l’IA, le marché s’ouvre… et se segmente",
       "link": "https://www.silicon.fr/workspace-1376/magic-quadrant-intranets-2026-230085",
       "date": "Tue, 03 Nov 2026 16:06:36 +0000",
@@ -77,22 +93,6 @@
       "title": "Binance piraté : ce qu’on sait sur l’origine de l’attaque et ses conséquences",
       "link": "https://www.silicon.fr/cybersecurite-1371/binance-hack-230058",
       "date": "Mon, 02 Nov 2026 18:29:33 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "France 2030 : un pilotage handicapé par l’outil informatique",
-      "link": "https://www.silicon.fr/business-1367/france-2030-pilotage-outil-informatique-230044",
-      "date": "Mon, 02 Nov 2026 12:33:54 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "« Super Intelligence » : Washington rebaptise l’IA, la tech ne suit pas d’un seul pas",
-      "link": "https://www.silicon.fr/business-1367/super-intelligence-washington-rebaptise-lia-la-tech-ne-suit-pas-dun-seul-pas-230051",
-      "date": "Mon, 02 Nov 2026 12:23:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
