@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-04T11:42:08.271192+00:00",
+  "updated": "2026-11-04T19:00:10.712844+00:00",
   "news": [
+    {
+      "title": "Linux pratique : essayez cette distribution si votre ordinateur est peu puissant (genre 3 Go)",
+      "link": "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-si-votre-ordinateur-est-peu-puissant-genre-3-go-507229.htm#xtor=123456",
+      "date": "mer, 04 Nov 2026 18:30:51 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Web pratique : la nouvelle fonctionnalité « Mini-fenêtre » de Firefox est le rêve de tout utilisateur multitâche",
       "link": "https://www.zdnet.fr/pratique/web-pratique-la-nouvelle-fonctionnalite-mini-fenetre-de-firefox-est-le-reve-de-tout-utilisateur-multitache-507142.htm#xtor=123456",
@@ -42,10 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Les nouveaux Galaxy Buds On de Samsung, de type « clip », présentent un avantage majeur par rapport aux modèles de Sony et de Bose",
-      "link": "https://www.zdnet.fr/guide-achat/les-nouveaux-galaxy-buds-on-de-samsung-de-type-clip-presentent-un-avantage-majeur-par-rapport-aux-modeles-de-sony-et-de-bose-506785.htm#xtor=123456",
-      "date": "dim, 01 Nov 2026 14:00:07 +0100",
-      "source": "ZDNet FR",
+      "title": "Malvertising et job phishing, à la source du hack de Binance",
+      "link": "https://www.silicon.fr/uncategorized/binance-malvertising-job-phishing-230105",
+      "date": "Wed, 04 Nov 2026 14:12:59 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "Nouvelle attaque sur la chaîne du froid : une leçon d’hygiène cyber en temps contraint",
       "link": "https://www.silicon.fr/cybersecurite-1371/attaque-chaine-froid-hygiene-cyber-230062",
       "date": "Tue, 03 Nov 2026 10:49:52 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Binance piraté : ce qu’on sait sur l’origine de l’attaque et ses conséquences",
-      "link": "https://www.silicon.fr/cybersecurite-1371/binance-hack-230058",
-      "date": "Mon, 02 Nov 2026 18:29:33 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
