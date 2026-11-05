@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-04T19:00:10.712844+00:00",
+  "updated": "2026-11-05T00:11:22.634763+00:00",
   "news": [
+    {
+      "title": "Test Viture Pro 2 : des lunettes XR qui devraient satisfaire un large public",
+      "link": "https://www.zdnet.fr/guide-achat/test-viture-pro-2-des-lunettes-xr-qui-devraient-satisfaire-un-large-public-507202.htm#xtor=123456",
+      "date": "mer, 04 Nov 2026 22:00:47 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Linux pratique : essayez cette distribution si votre ordinateur est peu puissant (genre 3 Go)",
       "link": "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-si-votre-ordinateur-est-peu-puissant-genre-3-go-507229.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "Informatique pratique : mettez en place votre propre réseau sécurisé d’accès distant gratuit sur vos ordinateurs personnels",
       "link": "https://www.zdnet.fr/guide-achat/informatique-pratique-mettez-en-place-votre-propre-reseau-securise-dacces-distant-gratuit-sur-vos-ordinateurs-personnels-507066.htm#xtor=123456",
       "date": "lun, 02 Nov 2026 18:00:47 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Le Grand Test RTX Spark de Lenovo : j'ai soumis cette machine à un test de programmation IA complètement dingue, et elle l'a réussi",
-      "link": "https://www.zdnet.fr/guide-achat/le-grand-test-rtx-spark-de-lenovo-jai-soumis-cette-machine-a-un-test-de-programmation-ia-completement-dingue-et-il-la-reussi-507025.htm#xtor=123456",
-      "date": "dim, 01 Nov 2026 15:00:09 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
