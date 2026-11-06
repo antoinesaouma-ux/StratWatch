@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-06T08:42:02.381689+00:00",
+  "updated": "2026-11-06T16:27:09.247311+00:00",
   "news": [
+    {
+      "title": "J'ai testé l'ordinateur portable RTX Spark de HP et j'ai cramé 50 millions de jetons d'IA, et cela ne m'a rien coûté",
+      "link": "https://www.zdnet.fr/guide-achat/jai-teste-lordinateur-portable-rtx-spark-de-hp-et-jai-crame-50-millions-de-jetons-dia-et-cela-ne-ma-rien-coute-507474.htm#xtor=123456",
+      "date": "ven, 06 Nov 2026 14:11:18 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test Viture Pro 2 : des lunettes XR qui devraient satisfaire un large public",
       "link": "https://www.zdnet.fr/guide-achat/test-viture-pro-2-des-lunettes-xr-qui-devraient-satisfaire-un-large-public-507202.htm#xtor=123456",
@@ -21,14 +29,6 @@
       "title": "Web pratique : la nouvelle fonctionnalité « Mini-fenêtre » de Firefox est le rêve de tout utilisateur multitâche",
       "link": "https://www.zdnet.fr/pratique/web-pratique-la-nouvelle-fonctionnalite-mini-fenetre-de-firefox-est-le-reve-de-tout-utilisateur-multitache-507142.htm#xtor=123456",
       "date": "mar, 03 Nov 2026 22:00:19 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test StarTech Dual-monitor USB-C Docking Station : ce hub peut être géré à distance",
-      "link": "https://www.zdnet.fr/guide-achat/test-startech-dual-monitor-usb-c-docking-station-ce-hub-peut-etre-gere-a-distance-507139.htm#xtor=123456",
-      "date": "mar, 03 Nov 2026 19:15:21 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -74,25 +74,25 @@
       "sources_count": 3
     },
     {
-      "title": "IA, compétences et compétitivité : ce que l’expérience irlandaise dit de l’avenir du travail en Europe",
-      "link": "https://www.silicon.fr/emploi-formation-1373/ia-competences-et-competitivite-ce-que-lexperience-irlandaise-dit-de-lavenir-du-travail-en-europe-230119",
-      "date": "Thu, 05 Nov 2026 12:11:39 +0000",
+      "title": "IA : l’OCDE pointe une adoption à deux vitesses",
+      "link": "https://www.silicon.fr/business-1367/ia-locde-pointe-une-adoption-a-deux-vitesses-230156",
+      "date": "Fri, 06 Nov 2026 14:11:45 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "SiPearl, cofondateur de la European Fabless Semiconductor Association",
-      "link": "https://www.silicon.fr/business-1367/sipearl-cofondateur-de-la-european-fabless-semiconductor-association-230115",
-      "date": "Thu, 05 Nov 2026 11:45:48 +0000",
+      "title": "Salesforce se renforce sur l’IA agentique vocale avec Cresta",
+      "link": "https://www.silicon.fr/business-1367/salesforce-se-renforce-sur-lia-agentique-vocale-avec-cresta-230153",
+      "date": "Fri, 06 Nov 2026 13:37:21 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Les Campus Cyber adoptent une charte commune",
-      "link": "https://www.silicon.fr/cybersecurite-1371/les-campus-cyber-adoptent-une-charte-commune-230113",
-      "date": "Thu, 05 Nov 2026 11:11:53 +0000",
+      "title": "Anthropic tente de certifier mathématiquement l’inférence",
+      "link": "https://www.silicon.fr/data-ia-1372/anthropic-flashprove-230148",
+      "date": "Fri, 06 Nov 2026 13:00:59 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
