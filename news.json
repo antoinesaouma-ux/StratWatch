@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T16:27:09.247311+00:00",
+  "updated": "2026-11-06T21:50:52.608222+00:00",
   "news": [
+    {
+      "title": "iPhone pratique : trois fonctionnalités toutes simples qui vous facilitent la vie",
+      "link": "https://www.zdnet.fr/pratique/iphone-pratique-trois-fonctionnalites-toutes-simples-qui-vous-facilitent-la-vie-507418.htm#xtor=123456",
+      "date": "ven, 06 Nov 2026 22:00:39 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test Acer Googlebook 14 : il reste encore du travail...",
+      "link": "https://www.zdnet.fr/guide-achat/test-acer-googlebook-14-il-reste-encore-du-travail-507415.htm#xtor=123456",
+      "date": "ven, 06 Nov 2026 18:33:14 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "J'ai testé l'ordinateur portable RTX Spark de HP et j'ai cramé 50 millions de jetons d'IA, et cela ne m'a rien coûté",
       "link": "https://www.zdnet.fr/guide-achat/jai-teste-lordinateur-portable-rtx-spark-de-hp-et-jai-crame-50-millions-de-jetons-dia-et-cela-ne-ma-rien-coute-507474.htm#xtor=123456",
@@ -13,22 +29,6 @@
       "title": "Test Viture Pro 2 : des lunettes XR qui devraient satisfaire un large public",
       "link": "https://www.zdnet.fr/guide-achat/test-viture-pro-2-des-lunettes-xr-qui-devraient-satisfaire-un-large-public-507202.htm#xtor=123456",
       "date": "mer, 04 Nov 2026 22:00:47 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Linux pratique : essayez cette distribution si votre ordinateur est peu puissant (genre 3 Go)",
-      "link": "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-si-votre-ordinateur-est-peu-puissant-genre-3-go-507229.htm#xtor=123456",
-      "date": "mer, 04 Nov 2026 18:30:51 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Web pratique : la nouvelle fonctionnalité « Mini-fenêtre » de Firefox est le rêve de tout utilisateur multitâche",
-      "link": "https://www.zdnet.fr/pratique/web-pratique-la-nouvelle-fonctionnalite-mini-fenetre-de-firefox-est-le-reve-de-tout-utilisateur-multitache-507142.htm#xtor=123456",
-      "date": "mar, 03 Nov 2026 22:00:19 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -66,9 +66,9 @@
       "sources_count": 3
     },
     {
-      "title": "NIS 2 , le projet de loi de retour le 9 novembre",
-      "link": "https://www.silicon.fr/cybersecurite-1371/nis-2-le-projet-de-loi-de-retour-le-9-novembre-230126",
-      "date": "Thu, 05 Nov 2026 13:01:30 +0000",
+      "title": "VMware revoit ses plans en Europe et au-delà",
+      "link": "https://www.silicon.fr/cloud-1370/vmware-vsphere-express-standard-enterprise-plus-230149",
+      "date": "Fri, 06 Nov 2026 17:11:10 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
