@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T08:00:22.174273+00:00",
+  "updated": "2026-11-10T16:39:14.167632+00:00",
   "news": [
     {
       "title": "Apple Watch pratique : comment l'utiliser pour identifier rapidement une chanson et sans même ouvrir Shazam",
@@ -50,6 +50,38 @@
       "sources_count": 3
     },
     {
+      "title": "Anthropic vise jusqu’à 1 400 milliards $ de valorisation à Wall Street",
+      "link": "https://www.silicon.fr/business-1367/anthropic-vise-jusqua-1-400-milliards-de-valorisation-a-wall-street-230210",
+      "date": "Tue, 10 Nov 2026 13:52:59 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Atos rejoint MAESTRO : la robotique européenne mise sur l’open source et l’IA physique",
+      "link": "https://www.silicon.fr/data-ia-1372/atos-rejoint-maestro-la-robotique-europeenne-mise-sur-lopen-source-et-lia-physique-230208",
+      "date": "Tue, 10 Nov 2026 11:34:21 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Singapour, nouveau centre de gravité fiscal d’Apple",
+      "link": "https://www.silicon.fr/business-1367/singapour-nouveau-centre-de-gravite-fiscal-dapple-230205",
+      "date": "Tue, 10 Nov 2026 11:08:56 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Goldman Sachs recule sur le vibe coding pour les métiers",
+      "link": "https://www.silicon.fr/data-ia-1372/goldman-sachs-vibe-coding-230201",
+      "date": "Tue, 10 Nov 2026 08:07:47 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "L’UE met (doucement) en action sa réserve de cybersécurité",
       "link": "https://www.silicon.fr/cybersecurite-1371/reserve-cybersecurite-ue-mise-action-230175",
       "date": "Mon, 09 Nov 2026 15:41:45 +0000",
@@ -61,38 +93,6 @@
       "title": "Revolut affirme diviser par dix sa facture d’inférence IA avec des modèles auto-hébergés",
       "link": "https://www.silicon.fr/data-ia-1372/revolut-affirme-diviser-par-dix-sa-facture-dinference-ia-avec-des-modeles-auto-heberges-230187",
       "date": "Mon, 09 Nov 2026 13:43:00 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Logiciels : l’IA redistribue les cartes du marché européen, sans condamner le SaaS",
-      "link": "https://www.silicon.fr/business-1367/logiciels-lia-redistribue-les-cartes-du-marche-europeen-sans-condamner-le-saas-230183",
-      "date": "Mon, 09 Nov 2026 12:34:38 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Dropbox mise 350 millions $ sur Tigris Data",
-      "link": "https://www.silicon.fr/business-1367/dropbox-mise-350-millions-sur-tigris-data-230180",
-      "date": "Mon, 09 Nov 2026 11:02:35 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’UE poursuit IBM, Atos et Leonardo pour les retards du système de contrôle aux frontières EES",
-      "link": "https://www.silicon.fr/business-1367/lue-poursuit-ibm-atos-et-leonardo-pour-les-retards-du-systeme-de-controle-aux-frontieres-ees-230176",
-      "date": "Mon, 09 Nov 2026 10:41:07 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic, Cursor, GitHub, OpenAI : 4 approches pour passer Git à l’échelle agentique",
-      "link": "https://www.silicon.fr/data-ia-1372/anthropic-cursor-github-openai-repensent-git-agentique-230170",
-      "date": "Mon, 09 Nov 2026 10:07:54 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
