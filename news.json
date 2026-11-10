@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T16:39:14.167632+00:00",
+  "updated": "2026-11-10T22:00:20.557173+00:00",
   "news": [
+    {
+      "title": "Test Amazon Echo Dot (2026) : plus cher mais meilleur",
+      "link": "https://www.zdnet.fr/guide-achat/test-amazon-echo-dot-2026-plus-cher-mais-meilleur-507634.htm#xtor=123456",
+      "date": "mar, 10 Nov 2026 22:00:22 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Énergie pratique : préparez votre alimentation électrique pour faire face aux pires tempêtes hivernales",
+      "link": "https://www.zdnet.fr/pratique/energie-pratique-preparez-votre-alimentation-electrique-pour-faire-face-aux-pires-tempetes-hivernales-507628.htm#xtor=123456",
+      "date": "mar, 10 Nov 2026 18:00:23 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Apple Watch pratique : comment l'utiliser pour identifier rapidement une chanson et sans même ouvrir Shazam",
       "link": "https://www.zdnet.fr/pratique/apple-watch-pratique-comment-lutiliser-pour-identifier-rapidement-une-chanson-et-sans-meme-ouvrir-shazam-507517.htm#xtor=123456",
@@ -34,18 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "6 réglages par défaut du Pixel 11 que j'ai modifiés et qui ont fait une grande différence",
-      "link": "https://www.zdnet.fr/pratique/6-reglages-par-defaut-du-pixel-11-que-jai-modifies-et-qui-ont-fait-une-grande-difference-507500.htm#xtor=123456",
-      "date": "dim, 08 Nov 2026 11:37:09 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Les caméras thermiques haut de gamme valent-elles le coup ? J’ai testé un modèle à 350 euros avec mon iPhone pour le savoir",
-      "link": "https://www.zdnet.fr/guide-achat/les-cameras-thermiques-haut-de-gamme-valent-elles-le-coup-jai-teste-un-modele-a-350-euros-avec-mon-iphone-pour-le-savoir-507338.htm#xtor=123456",
-      "date": "dim, 08 Nov 2026 09:03:18 +0100",
-      "source": "ZDNet FR",
+      "title": "IA et droit d’auteur : pourquoi le ton monte en France",
+      "link": "https://www.silicon.fr/data-ia-1372/proposition-loi-darcos-arthur-mensch-230222",
+      "date": "Tue, 10 Nov 2026 18:11:06 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "L’UE met (doucement) en action sa réserve de cybersécurité",
       "link": "https://www.silicon.fr/cybersecurite-1371/reserve-cybersecurite-ue-mise-action-230175",
       "date": "Mon, 09 Nov 2026 15:41:45 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Revolut affirme diviser par dix sa facture d’inférence IA avec des modèles auto-hébergés",
-      "link": "https://www.silicon.fr/data-ia-1372/revolut-affirme-diviser-par-dix-sa-facture-dinference-ia-avec-des-modeles-auto-heberges-230187",
-      "date": "Mon, 09 Nov 2026 13:43:00 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
