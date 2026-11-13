@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-13T10:15:38.618229+00:00",
+  "updated": "2026-11-13T18:15:01.930259+00:00",
   "news": [
+    {
+      "title": "Test Google Pixel Tag : prêt à faire de l'ombre à l'AirTag",
+      "link": "https://www.zdnet.fr/guide-achat/test-google-pixel-tag-pret-a-faire-de-lombre-a-lairtag-507813.htm#xtor=123456",
+      "date": "ven, 13 Nov 2026 17:57:51 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Sony WH-1000XM6 vs. Sonos Ace Ultra : quelles différences entre ces casques haut de gamme ?",
       "link": "https://www.zdnet.fr/guide-achat/sony-wh-1000xm6-vs-sonos-ace-ultra-quelles-differences-entre-ces-casques-haut-de-gamme-507749.htm#xtor=123456",
@@ -26,14 +34,6 @@
       "sources_count": 3
     },
     {
-      "title": "Énergie pratique : préparez votre alimentation électrique pour faire face aux pires tempêtes hivernales",
-      "link": "https://www.zdnet.fr/pratique/energie-pratique-preparez-votre-alimentation-electrique-pour-faire-face-aux-pires-tempetes-hivernales-507628.htm#xtor=123456",
-      "date": "mar, 10 Nov 2026 18:00:23 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Maison connectée : Home Assistant Connect AUX-2 remet vos anciens appareils dans le jeu",
       "link": "https://www.zdnet.fr/guide-achat/maison-connectee-home-assistant-connect-aux-2-remet-vos-anciens-appareils-dans-le-jeu-507810.htm#xtor=123456",
       "date": "jeu, 12 Nov 2026 22:02:18 +0100",
@@ -50,33 +50,41 @@
       "sources_count": 3
     },
     {
-      "title": "Claude et les SaaS : Anthropic entretient la promesse de « complémentarité »",
-      "link": "https://www.silicon.fr/workspace-1376/anthropic-claude-saas-230245",
-      "date": "Thu, 12 Nov 2026 16:03:09 +0000",
+      "title": "Sauvegarde Windows : l’option réseau local abandonnée au profit de OneDrive",
+      "link": "https://www.silicon.fr/workspace-1376/sauvegarde-windows-onedrive-230341",
+      "date": "Fri, 13 Nov 2026 17:21:23 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Nvidia : Jensen Huang a démissionné",
-      "link": "https://www.silicon.fr/business-1367/nvidia-jensen-huang-a-demissionne-230247",
-      "date": "Thu, 12 Nov 2026 15:33:51 +0000",
+      "title": "De quoi se compose le Socle interministériel d’IA générative ?",
+      "link": "https://www.silicon.fr/data-ia-1372/socle-interministeriel-ia-generative-230321",
+      "date": "Fri, 13 Nov 2026 16:12:24 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "NIS 2 : la situation se débloque… sur un statu quo",
-      "link": "https://www.silicon.fr/cybersecurite-1371/projet-loi-resilience-nis-2-230228",
-      "date": "Thu, 12 Nov 2026 12:00:48 +0000",
+      "title": "Nvidia : Jensen Huang, anatomie d’une chute",
+      "link": "https://www.silicon.fr/business-1367/nvidia-jensen-huang-anatomie-dune-chute-230320",
+      "date": "Fri, 13 Nov 2026 15:26:57 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Nvidia : les trois failles qui fragilisent Jensen Huang",
-      "link": "https://www.silicon.fr/business-1367/nvidia-les-trois-failles-qui-fragilisent-jensen-huang-230236",
-      "date": "Thu, 12 Nov 2026 11:25:42 +0000",
+      "title": "Deux mois après Jev, le paysage fragmenté des modèles de décision",
+      "link": "https://www.silicon.fr/data-ia-1372/jev-modeles-decision-230261",
+      "date": "Fri, 13 Nov 2026 11:24:06 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Crédit Mutuel Arkéa : le président décrit une cyberattaque inédite",
+      "link": "https://www.silicon.fr/cybersecurite-1371/credit-mutuel-arkea-le-president-decrit-une-cyberattaque-inedite-230275",
+      "date": "Fri, 13 Nov 2026 11:06:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -85,14 +93,6 @@
       "title": "Panne Microsoft 365 : le risque caché derrière l’intégration des services",
       "link": "https://www.silicon.fr/workspace-1376/panne-microsoft-365-le-risque-cache-derriere-lintegration-des-services-230272",
       "date": "Fri, 13 Nov 2026 10:06:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Microsoft 365 en panne : la France reste touchée",
-      "link": "https://www.silicon.fr/workspace-1376/microsoft-365-en-panne-la-france-reste-touchee-230257",
-      "date": "Fri, 13 Nov 2026 09:48:14 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
