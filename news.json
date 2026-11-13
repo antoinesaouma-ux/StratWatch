@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:14:59.339371+00:00",
+  "updated": "2026-11-13T10:15:38.618229+00:00",
   "news": [
     {
       "title": "Sony WH-1000XM6 vs. Sonos Ace Ultra : quelles différences entre ces casques haut de gamme ?",
@@ -50,22 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "IA et droit d’auteur : pourquoi le ton monte en France",
-      "link": "https://www.silicon.fr/data-ia-1372/proposition-loi-darcos-arthur-mensch-230222",
-      "date": "Tue, 10 Nov 2026 18:11:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic vise jusqu’à 1 400 milliards $ de valorisation à Wall Street",
-      "link": "https://www.silicon.fr/business-1367/anthropic-vise-jusqua-1-400-milliards-de-valorisation-a-wall-street-230210",
-      "date": "Tue, 10 Nov 2026 13:52:59 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Claude et les SaaS : Anthropic entretient la promesse de « complémentarité »",
       "link": "https://www.silicon.fr/workspace-1376/anthropic-claude-saas-230245",
       "date": "Thu, 12 Nov 2026 16:03:09 +0000",
@@ -93,6 +77,22 @@
       "title": "Nvidia : les trois failles qui fragilisent Jensen Huang",
       "link": "https://www.silicon.fr/business-1367/nvidia-les-trois-failles-qui-fragilisent-jensen-huang-230236",
       "date": "Thu, 12 Nov 2026 11:25:42 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Panne Microsoft 365 : le risque caché derrière l’intégration des services",
+      "link": "https://www.silicon.fr/workspace-1376/panne-microsoft-365-le-risque-cache-derriere-lintegration-des-services-230272",
+      "date": "Fri, 13 Nov 2026 10:06:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Microsoft 365 en panne : la France reste touchée",
+      "link": "https://www.silicon.fr/workspace-1376/microsoft-365-en-panne-la-france-reste-touchee-230257",
+      "date": "Fri, 13 Nov 2026 09:48:14 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
