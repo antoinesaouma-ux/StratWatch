@@ -1,18 +1,10 @@
 {
-  "updated": "2026-11-16T10:19:27.383846+00:00",
+  "updated": "2026-11-16T20:43:35.040695+00:00",
   "news": [
     {
       "title": "IA pratique : laissez Gemini prendre le contrôle de votre boîte e-mails pendant quelques jours et voyez le résultat",
       "link": "https://www.zdnet.fr/pratique/ia-pratique-laissez-gemini-prendre-le-controle-de-votre-boite-e-mails-pendant-quelques-jours-et-voyez-le-resultat-507837.htm#xtor=123456",
       "date": "ven, 13 Nov 2026 22:12:56 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test Google Pixel Tag : prêt à faire de l'ombre à l'AirTag",
-      "link": "https://www.zdnet.fr/guide-achat/test-google-pixel-tag-pret-a-faire-de-lombre-a-lairtag-507813.htm#xtor=123456",
-      "date": "ven, 13 Nov 2026 17:57:51 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -34,6 +26,14 @@
       "sources_count": 3
     },
     {
+      "title": "Android pratique : utilisez le mode réparation ou maintenance… mais avec certains smartphones",
+      "link": "https://www.zdnet.fr/pratique/android-pratique-utilisez-le-mode-reparation-ou-maintenance-mais-avec-certains-smartphones-507846.htm#xtor=123456",
+      "date": "lun, 16 Nov 2026 18:06:54 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Coder avec une IA locale gratuite : Qwen, Ollama et OpenCode peuvent-ils remplacer Claude Code ?",
       "link": "https://www.zdnet.fr/pratique/coder-avec-une-ia-locale-gratuite-qwen-ollama-et-opencode-peuvent-ils-remplacer-claude-code-507785.htm#xtor=123456",
       "date": "dim, 15 Nov 2026 14:01:57 +0100",
@@ -50,49 +50,49 @@
       "sources_count": 3
     },
     {
+      "title": "Anthropic ouvre (un peu) ses services à l’autohébergement",
+      "link": "https://www.silicon.fr/data-ia-1372/anthropic-claude-managed-agents-autoheberge-230402",
+      "date": "Mon, 16 Nov 2026 17:02:36 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "L’IA pousse Project Zero à remodeler sa politique de divulgation de vulnérabilités",
+      "link": "https://www.silicon.fr/cybersecurite-1371/project-zero-politique-divulgation-2026-230384",
+      "date": "Mon, 16 Nov 2026 14:32:51 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Emploi IT 2027 : la cybersécurité en tête des priorités",
+      "link": "https://www.silicon.fr/emploi-formation-1373/emploi-it-2027-la-cybersecurite-en-tete-des-priorites-230371",
+      "date": "Mon, 16 Nov 2026 12:43:54 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "En France aussi, l’aviation civile peine à moderniser ses systèmes",
+      "link": "https://www.silicon.fr/business-1367/aviation-civile-francaise-obsolescence-systemes-230351",
+      "date": "Mon, 16 Nov 2026 10:41:20 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Guillaume André prend du galon chez Nutanix",
+      "link": "https://www.silicon.fr/emploi-formation-1373/guillaume-andre-prend-du-galon-chez-nutanix-230374",
+      "date": "Mon, 16 Nov 2026 10:35:28 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Maileva : 22 millions de personnes concernées par une fuite de données",
       "link": "https://www.silicon.fr/cybersecurite-1371/maileva-22-millions-de-personnes-concernees-par-une-fuite-de-donnees-230363",
       "date": "Mon, 16 Nov 2026 10:01:41 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Sauvegarde Windows : l’option réseau local abandonnée au profit de OneDrive",
-      "link": "https://www.silicon.fr/workspace-1376/sauvegarde-windows-onedrive-230341",
-      "date": "Fri, 13 Nov 2026 17:21:23 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "De quoi se compose le Socle interministériel d’IA générative ?",
-      "link": "https://www.silicon.fr/data-ia-1372/socle-interministeriel-ia-generative-230321",
-      "date": "Fri, 13 Nov 2026 16:12:24 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Nvidia : Jensen Huang, anatomie d’une chute",
-      "link": "https://www.silicon.fr/business-1367/nvidia-jensen-huang-anatomie-dune-chute-230320",
-      "date": "Fri, 13 Nov 2026 15:26:57 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Deux mois après Jev, le paysage fragmenté des modèles de décision",
-      "link": "https://www.silicon.fr/data-ia-1372/jev-modeles-decision-230261",
-      "date": "Fri, 13 Nov 2026 11:24:06 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Crédit Mutuel Arkéa : le président décrit une cyberattaque inédite",
-      "link": "https://www.silicon.fr/cybersecurite-1371/credit-mutuel-arkea-le-president-decrit-une-cyberattaque-inedite-230275",
-      "date": "Fri, 13 Nov 2026 11:06:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
