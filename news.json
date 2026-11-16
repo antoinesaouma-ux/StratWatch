@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T02:27:51.909978+00:00",
+  "updated": "2026-11-16T10:19:27.383846+00:00",
   "news": [
     {
       "title": "IA pratique : laissez Gemini prendre le contrôle de votre boîte e-mails pendant quelques jours et voyez le résultat",
@@ -50,6 +50,14 @@
       "sources_count": 3
     },
     {
+      "title": "Maileva : 22 millions de personnes concernées par une fuite de données",
+      "link": "https://www.silicon.fr/cybersecurite-1371/maileva-22-millions-de-personnes-concernees-par-une-fuite-de-donnees-230363",
+      "date": "Mon, 16 Nov 2026 10:01:41 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Sauvegarde Windows : l’option réseau local abandonnée au profit de OneDrive",
       "link": "https://www.silicon.fr/workspace-1376/sauvegarde-windows-onedrive-230341",
       "date": "Fri, 13 Nov 2026 17:21:23 +0000",
@@ -85,14 +93,6 @@
       "title": "Crédit Mutuel Arkéa : le président décrit une cyberattaque inédite",
       "link": "https://www.silicon.fr/cybersecurite-1371/credit-mutuel-arkea-le-president-decrit-une-cyberattaque-inedite-230275",
       "date": "Fri, 13 Nov 2026 11:06:39 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Panne Microsoft 365 : le risque caché derrière l’intégration des services",
-      "link": "https://www.silicon.fr/workspace-1376/panne-microsoft-365-le-risque-cache-derriere-lintegration-des-services-230272",
-      "date": "Fri, 13 Nov 2026 10:06:49 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
