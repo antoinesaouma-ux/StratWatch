@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:17:03.754327+00:00",
+  "updated": "2026-11-17T12:36:13.441502+00:00",
   "news": [
     {
       "title": "Kindle : les réglages d’espacement qui rendent la lecture plus confortable",
@@ -50,6 +50,38 @@
       "sources_count": 3
     },
     {
+      "title": "Du PC au supercalculateur, le stockage hybride reprend des couleurs",
+      "link": "https://www.silicon.fr/data-ia-1372/stockage-hybride-pc-supercalculateur-230425",
+      "date": "Tue, 17 Nov 2026 11:04:32 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "La Californie attaque OpenAI après l’incident Hugging Face",
+      "link": "https://www.silicon.fr/cybersecurite-1371/la-californie-attaque-openai-apres-lincident-hugging-face-230444",
+      "date": "Tue, 17 Nov 2026 10:57:48 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Qluster lève 4,7 millions € pour un ordinateur quantique photonique",
+      "link": "https://www.silicon.fr/business-1367/qluster-leve-47-millions-e-pour-un-ordinateur-quantique-photonique-230429",
+      "date": "Tue, 17 Nov 2026 10:01:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "LVMH médias met ChatGPT dans les rédactions des Echos et du Parisien",
+      "link": "https://www.silicon.fr/business-1367/lvmh-medias-met-chatgpt-dans-les-redactions-des-echos-et-du-parisien-230424",
+      "date": "Tue, 17 Nov 2026 09:19:29 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Anthropic ouvre (un peu) ses services à l’autohébergement",
       "link": "https://www.silicon.fr/data-ia-1372/anthropic-claude-managed-agents-autoheberge-230402",
       "date": "Mon, 16 Nov 2026 17:02:36 +0000",
@@ -61,38 +93,6 @@
       "title": "L’IA pousse Project Zero à remodeler sa politique de divulgation de vulnérabilités",
       "link": "https://www.silicon.fr/cybersecurite-1371/project-zero-politique-divulgation-2026-230384",
       "date": "Mon, 16 Nov 2026 14:32:51 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Emploi IT 2027 : la cybersécurité en tête des priorités",
-      "link": "https://www.silicon.fr/emploi-formation-1373/emploi-it-2027-la-cybersecurite-en-tete-des-priorites-230371",
-      "date": "Mon, 16 Nov 2026 12:43:54 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "En France aussi, l’aviation civile peine à moderniser ses systèmes",
-      "link": "https://www.silicon.fr/business-1367/aviation-civile-francaise-obsolescence-systemes-230351",
-      "date": "Mon, 16 Nov 2026 10:41:20 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Guillaume André prend du galon chez Nutanix",
-      "link": "https://www.silicon.fr/emploi-formation-1373/guillaume-andre-prend-du-galon-chez-nutanix-230374",
-      "date": "Mon, 16 Nov 2026 10:35:28 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Maileva : 22 millions de personnes concernées par une fuite de données",
-      "link": "https://www.silicon.fr/cybersecurite-1371/maileva-22-millions-de-personnes-concernees-par-une-fuite-de-donnees-230363",
-      "date": "Mon, 16 Nov 2026 10:01:41 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
