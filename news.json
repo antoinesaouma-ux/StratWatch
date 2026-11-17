@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-17T12:36:13.441502+00:00",
+  "updated": "2026-11-17T21:25:56.256131+00:00",
   "news": [
     {
-      "title": "Kindle : les réglages d’espacement qui rendent la lecture plus confortable",
-      "link": "https://www.zdnet.fr/pratique/cette-fonctionnalite-cachee-du-kindle-me-permet-de-lire-plus-vite-507727.htm#xtor=123456",
-      "date": "sam, 14 Nov 2026 14:02:17 +0100",
+      "title": "Android pratique : un outil peu connu qui facilite la lecture des petits textes",
+      "link": "https://www.zdnet.fr/pratique/android-pratique-un-outil-peu-connu-qui-facilite-la-lecture-des-petits-textes-507982.htm#xtor=123456",
+      "date": "mar, 17 Nov 2026 22:00:48 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Le DAS de 256 To de LaCie est une véritable bête de course, mais je ne le recommande qu’à un seul type d’utilisateur",
-      "link": "https://www.zdnet.fr/guide-achat/le-das-de-256-to-de-lacie-est-une-veritable-bete-de-course-mais-je-ne-le-recommande-qua-un-seul-type-dutilisateur-507720.htm#xtor=123456",
-      "date": "sam, 14 Nov 2026 09:00:13 +0100",
+      "title": "Premier avis Motorola Signature 27 : deux toutes nouvelles technologies sans fil dont l’intégration semble prématurée pour le  marché",
+      "link": "https://www.zdnet.fr/smartphone/premier-avis-motorola-signature-27-deux-toutes-nouvelles-technologies-sans-fil-dont-lintegration-semble-prematuree-pour-le-marche-507978.htm#xtor=123456",
+      "date": "mar, 17 Nov 2026 21:35:32 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,6 +50,38 @@
       "sources_count": 3
     },
     {
+      "title": "NIS 2 : une transposition à périmètre élargi",
+      "link": "https://www.silicon.fr/cybersecurite-1371/nis-2-transposition-entites-concerness-230470",
+      "date": "Tue, 17 Nov 2026 17:35:49 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "OVHcloud lance Olala mini 7A1B, son premier LLM",
+      "link": "https://www.silicon.fr/data-ia-1372/ovhcloud-lance-olala-mini-7a1b-son-premier-llm-230481",
+      "date": "Tue, 17 Nov 2026 17:06:08 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "ESN 2026 : liste du Top 50 en France",
+      "link": "https://www.silicon.fr/business-1367/esn-2026-liste-du-top-50-en-france-229822",
+      "date": "Tue, 17 Nov 2026 16:08:28 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Orange Ventures lève 250 millions € pour l’IA et la cybersécurité",
+      "link": "https://www.silicon.fr/business-1367/orange-ventures-leve-250-millions-e-pour-lia-et-la-cybersecurite-230452",
+      "date": "Tue, 17 Nov 2026 12:46:23 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
       "title": "Du PC au supercalculateur, le stockage hybride reprend des couleurs",
       "link": "https://www.silicon.fr/data-ia-1372/stockage-hybride-pc-supercalculateur-230425",
       "date": "Tue, 17 Nov 2026 11:04:32 +0000",
@@ -61,38 +93,6 @@
       "title": "La Californie attaque OpenAI après l’incident Hugging Face",
       "link": "https://www.silicon.fr/cybersecurite-1371/la-californie-attaque-openai-apres-lincident-hugging-face-230444",
       "date": "Tue, 17 Nov 2026 10:57:48 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Qluster lève 4,7 millions € pour un ordinateur quantique photonique",
-      "link": "https://www.silicon.fr/business-1367/qluster-leve-47-millions-e-pour-un-ordinateur-quantique-photonique-230429",
-      "date": "Tue, 17 Nov 2026 10:01:49 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "LVMH médias met ChatGPT dans les rédactions des Echos et du Parisien",
-      "link": "https://www.silicon.fr/business-1367/lvmh-medias-met-chatgpt-dans-les-redactions-des-echos-et-du-parisien-230424",
-      "date": "Tue, 17 Nov 2026 09:19:29 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Anthropic ouvre (un peu) ses services à l’autohébergement",
-      "link": "https://www.silicon.fr/data-ia-1372/anthropic-claude-managed-agents-autoheberge-230402",
-      "date": "Mon, 16 Nov 2026 17:02:36 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "L’IA pousse Project Zero à remodeler sa politique de divulgation de vulnérabilités",
-      "link": "https://www.silicon.fr/cybersecurite-1371/project-zero-politique-divulgation-2026-230384",
-      "date": "Mon, 16 Nov 2026 14:32:51 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
