@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-18T12:25:24.611271+00:00",
+  "updated": "2026-11-18T20:57:40.210895+00:00",
   "news": [
+    {
+      "title": "Test Microsoft Surface Laptop Ultra : cette machine préfigure un avenir sous Windows très très exclusif",
+      "link": "https://www.zdnet.fr/guide-achat/test-microsoft-surface-laptop-ultra-cette-machine-prefigure-un-avenir-sous-windows-tres-tres-exclusif-508072.htm#xtor=123456",
+      "date": "mer, 18 Nov 2026 19:57:32 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Pourquoi Nextcloud Office est ma nouvelle suite bureautique gratuite préférée",
       "link": "https://www.zdnet.fr/guide-achat/pourquoi-nextcloud-office-est-ma-nouvelle-suite-bureautique-gratuite-preferee-508103.htm#xtor=123456",
@@ -42,10 +50,34 @@
       "sources_count": 3
     },
     {
-      "title": "Coder avec une IA locale gratuite : Qwen, Ollama et OpenCode peuvent-ils remplacer Claude Code ?",
-      "link": "https://www.zdnet.fr/pratique/coder-avec-une-ia-locale-gratuite-qwen-ollama-et-opencode-peuvent-ils-remplacer-claude-code-507785.htm#xtor=123456",
-      "date": "dim, 15 Nov 2026 14:01:57 +0100",
-      "source": "ZDNet FR",
+      "title": "CNIL : Macif Vie écope de 5 millions € d’amende pour ses manquements cyber",
+      "link": "https://www.silicon.fr/data-ia-1372/cnil-macif-vie-ecope-de-5-millions-e-damende-pour-ses-manquements-cyber-230514",
+      "date": "Wed, 18 Nov 2026 14:38:53 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Employeurs IT de l’année 2026 : Airbus, Intel et Mozilla en tête",
+      "link": "https://www.silicon.fr/emploi-formation-1373/employeurs-it-de-lannee-2026-airbus-intel-et-mozilla-en-tete-230502",
+      "date": "Wed, 18 Nov 2026 13:56:24 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Face à Claude et ChatGPT, Office devient un argument pour Copilot",
+      "link": "https://www.silicon.fr/uncategorized/microsoft-copilot-ignite-2026-230497",
+      "date": "Wed, 18 Nov 2026 13:34:32 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Risque fournisseurs cyber : le déclaratif atteint ses limites",
+      "link": "https://www.silicon.fr/cybersecurite-1371/risque-fournisseurs-cyber-le-declaratif-atteint-ses-limites-230496",
+      "date": "Wed, 18 Nov 2026 12:25:09 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -61,38 +93,6 @@
       "title": "OVHcloud lance Olala mini 7A1B, son premier LLM",
       "link": "https://www.silicon.fr/data-ia-1372/ovhcloud-lance-olala-mini-7a1b-son-premier-llm-230481",
       "date": "Tue, 17 Nov 2026 17:06:08 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "ESN 2026 : liste du Top 50 en France",
-      "link": "https://www.silicon.fr/business-1367/esn-2026-liste-du-top-50-en-france-229822",
-      "date": "Tue, 17 Nov 2026 16:08:28 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Orange Ventures lève 250 millions € pour l’IA et la cybersécurité",
-      "link": "https://www.silicon.fr/business-1367/orange-ventures-leve-250-millions-e-pour-lia-et-la-cybersecurite-230452",
-      "date": "Tue, 17 Nov 2026 12:46:23 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Du PC au supercalculateur, le stockage hybride reprend des couleurs",
-      "link": "https://www.silicon.fr/data-ia-1372/stockage-hybride-pc-supercalculateur-230425",
-      "date": "Tue, 17 Nov 2026 11:04:32 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "La Californie attaque OpenAI après l’incident Hugging Face",
-      "link": "https://www.silicon.fr/cybersecurite-1371/la-californie-attaque-openai-apres-lincident-hugging-face-230444",
-      "date": "Tue, 17 Nov 2026 10:57:48 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
