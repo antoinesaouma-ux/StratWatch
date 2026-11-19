@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-18T20:57:40.210895+00:00",
+  "updated": "2026-11-19T02:13:24.364114+00:00",
   "news": [
+    {
+      "title": "IA pratique : demandez à Gemini Notebook de vous créer un site Web à partir de vos notes",
+      "link": "https://www.zdnet.fr/pratique/ia-pratique-demandez-a-gemini-notebook-de-vous-creer-un-site-web-a-partir-de-vos-notes-508075.htm#xtor=123456",
+      "date": "mer, 18 Nov 2026 22:00:01 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test Microsoft Surface Laptop Ultra : cette machine préfigure un avenir sous Windows très très exclusif",
       "link": "https://www.zdnet.fr/guide-achat/test-microsoft-surface-laptop-ultra-cette-machine-prefigure-un-avenir-sous-windows-tres-tres-exclusif-508072.htm#xtor=123456",
@@ -37,14 +45,6 @@
       "title": "Énergie pratique : comment alimenter votre routeur Wi-Fi en cas de coupure de courant… grâce à un accessoire que vous possédez certainement déjà",
       "link": "https://www.zdnet.fr/pratique/energie-pratique-comment-alimenter-votre-routeur-wi-fi-en-cas-de-coupure-de-courant-grace-a-un-accessoire-que-vous-possedez-certainement-deja-507852.htm#xtor=123456",
       "date": "lun, 16 Nov 2026 22:00:21 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Android pratique : utilisez le mode réparation ou maintenance… mais avec certains smartphones",
-      "link": "https://www.zdnet.fr/pratique/android-pratique-utilisez-le-mode-reparation-ou-maintenance-mais-avec-certains-smartphones-507846.htm#xtor=123456",
-      "date": "lun, 16 Nov 2026 18:06:54 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
