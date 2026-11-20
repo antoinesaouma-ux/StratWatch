@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-20T09:21:02.786959+00:00",
+  "updated": "2026-11-20T18:05:26.687349+00:00",
   "news": [
+    {
+      "title": "Vous en avez assez de l'IA dans Canva ? Vous pouvez la désactiver dès maintenant",
+      "link": "https://www.zdnet.fr/pratique/vous-en-avez-assez-de-lia-dans-canva-vous-pouvez-la-desactiver-des-maintenant-508302.htm#xtor=123456",
+      "date": "ven, 20 Nov 2026 12:45:36 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "IA pratique : demandez à Gemini Notebook de vous créer un site Web à partir de vos notes",
       "link": "https://www.zdnet.fr/pratique/ia-pratique-demandez-a-gemini-notebook-de-vous-creer-un-site-web-a-partir-de-vos-notes-508075.htm#xtor=123456",
@@ -26,14 +34,6 @@
       "sources_count": 3
     },
     {
-      "title": "Android pratique : un outil peu connu qui facilite la lecture des petits textes",
-      "link": "https://www.zdnet.fr/pratique/android-pratique-un-outil-peu-connu-qui-facilite-la-lecture-des-petits-textes-507982.htm#xtor=123456",
-      "date": "mar, 17 Nov 2026 22:00:48 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "Point tech : voici pourquoi vos câbles USB-C se ressemblent mais fonctionnent différemment",
       "link": "https://www.zdnet.fr/pratique/point-tech-voici-pourquoi-vos-cables-usb-c-se-ressemblent-mais-fonctionnent-differemment-508127.htm#xtor=123456",
       "date": "jeu, 19 Nov 2026 22:00:59 +0100",
@@ -50,49 +50,49 @@
       "sources_count": 3
     },
     {
-      "title": "CNIL : Macif Vie écope de 5 millions € d’amende pour ses manquements cyber",
-      "link": "https://www.silicon.fr/data-ia-1372/cnil-macif-vie-ecope-de-5-millions-e-damende-pour-ses-manquements-cyber-230514",
-      "date": "Wed, 18 Nov 2026 14:38:53 +0000",
+      "title": "Le déploiement de Matrix à la Commission européenne prend corps",
+      "link": "https://www.silicon.fr/workspace-1376/matrix-element-commission-europeenne-230604",
+      "date": "Fri, 20 Nov 2026 16:39:06 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Employeurs IT de l’année 2026 : Airbus, Intel et Mozilla en tête",
-      "link": "https://www.silicon.fr/emploi-formation-1373/employeurs-it-de-lannee-2026-airbus-intel-et-mozilla-en-tete-230502",
-      "date": "Wed, 18 Nov 2026 13:56:24 +0000",
+      "title": "Mistral installe son siège Asie-Pacifique à Singapour",
+      "link": "https://www.silicon.fr/business-1367/mistral-installe-son-siege-asie-pacifique-a-singapour-230607",
+      "date": "Fri, 20 Nov 2026 15:23:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Présidentielle 2027 : Numeum met cinq propositions sur la table",
-      "link": "https://www.silicon.fr/business-1367/presidentielle-2027-numeum-met-cinq-propositions-sur-la-table-230545",
-      "date": "Thu, 19 Nov 2026 17:50:34 +0000",
+      "title": "Dépendances numériques : cartographier ne suffit plus, il faut éprouver sa capacité d’action",
+      "link": "https://www.silicon.fr/uncategorized/dependances-numeriques-cartographier-ne-suffit-plus-il-faut-eprouver-sa-capacite-daction-230599",
+      "date": "Fri, 20 Nov 2026 15:04:55 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Palo Alto mise 4,5 milliards $ sur Applied Compute",
-      "link": "https://www.silicon.fr/business-1367/palo-alto-mise-45-milliards-sur-applied-compute-230541",
-      "date": "Thu, 19 Nov 2026 13:42:58 +0000",
+      "title": "Windows Server 2028, entre ouverture et durcissement",
+      "link": "https://www.silicon.fr/cloud-1370/windows-server-2028-230571",
+      "date": "Fri, 20 Nov 2026 14:05:16 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Anthropic en Bourse : ce qu’il faut savoir d’une IPO hors norme",
-      "link": "https://www.silicon.fr/business-1367/anthropic-en-bourse-ce-quil-faut-savoir-dune-ipo-hors-norme-230539",
-      "date": "Thu, 19 Nov 2026 09:42:51 +0000",
+      "title": "Signal bride les assistants IA des smartphones pour protéger ses messages",
+      "link": "https://www.silicon.fr/cybersecurite-1371/signal-bride-les-assistants-ia-des-smartphones-pour-proteger-ses-messages-230568",
+      "date": "Fri, 20 Nov 2026 12:38:39 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Comment Microsoft calcule la « valeur métier » de Copilot Cowork",
-      "link": "https://www.silicon.fr/data-ia-1372/copilot-cowork-valeur-metier-230518",
-      "date": "Thu, 19 Nov 2026 05:41:50 +0000",
+      "title": "Les chiffres fous de l’IPO d’Anthropic",
+      "link": "https://www.silicon.fr/business-1367/les-chiffres-fous-de-lipo-danthropic-230561",
+      "date": "Fri, 20 Nov 2026 11:49:05 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
