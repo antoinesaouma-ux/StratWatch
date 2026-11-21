@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T18:05:26.687349+00:00",
+  "updated": "2026-11-21T00:26:03.209082+00:00",
   "news": [
+    {
+      "title": "Android pratique : l’appli Essentials vous donne accès à plus de 30 fonctionnalités supplémentaires",
+      "link": "https://www.zdnet.fr/pratique/android-pratique-lappli-essentials-vous-donne-acces-a-plus-de-30-fonctionnalites-supplementaires-508358.htm#xtor=123456",
+      "date": "ven, 20 Nov 2026 22:00:52 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test Treedix USB Cable Tester : le plein d’infos",
+      "link": "https://www.zdnet.fr/guide-achat/test-treedix-usb-cable-tester-le-plein-dinfos-508260.htm#xtor=123456",
+      "date": "ven, 20 Nov 2026 18:21:35 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Vous en avez assez de l'IA dans Canva ? Vous pouvez la désactiver dès maintenant",
       "link": "https://www.zdnet.fr/pratique/vous-en-avez-assez-de-lia-dans-canva-vous-pouvez-la-desactiver-des-maintenant-508302.htm#xtor=123456",
@@ -13,22 +29,6 @@
       "title": "IA pratique : demandez à Gemini Notebook de vous créer un site Web à partir de vos notes",
       "link": "https://www.zdnet.fr/pratique/ia-pratique-demandez-a-gemini-notebook-de-vous-creer-un-site-web-a-partir-de-vos-notes-508075.htm#xtor=123456",
       "date": "mer, 18 Nov 2026 22:00:01 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test Microsoft Surface Laptop Ultra : cette machine préfigure un avenir sous Windows très très exclusif",
-      "link": "https://www.zdnet.fr/guide-achat/test-microsoft-surface-laptop-ultra-cette-machine-prefigure-un-avenir-sous-windows-tres-tres-exclusif-508072.htm#xtor=123456",
-      "date": "mer, 18 Nov 2026 19:57:32 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Pourquoi Nextcloud Office est ma nouvelle suite bureautique gratuite préférée",
-      "link": "https://www.zdnet.fr/guide-achat/pourquoi-nextcloud-office-est-ma-nouvelle-suite-bureautique-gratuite-preferee-508103.htm#xtor=123456",
-      "date": "mer, 18 Nov 2026 11:00:32 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
