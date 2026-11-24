@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-24T11:45:22.770947+00:00",
+  "updated": "2026-11-24T21:39:58.160837+00:00",
   "news": [
+    {
+      "title": "Android pratique : la nouvelle version de l’appli Météo des Pixel vous permet de signaler des conditions différentes dans votre région",
+      "link": "https://www.zdnet.fr/pratique/android-pratique-la-nouvelle-version-de-lappli-meteo-des-pixel-vous-permet-de-signaler-des-conditions-differentes-dans-votre-region-508462.htm#xtor=123456",
+      "date": "mar, 24 Nov 2026 22:00:50 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Énergie pratique : voici la donnée à vérifier lorsqu’il s’agit de la durée de vie d’une centrale électrique",
+      "link": "https://www.zdnet.fr/pratique/energie-pratique-voici-la-donnee-a-verifier-lorsquil-sagit-de-la-duree-de-vie-dune-centrale-electrique-508459.htm#xtor=123456",
+      "date": "mar, 24 Nov 2026 19:45:47 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "eSIM Égypte : quelle solution choisir pour rester connecté en voyage ?",
+      "link": "https://www.zdnet.fr/guide-achat/esim-egypte-quelle-solution-choisir-pour-rester-connecte-en-voyage-497759.htm#xtor=123456",
+      "date": "mar, 24 Nov 2026 14:30:31 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "J'utilise WordCraft, ce clone de MS Word, depuis un mois, et je l'apprécie encore plus maintenant",
+      "link": "https://www.zdnet.fr/guide-achat/jutilise-wordcraft-ce-clone-de-ms-word-depuis-un-mois-et-je-lapprecie-encore-plus-maintenant-508501.htm#xtor=123456",
+      "date": "mar, 24 Nov 2026 13:45:38 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Web pratique : six paramètres de Chrome à choisir pour améliorer sa navigation",
       "link": "https://www.zdnet.fr/pratique/web-pratique-six-parametres-de-chrome-a-choisir-pour-ameliorer-sa-navigation-508389.htm#xtor=123456",
@@ -13,38 +45,6 @@
       "title": "Test Ugreen Magflow Pro : ce chargeur 3-en-1 dédié aux utilisateurs d’Apple limite la chaleur dégagée",
       "link": "https://www.zdnet.fr/guide-achat/test-ugreen-magflow-pro-ce-chargeur-3-en-1-dedie-aux-utilisateurs-dapple-limite-la-chaleur-degagee-508393.htm#xtor=123456",
       "date": "lun, 23 Nov 2026 18:05:56 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "eSIM pour le Maroc : quelle offre choisir pour rester connecté en voyage ?",
-      "link": "https://www.zdnet.fr/guide-achat/esim-pour-le-maroc-quelle-offre-choisir-pour-rester-connecte-en-voyage-497756.htm#xtor=123456",
-      "date": "lun, 23 Nov 2026 14:30:42 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Flipper Zero contre Flipper One : pourquoi le nouveau modèle n'est pas une mise à jour",
-      "link": "https://www.zdnet.fr/guide-achat/flipper-zero-contre-flipper-one-pourquoi-le-nouveau-modele-nest-pas-une-mise-a-jour-508421.htm#xtor=123456",
-      "date": "lun, 23 Nov 2026 11:30:23 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Quels sont les meilleurs ordinateurs portables « haut de gamme à petit prix » de 2026 ? Le choix se résume à ces 3 modèles",
-      "link": "https://www.zdnet.fr/guide-achat/quels-sont-les-meilleurs-ordinateurs-portables-haut-de-gamme-a-petit-prix-de-2026-le-choix-se-resume-a-ces-3-modeles-508371.htm#xtor=123456",
-      "date": "dim, 22 Nov 2026 14:58:26 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Jeux rétro : 3 façons d’y rejouer sans sortir la vieille console du placard",
-      "link": "https://www.zdnet.fr/pratique/jeux-retro-3-facons-dy-rejouer-sans-sortir-la-vieille-console-du-placard-508249.htm#xtor=123456",
-      "date": "dim, 22 Nov 2026 14:01:05 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
