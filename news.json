@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-25T04:39:53.623773+00:00",
+  "updated": "2026-11-25T15:06:02.588271+00:00",
   "news": [
+    {
+      "title": "Comment télécharger GTA VI plus rapidement, 4 astuces pour accélérer le téléchargement",
+      "link": "https://www.zdnet.fr/pratique/comment-telecharger-gta-vi-plus-rapidement-4-astuces-pour-accelerer-le-telechargement-508611.htm#xtor=123456",
+      "date": "mer, 25 Nov 2026 14:47:38 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "4 alternatives à l'application Microsoft To Do à essayer avant sa fermeture en 2027",
+      "link": "https://www.zdnet.fr/guide-achat/4-alternatives-a-lapplication-microsoft-to-do-a-essayer-avant-sa-fermeture-en-2027-508607.htm#xtor=123456",
+      "date": "mer, 25 Nov 2026 14:30:12 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "WordPress et Black Friday : comment préparer et tester ses mises à jour sans risque ?",
+      "link": "https://www.zdnet.fr/guide-achat/wordpress-et-black-friday-comment-preparer-et-tester-ses-mises-a-jour-sans-risque-506555.htm#xtor=123456",
+      "date": "mer, 25 Nov 2026 14:30:06 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Android pratique : la nouvelle version de l’appli Météo des Pixel vous permet de signaler des conditions différentes dans votre région",
       "link": "https://www.zdnet.fr/pratique/android-pratique-la-nouvelle-version-de-lappli-meteo-des-pixel-vous-permet-de-signaler-des-conditions-differentes-dans-votre-region-508462.htm#xtor=123456",
@@ -26,73 +50,49 @@
       "sources_count": 3
     },
     {
-      "title": "J'utilise WordCraft, ce clone de MS Word, depuis un mois, et je l'apprécie encore plus maintenant",
-      "link": "https://www.zdnet.fr/guide-achat/jutilise-wordcraft-ce-clone-de-ms-word-depuis-un-mois-et-je-lapprecie-encore-plus-maintenant-508501.htm#xtor=123456",
-      "date": "mar, 24 Nov 2026 13:45:38 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Web pratique : six paramètres de Chrome à choisir pour améliorer sa navigation",
-      "link": "https://www.zdnet.fr/pratique/web-pratique-six-parametres-de-chrome-a-choisir-pour-ameliorer-sa-navigation-508389.htm#xtor=123456",
-      "date": "lun, 23 Nov 2026 22:05:54 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Test Ugreen Magflow Pro : ce chargeur 3-en-1 dédié aux utilisateurs d’Apple limite la chaleur dégagée",
-      "link": "https://www.zdnet.fr/guide-achat/test-ugreen-magflow-pro-ce-chargeur-3-en-1-dedie-aux-utilisateurs-dapple-limite-la-chaleur-degagee-508393.htm#xtor=123456",
-      "date": "lun, 23 Nov 2026 18:05:56 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Le déploiement de Matrix à la Commission européenne prend corps",
-      "link": "https://www.silicon.fr/workspace-1376/matrix-element-commission-europeenne-230604",
-      "date": "Fri, 20 Nov 2026 16:39:06 +0000",
+      "title": "Microsoft lance un « Code Red » après la panne majeure de Microsoft 365",
+      "link": "https://www.silicon.fr/cybersecurite-1371/microsoft-lance-un-code-red-apres-la-panne-majeure-de-microsoft-365-230670",
+      "date": "Wed, 25 Nov 2026 14:22:29 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Mistral installe son siège Asie-Pacifique à Singapour",
-      "link": "https://www.silicon.fr/business-1367/mistral-installe-son-siege-asie-pacifique-a-singapour-230607",
-      "date": "Fri, 20 Nov 2026 15:23:42 +0000",
+      "title": "NetMedia Group lance The Makers, une nouvelle offre fondée sur ses communautés propriétaires",
+      "link": "https://www.silicon.fr/business-1367/netmedia-group-lance-the-makers-une-nouvelle-offre-fondee-sur-ses-communautes-proprietaires-230661",
+      "date": "Wed, 25 Nov 2026 14:12:17 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Dépendances numériques : cartographier ne suffit plus, il faut éprouver sa capacité d’action",
-      "link": "https://www.silicon.fr/uncategorized/dependances-numeriques-cartographier-ne-suffit-plus-il-faut-eprouver-sa-capacite-daction-230599",
-      "date": "Fri, 20 Nov 2026 15:04:55 +0000",
+      "title": "Dépendances cyber : la souveraineté s’invite dans les stratégies, pas encore dans les outils",
+      "link": "https://www.silicon.fr/cybersecurite-1371/dependances-cyber-la-souverainete-sinvite-dans-les-strategies-pas-encore-dans-les-outils-230666",
+      "date": "Wed, 25 Nov 2026 13:56:23 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Windows Server 2028, entre ouverture et durcissement",
-      "link": "https://www.silicon.fr/cloud-1370/windows-server-2028-230571",
-      "date": "Fri, 20 Nov 2026 14:05:16 +0000",
+      "title": "Comment Jensen Huang a repris les clés de Nvidia",
+      "link": "https://www.silicon.fr/business-1367/comment-jensen-huang-a-repris-les-cles-de-nvidia-230664",
+      "date": "Wed, 25 Nov 2026 13:04:56 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Signal bride les assistants IA des smartphones pour protéger ses messages",
-      "link": "https://www.silicon.fr/cybersecurite-1371/signal-bride-les-assistants-ia-des-smartphones-pour-proteger-ses-messages-230568",
-      "date": "Fri, 20 Nov 2026 12:38:39 +0000",
+      "title": "L’IA augmente l’individu, mais pas l’organisation",
+      "link": "https://www.silicon.fr/data-ia-1372/lia-augmente-lindividu-mais-pas-lorganisation-230656",
+      "date": "Wed, 25 Nov 2026 12:01:20 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Les chiffres fous de l’IPO d’Anthropic",
-      "link": "https://www.silicon.fr/business-1367/les-chiffres-fous-de-lipo-danthropic-230561",
-      "date": "Fri, 20 Nov 2026 11:49:05 +0000",
+      "title": "Cybersécurité des collectivités : la CNIL prononce dix amendes",
+      "link": "https://www.silicon.fr/cybersecurite-1371/cybersecurite-des-collectivites-la-cnil-prononce-dix-amendes-230645",
+      "date": "Wed, 25 Nov 2026 10:11:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
