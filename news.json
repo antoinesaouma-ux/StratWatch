@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T15:06:02.588271+00:00",
+  "updated": "2026-11-25T23:51:38.420840+00:00",
   "news": [
+    {
+      "title": "Test ExpressVPN Fortify : une protection rapide dans toute la maison",
+      "link": "https://www.zdnet.fr/guide-achat/test-expressvpn-fortify-une-protection-rapide-dans-toute-la-maison-508570.htm#xtor=123456",
+      "date": "mer, 25 Nov 2026 22:00:48 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Web pratique : Ladybird est déjà très prometteur pour un tout nouveau navigateur",
+      "link": "https://www.zdnet.fr/pratique/web-pratique-ladybird-est-deja-tres-prometteur-pour-un-tout-nouveau-navigateur-508573.htm#xtor=123456",
+      "date": "mer, 25 Nov 2026 18:30:44 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Comment télécharger GTA VI plus rapidement, 4 astuces pour accélérer le téléchargement",
       "link": "https://www.zdnet.fr/pratique/comment-telecharger-gta-vi-plus-rapidement-4-astuces-pour-accelerer-le-telechargement-508611.htm#xtor=123456",
@@ -34,18 +50,10 @@
       "sources_count": 3
     },
     {
-      "title": "Énergie pratique : voici la donnée à vérifier lorsqu’il s’agit de la durée de vie d’une centrale électrique",
-      "link": "https://www.zdnet.fr/pratique/energie-pratique-voici-la-donnee-a-verifier-lorsquil-sagit-de-la-duree-de-vie-dune-centrale-electrique-508459.htm#xtor=123456",
-      "date": "mar, 24 Nov 2026 19:45:47 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "eSIM Égypte : quelle solution choisir pour rester connecté en voyage ?",
-      "link": "https://www.zdnet.fr/guide-achat/esim-egypte-quelle-solution-choisir-pour-rester-connecte-en-voyage-497759.htm#xtor=123456",
-      "date": "mar, 24 Nov 2026 14:30:31 +0100",
-      "source": "ZDNet FR",
+      "title": "Pourquoi CrowdStrike casse sa tirelire pour Zscaler",
+      "link": "https://www.silicon.fr/business-1367/pourquoi-crowdstrike-casse-sa-tirelire-pour-zscaler-230674",
+      "date": "Wed, 25 Nov 2026 18:18:04 +0000",
+      "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
@@ -85,14 +93,6 @@
       "title": "L’IA augmente l’individu, mais pas l’organisation",
       "link": "https://www.silicon.fr/data-ia-1372/lia-augmente-lindividu-mais-pas-lorganisation-230656",
       "date": "Wed, 25 Nov 2026 12:01:20 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Cybersécurité des collectivités : la CNIL prononce dix amendes",
-      "link": "https://www.silicon.fr/cybersecurite-1371/cybersecurite-des-collectivites-la-cnil-prononce-dix-amendes-230645",
-      "date": "Wed, 25 Nov 2026 10:11:42 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
