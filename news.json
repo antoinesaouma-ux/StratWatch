@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T09:13:35.714638+00:00",
+  "updated": "2026-11-27T19:14:08.380372+00:00",
   "news": [
+    {
+      "title": "Linux pratique : essayez cette distribution légère KaOS Linux 2026.11",
+      "link": "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-legere-kaos-linux-2026-11-508763.htm#xtor=123456",
+      "date": "ven, 27 Nov 2026 18:33:43 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Avis Ubigi 2026 : la meilleure eSIM de voyage ? Notre avis complet",
+      "link": "https://www.zdnet.fr/guide-achat/avis-ubigi-2026-la-meilleure-esim-de-voyage-notre-avis-complet-505601.htm#xtor=123456",
+      "date": "ven, 27 Nov 2026 14:30:15 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Test ExpressVPN Fortify : une protection rapide dans toute la maison",
       "link": "https://www.zdnet.fr/guide-achat/test-expressvpn-fortify-une-protection-rapide-dans-toute-la-maison-508570.htm#xtor=123456",
@@ -13,22 +29,6 @@
       "title": "Web pratique : Ladybird est déjà très prometteur pour un tout nouveau navigateur",
       "link": "https://www.zdnet.fr/pratique/web-pratique-ladybird-est-deja-tres-prometteur-pour-un-tout-nouveau-navigateur-508573.htm#xtor=123456",
       "date": "mer, 25 Nov 2026 18:30:44 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Comment télécharger GTA VI plus rapidement, 4 astuces pour accélérer le téléchargement",
-      "link": "https://www.zdnet.fr/pratique/comment-telecharger-gta-vi-plus-rapidement-4-astuces-pour-accelerer-le-telechargement-508611.htm#xtor=123456",
-      "date": "mer, 25 Nov 2026 14:47:38 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "4 alternatives à l'application Microsoft To Do à essayer avant sa fermeture en 2027",
-      "link": "https://www.zdnet.fr/guide-achat/4-alternatives-a-lapplication-microsoft-to-do-a-essayer-avant-sa-fermeture-en-2027-508607.htm#xtor=123456",
-      "date": "mer, 25 Nov 2026 14:30:12 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -50,22 +50,6 @@
       "sources_count": 3
     },
     {
-      "title": "Pourquoi CrowdStrike casse sa tirelire pour Zscaler",
-      "link": "https://www.silicon.fr/business-1367/pourquoi-crowdstrike-casse-sa-tirelire-pour-zscaler-230674",
-      "date": "Wed, 25 Nov 2026 18:18:04 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Microsoft lance un « Code Red » après la panne majeure de Microsoft 365",
-      "link": "https://www.silicon.fr/cybersecurite-1371/microsoft-lance-un-code-red-apres-la-panne-majeure-de-microsoft-365-230670",
-      "date": "Wed, 25 Nov 2026 14:22:29 +0000",
-      "source": "Silicon.fr",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
       "title": "L’IA redistribue les cartes entre éditeurs de logiciels et cabinets de conseil",
       "link": "https://www.silicon.fr/business-1367/lia-redistribue-les-cartes-entre-editeurs-de-logiciels-et-cabinets-de-conseil-230700",
       "date": "Thu, 26 Nov 2026 15:04:40 +0000",
@@ -74,25 +58,41 @@
       "sources_count": 3
     },
     {
-      "title": "Datacenters dans l’espace : la FCC autorise SpaceX à déployer un million de satellites",
-      "link": "https://www.silicon.fr/business-1367/datacenters-dans-lespace-la-fcc-autorise-spacex-a-deployer-un-million-de-satellites-230695",
-      "date": "Thu, 26 Nov 2026 13:11:41 +0000",
+      "title": "SAP piraté : GitHub au cœur d’un incident de sécurité",
+      "link": "https://www.silicon.fr/cybersecurite-1371/sap-pirate-github-au-coeur-dun-incident-de-securite-230722",
+      "date": "Fri, 27 Nov 2026 15:02:20 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "La Poste signe son premier accord social dédié à l’IA",
-      "link": "https://www.silicon.fr/emploi-formation-1373/la-poste-signe-son-premier-accord-social-dedie-a-lia-230689",
-      "date": "Thu, 26 Nov 2026 11:33:45 +0000",
+      "title": "Cybersécurité : les petites communes sont plus lucides mais peu outillées",
+      "link": "https://www.silicon.fr/cybersecurite-1371/cybersecurite-les-petites-communes-sont-plus-lucides-mais-peu-outillees-230719",
+      "date": "Fri, 27 Nov 2026 13:48:20 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
     },
     {
-      "title": "Cyberattaque chez Inmac Wstore : le site est fermé, les commandes et les livraisons sont perturbées",
-      "link": "https://www.silicon.fr/cybersecurite-1371/cyberattaque-chez-inmac-wstore-le-site-est-ferme-les-commandes-et-les-livraisons-sont-perturbees-230685",
-      "date": "Thu, 26 Nov 2026 11:07:47 +0000",
+      "title": "L’IA générative récompense ceux qui osent se réorganiser",
+      "link": "https://www.silicon.fr/data-ia-1372/lia-generative-recompense-ceux-qui-osent-se-reorganiser-230714",
+      "date": "Fri, 27 Nov 2026 12:00:39 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Numérique de l’État : la DITSP absorbe une partie de la DINUM",
+      "link": "https://www.silicon.fr/business-1367/numerique-de-letat-la-ditsp-absorbe-une-partie-de-la-dinum-230712",
+      "date": "Fri, 27 Nov 2026 11:34:29 +0000",
+      "source": "Silicon.fr",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Entrepôts de données de santé : la Cour des comptes pointe un déploiement sans stratégie claire",
+      "link": "https://www.silicon.fr/uncategorized/entrepots-de-donnees-de-sante-la-cour-des-comptes-pointe-un-deploiement-sans-strategie-claire-230710",
+      "date": "Fri, 27 Nov 2026 09:54:08 +0000",
       "source": "Silicon.fr",
       "fiabilite": "élevée",
       "sources_count": 3
