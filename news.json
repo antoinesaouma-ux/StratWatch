@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-27T19:14:08.380372+00:00",
+  "updated": "2026-11-28T02:19:55.239617+00:00",
   "news": [
+    {
+      "title": "Test Pebble Index 01 : une bague pour prendre des notes à l’aide d’IA",
+      "link": "https://www.zdnet.fr/guide-achat/test-pebble-index-01-une-bague-pour-prendre-des-notes-a-laide-dia-508766.htm#xtor=123456",
+      "date": "ven, 27 Nov 2026 22:00:33 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
     {
       "title": "Linux pratique : essayez cette distribution légère KaOS Linux 2026.11",
       "link": "https://www.zdnet.fr/pratique/linux-pratique-essayez-cette-distribution-legere-kaos-linux-2026-11-508763.htm#xtor=123456",
@@ -21,14 +29,6 @@
       "title": "Test ExpressVPN Fortify : une protection rapide dans toute la maison",
       "link": "https://www.zdnet.fr/guide-achat/test-expressvpn-fortify-une-protection-rapide-dans-toute-la-maison-508570.htm#xtor=123456",
       "date": "mer, 25 Nov 2026 22:00:48 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "Web pratique : Ladybird est déjà très prometteur pour un tout nouveau navigateur",
-      "link": "https://www.zdnet.fr/pratique/web-pratique-ladybird-est-deja-tres-prometteur-pour-un-tout-nouveau-navigateur-508573.htm#xtor=123456",
-      "date": "mer, 25 Nov 2026 18:30:44 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
