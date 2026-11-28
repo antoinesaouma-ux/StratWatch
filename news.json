@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T02:19:55.239617+00:00",
+  "updated": "2026-11-28T11:02:46.473945+00:00",
   "news": [
     {
       "title": "Test Pebble Index 01 : une bague pour prendre des notes à l’aide d’IA",
@@ -26,9 +26,17 @@
       "sources_count": 3
     },
     {
-      "title": "Test ExpressVPN Fortify : une protection rapide dans toute la maison",
-      "link": "https://www.zdnet.fr/guide-achat/test-expressvpn-fortify-une-protection-rapide-dans-toute-la-maison-508570.htm#xtor=123456",
-      "date": "mer, 25 Nov 2026 22:00:48 +0100",
+      "title": "J'ai testé Claude Sheets sur trois tâches, et ça m'a permis de gagner des heures de travail, en seulement 10 minutes",
+      "link": "https://www.zdnet.fr/pratique/jai-teste-claude-sheets-sur-trois-taches-et-ca-ma-permis-de-gagner-des-heures-de-travail-en-seulement-10-minutes-508834.htm#xtor=123456",
+      "date": "sam, 28 Nov 2026 10:24:49 +0100",
+      "source": "ZDNet FR",
+      "fiabilite": "élevée",
+      "sources_count": 3
+    },
+    {
+      "title": "Test de l'iPad Mini (2026) : l'écran OLED est superbe, mais une autre fonction m'a conquis",
+      "link": "https://www.zdnet.fr/guide-achat/test-de-lipad-mini-2026-lecran-oled-est-grand-mais-cest-une-autre-fonctionnalite-qui-ma-convaincu-508670.htm#xtor=123456",
+      "date": "sam, 28 Nov 2026 09:01:04 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
@@ -37,14 +45,6 @@
       "title": "Test Uppercase GhostCover : une protection fine pour votre MacBook Pro",
       "link": "https://www.zdnet.fr/guide-achat/test-uppercase-ghostcover-une-protection-fine-pour-votre-macbook-pro-508648.htm#xtor=123456",
       "date": "jeu, 26 Nov 2026 22:00:25 +0100",
-      "source": "ZDNet FR",
-      "fiabilite": "élevée",
-      "sources_count": 3
-    },
-    {
-      "title": "PC pratique : installez Bloatynosy pour supprimer de Windows 11 bloatwares en tout genre, pubs, fonctionnalités IA, …",
-      "link": "https://www.zdnet.fr/pratique/pc-pratique-installez-bloatynosy-pour-supprimer-de-windows-11-bloatwares-en-tout-genre-pubs-fonctionnalites-ia-508645.htm#xtor=123456",
-      "date": "jeu, 26 Nov 2026 18:30:22 +0100",
       "source": "ZDNet FR",
       "fiabilite": "élevée",
       "sources_count": 3
